@@ -1,0 +1,3 @@
+0.11118019681
+flashcore	@	107
+String Metal	@	96

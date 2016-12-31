@@ -1,0 +1,538 @@
+Nine Days
+
+	rock
+	alternative rock
+	alternative
+	pop rock
+	pop
+Disturbed
+
+	metal
+	Nu Metal
+	hard rock
+	rock
+	alternative
+Helloween
+
+	Power metal
+	heavy metal
+	speed metal
+	metal
+	german
+Epica
+
+	symphonic metal
+	Gothic Metal
+	Female fronted metal
+	metal
+	female vocalists
+Disturbed⹳
+
+Blind Guardian
+
+	Power metal
+	speed metal
+	metal
+	heavy metal
+	symphonic metal
+Megadeth
+
+	thrash metal
+	heavy metal
+	metal
+	speed metal
+	seen live
+Panic! at the Disco
+
+	rock
+	alternative
+	emo
+	pop punk
+	indie
+Black Sabbath
+
+	heavy metal
+	hard rock
+	classic rock
+	metal
+	rock
+My Chemical Romance
+
+	rock
+	emo
+	alternative
+	punk rock
+	punk
+Sonata Arctica
+
+	Power metal
+	metal
+	melodic metal
+	finnish
+	symphonic metal
+Bob Acri
+
+	jazz
+	piano
+	Smooth Jazz
+	acri
+	bob acri
+Joachim Witt
+
+	darkwave
+	german
+	Gothic
+	NDW
+	rock
+System of a Down
+
+	metal
+	alternative metal
+	rock
+	Nu Metal
+	alternative
+Alice In Chains & Metallica
+
+タニウチヒデキ
+
+	Soundtrack
+	japanese
+	instrumental
+	anime
+	composer
+Arwen
+
+	Power metal
+	symphonic metal
+	Progressive metal
+	metal
+	spanish
+Say Anything
+
+	seen live
+	indie
+	alternative
+	rock
+	emo
+Red Wine
+
+	Power metal
+	heavy metal
+	spanish
+	metal
+	nightwish
+Scars on Broadway
+
+	alternative rock
+	alternative metal
+	rock
+	alternative
+	metal
+Luca Turilli
+
+	Power metal
+	symphonic metal
+	epic metal
+	metal
+	fantasy metal
+Metallica
+
+	thrash metal
+	metal
+	heavy metal
+	hard rock
+	rock
+Korn
+
+	Nu Metal
+	metal
+	alternative
+	rock
+	Nu-metal
+HammerFall
+
+	Power metal
+	heavy metal
+	metal
+	swedish
+	seen live
+Yoshihisa Hirano and Hideki Taniuchi
+
+	Soundtrack
+	anime
+	japanese
+	instrumental
+	death note
+Stratovarius
+
+	Power metal
+	metal
+	melodic metal
+	heavy metal
+	finnish
+Kamelot
+
+	Power metal
+	symphonic metal
+	Progressive metal
+	metal
+	melodic metal
+Gamma Ray
+
+	Power metal
+	heavy metal
+	speed metal
+	metal
+	german
+Amane Misa (Hirano Aya)
+
+	death note
+Metalica, Kid Rock, Seven Dust, Ted Nugent
+
+AC
+
+	AC/DC
+	hard rock
+	ACDC
+	Ac-Dc
+	classic rock
+Sum 41
+
+	punk rock
+	punk
+	pop punk
+	rock
+	alternative
+Heavens Gate
+
+	heavy metal
+	Power metal
+	german
+	metal
+	hard rock
+No Use for a Name
+
+	punk rock
+	punk
+	seen live
+	pop punk
+	rock
+Red Hot Chili Peppers
+
+	rock
+	alternative rock
+	alternative
+	funk
+	Funk Rock
+Iced Earth
+
+	Power metal
+	heavy metal
+	thrash metal
+	metal
+	Progressive metal
+Vision Divine
+
+	Power metal
+	Progressive metal
+	italian
+	melodic metal
+	metal
+Ludwig van Beethoven
+
+	Classical
+	instrumental
+	composers
+	romantic
+	classic
+Iron Maiden
+
+	heavy metal
+	metal
+	NWOBHM
+	seen live
+	hard rock
+Death Note
+
+	anime
+	japanese
+	Soundtracks
+	Soundtrack
+	A hardcore Anime opening
+Evanescence
+
+	rock
+	Gothic Rock
+	female vocalists
+	Gothic
+	alternative
+Serj Tankian
+
+	alternative metal
+	alternative
+	alternative rock
+	metal
+	rock
+Rhapsody of Fire
+
+	Power metal
+	symphonic metal
+	symphonic power metal
+	epic metal
+	metal
+Shaman
+
+	folk metal
+	Power metal
+	metal
+	finnish
+	heavy metal
+Pearl Jam
+
+	Grunge
+	rock
+	alternative rock
+	alternative
+	90s
+Morifade
+
+	Power metal
+	heavy metal
+	metal
+	swedish
+	melodic metal
+Demons & Wizards
+
+	Power metal
+	symphonic metal
+	heavy metal
+	metal
+	Progressive metal
+The Early November
+
+	emo
+	indie
+	seen live
+	rock
+	alternative
+Nightwish
+
+	symphonic metal
+	Power metal
+	Gothic Metal
+	metal
+	Female fronted metal
+DragonForce
+
+	Power metal
+	speed metal
+	metal
+	seen live
+	Extreme Power Metal
+Rammstein
+
+	industrial metal
+	metal
+	industrial
+	german
+	rock
+Within Temptation
+
+	symphonic metal
+	Gothic Metal
+	Female fronted metal
+	metal
+	Gothic
+Avantasia
+
+	Power metal
+	symphonic metal
+	metal opera
+	metal
+	melodic metal
+Mamonas Assassinas
+
+	rock
+	brazilian
+	comedy
+	brazilian rock
+	humour
+Dragonland
+
+	Power metal
+	symphonic metal
+	metal
+	melodic metal
+	swedish
+AC/DC
+
+	hard rock
+	classic rock
+	rock
+	heavy metal
+	metal
+Edguy
+
+	Power metal
+	heavy metal
+	metal
+	melodic metal
+	german
+Rhapsody
+
+	Power metal
+	symphonic metal
+	epic metal
+	metal
+	melodic metal
+Paragon
+
+	Power metal
+	heavy metal
+	speed metal
+	metal
+	german
+Richard Stoltzman
+
+	Classical
+	jazz
+	clarinet
+	relaxation
+	spiritual
+Slipknot
+
+	Nu Metal
+	metal
+	heavy metal
+	Nu-metal
+	seen live
+Three Days Grace
+
+	alternative rock
+	rock
+	alternative
+	hard rock
+	metal
+David Draiman
+
+	Nu Metal
+	metal
+	rock
+	hard rock
+	Soundtrack
+Avenged Sevenfold
+
+	metalcore
+	metal
+	hard rock
+	hardcore
+	rock
+ASIAN KUNG-FU GENERATION
+
+	J-rock
+	japanese
+	rock
+	jrock
+	j-pop
+Beck
+
+	alternative
+	indie
+	rock
+	singer-songwriter
+	indie rock
+Metalium
+
+	Power metal
+	heavy metal
+	metal
+	speed metal
+	german
+Stone Sour
+
+	hard rock
+	metal
+	alternative metal
+	Nu Metal
+	rock
+Ozzy Osbourne
+
+	heavy metal
+	hard rock
+	metal
+	classic rock
+	rock
+Aerosmith
+
+	rock
+	classic rock
+	hard rock
+	80s
+	70s
+Dream Theater
+
+	Progressive metal
+	Progressive rock
+	metal
+	Progressive
+	rock
+Distuberd
+
+Guns N' Roses
+
+	hard rock
+	rock
+	classic rock
+	80s
+	metal
+Muse
+
+	alternative rock
+	rock
+	alternative
+	Progressive rock
+	seen live
+Black sabbath
+
+Third Day
+
+	christian
+	christian rock
+	contemporary christian
+	worship
+	rock
+Foo Fighters
+
+	rock
+	alternative rock
+	Grunge
+	alternative
+	seen live
+Brainstorm
+
+	Power metal
+	rock
+	latvian
+	heavy metal
+	seen live
+Angra
+
+	Power metal
+	Progressive metal
+	metal
+	melodic metal
+	heavy metal
+Judas Priest
+
+	heavy metal
+	metal
+	hard rock
+	NWOBHM
+	classic rock
+30 Seconds to Mars
+
+	alternative rock
+	rock
+	alternative
+	emo
+	indie

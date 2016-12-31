@@ -1,0 +1,1753 @@
+0.0801407871405
+death metal	@	1329651
+thrash metal	@	1309590
+Progressive metal	@	1277913
+finnish	@	1151605
+Power metal	@	1098761
+Melodic Death Metal	@	1053560
+doom metal	@	957885
+Gothic Metal	@	943119
+symphonic metal	@	899300
+speed metal	@	844781
+Female fronted metal	@	822820
+polish	@	785194
+Avant-Garde	@	778240
+folk metal	@	671189
+NWOBHM	@	666942
+grindcore	@	662636
+groove metal	@	602554
+Brutal Death Metal	@	597599
+dark ambient	@	593390
+deathcore	@	568519
+progressive death metal	@	560050
+Sludge	@	547513
+viking metal	@	531639
+Technical Death Metal	@	467402
+atmospheric	@	463255
+pagan metal	@	439968
+melodic metal	@	439626
+melodic black metal	@	405846
+Symphonic Black Metal	@	395709
+horror punk	@	389076
+mathcore	@	385249
+ebm	@	340295
+atmospheric black metal	@	331049
+Post-Metal	@	326598
+neofolk	@	325125
+stoner metal	@	321650
+crossover	@	317597
+guitar virtuoso	@	310935
+sludge metal	@	303743
+medieval	@	303447
+melancholic	@	300918
+Norwegian Black Metal	@	297321
+Blackened Death Metal	@	294110
+neoclassical	@	287768
+melodic metalcore	@	273978
+stoner	@	269773
+thrash	@	268150
+depressive rock	@	264837
+epic metal	@	261517
+old school death metal	@	257534
+ambient black metal	@	248897
+depressive black metal	@	246058
+Avant-garde Metal	@	244830
+Dark metal	@	240776
+math metal	@	238220
+goregrind	@	238087
+Greek	@	233152
+Crust	@	231800
+deathgrind	@	203700
+Southern metal	@	199683
+Doom	@	196439
+dark folk	@	195720
+celtic metal	@	194919
+Technical Metal	@	186819
+Straight Edge	@	185530
+progressive black metal	@	178772
+Post-Black Metal	@	173693
+DJENT	@	172559
+dark electro	@	171116
+Celtic Folk Metal	@	168408
+Suicidal Black Metal	@	167876
+swedish black metal	@	167761
+Oi	@	164754
+moshcore	@	164144
+raw black metal	@	156217
+modern metal	@	154699
+true black metal	@	153905
+Death Doom Metal	@	153173
+Czech	@	152399
+apocalyptic folk	@	150822
+avantgarde	@	150466
+Christian Metalcore	@	145149
+blackened thrash metal	@	142991
+chaotic hardcore	@	137810
+True Norwegian Black Metal	@	135262
+austrian	@	133266
+instrumental rock	@	132602
+true metal	@	131214
+street punk	@	129338
+Traditional Doom Metal	@	128662
+noisecore	@	127912
+futurepop	@	125614
+brutal deathcore	@	125018
+Grind	@	124968
+desert rock	@	124781
+Swedish Death Metal	@	122780
+nsbm	@	121332
+pirate metal	@	119695
+USBM	@	118804
+Orthodox Black Metal	@	117799
+deathrock	@	115853
+Glam Metal	@	115390
+cybergrind	@	112071
+stoner doom	@	111521
+martial industrial	@	111097
+Progressive Metalcore	@	109067
+metal opera	@	106789
+Gothic Doom Metal	@	106027
+hungarian	@	104429
+Pop Metal	@	103184
+Technical Brutal Death Metal	@	99884
+finnish metal	@	97701
+powerviolence	@	97388
+epic black metal	@	96603
+industrial black metal	@	95956
+gothenburg metal	@	95924
+symphonic power metal	@	95194
+Progressive deathcore	@	94728
+Extreme Power Metal	@	92533
+symphonic death metal	@	90044
+Technical Thrash Metal	@	89793
+german thrash metal	@	88522
+horror metal	@	88408
+jazz metal	@	88004
+real screamo	@	87745
+Finnish Black Metal	@	87700
+nyhc	@	86095
+anarcho-punk	@	85555
+pagan black metal	@	84544
+death-doom metal	@	82462
+beatdown	@	82303
+Harsh EBM	@	82176
+Slamming Brutal Death Metal	@	81649
+thrashcore	@	81226
+true scottish pirate metal	@	79193
+powernoise	@	79014
+atmospheric death metal	@	78652
+pagan folk	@	73115
+funeral doom	@	73000
+German Black Metal	@	72795
+Mittelalter	@	71859
+mike patton	@	71053
+crust punk	@	71008
+emo violence	@	70399
+d-beat	@	69830
+RAC	@	69091
+progressive thrash metal	@	68887
+french black metal	@	68162
+elvis metal	@	67629
+Belarusian	@	67137
+christian metal	@	67073
+Technical Deathcore	@	66881
+modern hardcore	@	66790
+funeral doom metal	@	66522
+battle metal	@	66373
+polish black metal	@	65964
+electro-industrial	@	64603
+belarus	@	64593
+blacker than the blackest black times infinity	@	64463
+renaissance	@	64071
+dark cabaret	@	63359
+drone doom	@	62803
+brazilian metal	@	62393
+steven wilson	@	61992
+power violence	@	61147
+Black n Roll	@	61083
+bard	@	58659
+DSBM	@	58511
+beatdown hardcore	@	57767
+Folk Black Metal	@	57600
+death n roll	@	57103
+Aggrotech	@	56773
+death-thrash metal	@	56401
+oriental metal	@	55818
+old school thrash metal	@	55504
+Pagan	@	54626
+russian metal	@	52228
+black Thrash metal	@	51959
+atmospheric doom metal	@	50135
+crossover thrash	@	50099
+slavic pagan metal	@	50089
+sleaze rock	@	49396
+fantasy metal	@	47652
+colombian	@	47241
+UKHC	@	46780
+beer	@	46582
+lithuanian	@	46309
+germany	@	46025
+sludgecore	@	45558
+doom jazz	@	44919
+neo-classical metal	@	44653
+funeral jazz	@	44529
+boston hardcore	@	43275
+porngrind	@	41851
+Cyber Metal	@	41773
+Shred	@	41544
+Skinhead	@	41232
+old school black metal	@	40824
+neocrust	@	40699
+psychedelic black metal	@	39808
+decadence	@	39300
+buttercore	@	38977
+Folk Power Metal	@	38900
+Neue Deutsche Haerte	@	38051
+New Wave of British Heavy Metal	@	37369
+symphonic deathcore	@	37343
+instrumental metal	@	37288
+Industrial Death Metal	@	36898
+Punk-Rock	@	36658
+fastcore	@	36286
+pornogrind	@	35766
+polish punk	@	35651
+progressive power metal	@	35514
+symphonic prog	@	35350
+Spanish Metal	@	35280
+Modern Melodic Death Metal	@	35083
+poland	@	34715
+occult rock	@	34371
+Theatrical Black Metal	@	34340
+youth crew	@	33981
+martial	@	33940
+Technical Metalcore	@	33518
+Russian Black Metal	@	33384
+polish death metal	@	33133
+oldschool hardcore	@	33050
+Avant-Garde Black Metal	@	32770
+war metal	@	32350
+power electronics	@	31951
+batcave	@	31670
+Rhythmic Noise	@	31214
+sleaze	@	30610
+Horrorpunk	@	30351
+black death metal	@	29674
+Vegan	@	29630
+neo progressive	@	29478
+Depressive Suicidal Black Metal	@	29417
+cyberpunk	@	29089
+dark jazz	@	29078
+Melodic Deathcore	@	29025
+Noisegrind	@	28838
+Scandinavian folk	@	28828
+Melodic Power Metal	@	28453
+celtic punk	@	27908
+Vampiric Metal	@	27851
+frenchcore	@	27779
+deutschpunk	@	26938
+Soul Metal	@	26896
+ethno	@	26816
+sid metal	@	26201
+Epic Doom Metal	@	26037
+Swedish Metal	@	26000
+slam death metal	@	25787
+Brutal Technical Death Metal	@	25327
+Black Doom Metal	@	25315
+steampunk	@	24522
+a cappella metal	@	24461
+Death Rap	@	24255
+melodic doom metal	@	23450
+slavonic pagan metal	@	23060
+streetpunk	@	22950
+reggae metal	@	22658
+white power	@	22646
+cybercore	@	22627
+boston	@	22545
+Old school Hardcore	@	22472
+russian punk	@	22324
+Brazilian thrash metal	@	22255
+slamming guttural brutal death metal	@	22146
+Ukrainian Black Metal	@	21980
+death punk	@	21849
+Old School Punk	@	21629
+anarcho punk	@	21615
+metallic hardcore	@	21596
+nihilist suicide pop	@	21588
+post-huipizdacore	@	21228
+US Power Metal	@	21176
+Old school EBM	@	21168
+epic heavy metal	@	21156
+moshable metalcore	@	21154
+extreme progressive metal	@	21146
+technical melodic death metal	@	20996
+blackened crust	@	20958
+ritual ambient	@	20931
+straight edge hardcore	@	20898
+neoclassic	@	20748
+prog	@	20635
+georgian	@	20608
+atmospheric rock	@	20530
+heavy	@	20483
+cold meat industry	@	20456
+Mystic rock	@	20337
+Atmospheric metal	@	19974
+crustgrind	@	19879
+Neo-prog	@	19623
+dark hardcore	@	19570
+gangstacore	@	19491
+gothabilly	@	19364
+jazzcore	@	18954
+russian hardcore	@	18906
+neo-folk	@	18887
+belgian black metal	@	18416
+doom death metal	@	18343
+Zeuhl	@	18243
+mesopotamian metal	@	18126
+Epic Power Metal	@	17835
+slovenian	@	17814
+crack rock steady	@	17603
+greece	@	17585
+finland	@	17480
+asking alexandria	@	17470
+Asking Australiandria	@	17470
+slamming brutal death	@	17434
+Greek Black Metal	@	17382
+harsh noise	@	17268
+Scum Punk	@	17220
+Rock Against Communism	@	17175
+rap metal	@	17084
+old school industrial	@	17057
+hatecore	@	16944
+Traditional Metal	@	16930
+occult	@	16831
+Russian Folk	@	16807
+death industrial	@	16571
+Hellenic Black Metal	@	16311
+Space Ambient	@	16100
+southern	@	15986
+drone ambient	@	15950
+fun metal	@	15870
+military pop	@	15635
+canadian black metal	@	15480
+experimental black metal	@	15458
+bay area thrash metal	@	15396
+Ritual	@	15377
+fuzz rock	@	15145
+Folk Doom Metal	@	15128
+Midlife Crisis Metal	@	15076
+ambidjent	@	15012
+les legions noires	@	15000
+NS Black Metal	@	14913
+throat singing	@	14838
+death rock	@	14473
+tunisian	@	14370
+religious black metal	@	14329
+blackgaze	@	14201
+Punkabilly	@	14080
+mincecore	@	14044
+Spanish punk	@	13928
+antifa	@	13837
+Arniecore	@	13741
+death thrash metal	@	13725
+technical death thrash metal	@	13711
+Brazilian Black Metal	@	13661
+tbm	@	13344
+Speed Thrash Metal	@	13139
+Rechtsrock	@	13037
+russian metalcore	@	12954
+modern gothic metal	@	12794
+epic death metal	@	12769
+sympho	@	12705
+Japanoise	@	12668
+southern hardcore	@	12637
+basque	@	12449
+terror ebm	@	12328
+Troll Metal	@	12245
+whalecore	@	12179
+progressive math metal	@	11969
+anarchist black metal	@	11937
+vegan straight edge	@	11826
+very sexy	@	11823
+debilcore	@	11715
+italian symphonic prog	@	11612
+italian black metal	@	11588
+blackened heavy metal	@	11552
+hellbilly	@	11508
+space metal	@	11506
+new wave of old school death metal	@	11464
+pagan rock	@	11322
+russian emo	@	11273
+power noise	@	11260
+peace punk	@	11245
+rabm	@	11107
+Video Game Metal	@	11082
+Pure Fucking True Norwegian Nazi Apokalyptic Ocultistic Black Like Satans Ass Metal From Land Of The Vikings	@	11073
+the witcher	@	10948
+Specially Addictive Soundtrack	@	10908
+bestial black metal	@	10907
+melodic hard rock	@	10837
+TXDM	@	10802
+epic pagan metal	@	10539
+satanic black metal	@	10413
+surf punk	@	10276
+celtic folk	@	10239
+hungarian metal	@	10236
+finnish death metal	@	10186
+experimental deathcore	@	10170
+avantgarde black metal	@	10138
+narcotic metal	@	10077
+czech black metal	@	10051
+traditional heavy metal	@	10044
+death country	@	10020
+viking rock	@	9984
+groove death metal	@	9961
+Punk Metal	@	9948
+Russian Folk Metal	@	9930
+Boehse Onkelz	@	9822
+New Wave Of Thrash Metal	@	9808
+Synth gothic	@	9704
+UnBlack Metal	@	9697
+Post-Industrial	@	9686
+Patriot	@	9683
+dan swano	@	9650
+piano screamo	@	9494
+spanish heavy metal	@	9480
+progressive melodic death metal	@	9261
+metal punk	@	9259
+keyboard virtuoso	@	9259
+Underground Black Metal	@	9179
+brutal thrash metal	@	9157
+red and anarchist black metal	@	9123
+stonegaze	@	8958
+blackened deathcore	@	8951
+Sludge Doom	@	8860
+transcendental black metal	@	8766
+War Black Metal	@	8747
+Tolkien	@	8698
+Czech Republic	@	8688
+Siberian Suicidal Post-Punk	@	8650
+murder metal	@	8526
+andrzejcore	@	8524
+white metal	@	8443
+Crossover Prog	@	8379
+russian deathcore	@	8301
+hungarian folk metal	@	8228
+Black-Metal with the fire-speed of a MG42 and the power of heavy ship-artillery	@	8167
+new school hardcore	@	8157
+depressive black rock	@	8147
+German Metalcore	@	8113
+C64	@	8108
+deutschland	@	8099
+christian black metal	@	8085
+artcore	@	7993
+mike portnoy	@	7967
+LightWave	@	7957
+kto nie zna ten gej	@	7908
+Disco-polo	@	7862
+russian grindcore	@	7813
+crustcore	@	7738
+Dramatic death metal	@	7725
+666	@	7703
+funny grindcore	@	7695
+Rock In Opposition	@	7690
+british thrash metal	@	7687
+nightwish	@	7629
+melancholic black metal	@	7580
+stenchcore	@	7552
+Sleaze Metal	@	7522
+technical black metal	@	7432
+Smoking music	@	7399
+death	@	7309
+Goblin Metal	@	7236
+diy	@	7196
+orchestral metal	@	7191
+lolcore	@	7181
+Gore	@	7148
+beer metal	@	7136
+Gore Metal	@	7125
+pizdocore	@	7110
+Emotional Hardcore	@	7005
+Musik wegen der ich mich schaeme Deutscher zu sein	@	6987
+russian screamo	@	6986
+Hungarian Black Metal	@	6982
+psycho	@	6914
+Neo Progressive Rock	@	6885
+neoclassical fantasy music	@	6840
+synth rock	@	6791
+German metal	@	6727
+christian death metal	@	6657
+Guitar Hero	@	6654
+old school heavy metal	@	6605
+polish metal	@	6592
+anglo-saxon metal	@	6589
+speedrock	@	6568
+beer thrash metal	@	6563
+Ska-Core	@	6554
+polyrhythms	@	6538
+80s hardcore	@	6523
+beer folk	@	6510
+brazilian hardcore	@	6427
+black ambient	@	6418
+brutal	@	6400
+Faroese	@	6395
+argentinian	@	6366
+not screamo	@	6362
+Castlevania	@	6356
+Estonian metal	@	6298
+belarusian metal	@	6231
+italian metal	@	6227
+riot folk	@	6222
+anarcho-chansone	@	6171
+old school thrash	@	6170
+humppa	@	6153
+flamenco metal	@	6122
+peruvian	@	6100
+Cascadian Black Metal	@	6076
+galakthorro	@	6068
+groovy goregrind	@	6022
+vikingarock	@	6010
+techcore	@	5990
+black-thrash metal	@	5982
+medieval metal	@	5938
+post black metal	@	5929
+pirate punk	@	5919
+Slamming Gore Groove	@	5909
+ambiental sludge	@	5868
+depressed subcore	@	5762
+technical grindcore	@	5738
+fusion metal	@	5726
+positive hardcore	@	5702
+medieval folk	@	5669
+japanese metal	@	5660
+beautiful mystical old school black metal that is the ideal soundtrack for porn movies and when the moon is fool there is sexing ajajgjajfasdadsad I LOVE BOOBIES ASDFASDFASDFASDFASDF PENIS	@	5655
+kabarett	@	5615
+siniestro	@	5611
+aggressive	@	5609
+la punk	@	5554
+Atmospheric Sludge	@	5530
+alt. metal	@	5526
+neo prog	@	5491
+emoviolence	@	5458
+Naprimer	@	5451
+Timo Tolkki	@	5429
+experimental metal	@	5402
+heavy psych	@	5375
+Irish Punk	@	5338
+andre matos	@	5321
+heavenly voices	@	5297
+old school grindcore	@	5284
+nationalist	@	5284
+neue deutsche härte	@	5201
+moldavian	@	5173
+blackened doom metal	@	5165
+Craftercore	@	5161
+ugar	@	5156
+atlichna-atlichna naprimer	@	5156
+sharp	@	5122
+Death'n'Roll	@	5103
+Singaporean	@	5069
+afterfall	@	5050
+Old-School Metal	@	5044
+dutch black metal	@	5019
+racist	@	4972
+nazi scum	@	4949
+Christian Hardcore	@	4924
+chaotic	@	4890
+amoral punk	@	4881
+antifascist	@	4874
+Balkan Punk	@	4863
+raw	@	4861
+Korn	@	4849
+goat metal	@	4808
+gothic country	@	4791
+Alcoholic Thrash Metal	@	4778
+rock radical vasco	@	4774
+atmospheric post-hardcore	@	4768
+guttural brutal death metal	@	4756
+female fronted hardcore	@	4723
+brutal death	@	4713
+Danish Black Metal	@	4698
+melodic doom death metal	@	4696
+melodic heavy metal	@	4675
+macumbacore	@	4654
+Table rock	@	4652
+grind-n-roll	@	4641
+unocore	@	4639
+experimental death metal	@	4638
+Bree Bree	@	4638
+moshable hardcore	@	4632
+Viking Folk Metal	@	4611
+occult black metal	@	4582
+comedy metal	@	4569
+slam	@	4561
+sarava metal	@	4561
+nintendogrind	@	4495
+hardcore hip-hop	@	4477
+folk ambient	@	4459
+melancholic rock	@	4408
+country metal	@	4399
+newschool hardcore	@	4395
+H8CORE	@	4395
+bulgarian hardcore	@	4392
+Dave Mustaine	@	4389
+pagan folk metal	@	4357
+viking black metal	@	4314
+malta	@	4255
+Black Noise	@	4235
+Melodic Thrash Metal	@	4231
+krishnacore	@	4214
+Samurai Metal	@	4180
+ritual dark ambient	@	4170
+US-Way Brutal Death Metal	@	4169
+bio-metal	@	4152
+Harsh Electro	@	4139
+g-punk	@	4128
+Terror	@	4125
+Old School Swedish Death Metal	@	4112
+japanese hardcore	@	4108
+dungeon synth	@	4101
+blazebirth hall	@	4101
+keyboards	@	4078
+belarussian folk	@	4059
+japanese black metal	@	4029
+Happy Grindcore	@	3990
+Neue Deutsche Todeskunst	@	3980
+christian deathcore	@	3974
+ns	@	3960
+australian black metal	@	3956
+samurai death metal	@	3916
+polish heavy metal	@	3889
+Experimental Doom Metal	@	3884
+Teacore	@	3881
+Chinese Folk Metal	@	3823
+slamming brutal deathcore	@	3810
+Swedish Melodic Death Metal	@	3803
+islam	@	3788
+glamcore	@	3770
+Swedish Heavy Metal	@	3770
+french metal	@	3760
+symphonic gothic metal	@	3753
+Portuguese Black Metal	@	3741
+bulgarian rock	@	3712
+spanish black metal	@	3710
+deathrash	@	3710
+early metal	@	3705
+NS rap	@	3683
+raw plant metal	@	3677
+green metal	@	3677
+Murdercore	@	3673
+rob halford	@	3657
+SxE	@	3653
+trance metal	@	3639
+pagan doom metal	@	3638
+streetcore	@	3629
+turkish black metal	@	3626
+NYDM	@	3616
+Lithuanian metal	@	3613
+juglar metal	@	3611
+chaotic metalcore	@	3611
+Christian Power Metal	@	3611
+tribal ambient	@	3605
+alcohol	@	3573
+Patriotic	@	3556
+Sons of Anarchy	@	3554
+heavy rock	@	3550
+za rus v rot ebus	@	3547
+satanic	@	3545
+Trallpunk	@	3542
+fallout	@	3514
+electrogoth	@	3471
+neurot	@	3448
+humorcore	@	3441
+Gothic Black Metal	@	3394
+marjanacore	@	3372
+death-n-roll	@	3366
+icelandic black metal	@	3336
+space doom	@	3320
+NDH	@	3300
+razorgrind	@	3297
+Acid Rock	@	3294
+crust n roll	@	3271
+black doom	@	3270
+witch punk	@	3261
+satanic death metal	@	3235
+galician	@	3235
+Brazilian Death Metal	@	3227
+synth-gothic	@	3224
+polish folk	@	3216
+dragon emo	@	3195
+german gothic	@	3193
+dance metal	@	3190
+mass effect	@	3166
+sick sick sick	@	3149
+Oriental black metal	@	3143
+siberian punk	@	3121
+goatgrind	@	3112
+swiss black metal	@	3064
+Blackwave	@	3050
+anhalt ebm	@	3043
+melancholic hip-hop	@	3039
+Mosh	@	3013
+chris pohl	@	3010
+death-grind	@	3001
+tribal industrial	@	2994
+Oi-punk	@	2984
+dubcore	@	2979
+blackened sludge	@	2968
+radical political hardcore	@	2962
+hcsp	@	2962
+Ksenia Hitler	@	2962
+Satanic Pop Metal	@	2958
+gothic industrial	@	2949
+commercial black metal	@	2925
+dream rock	@	2919
+NS Metal	@	2889
+punk hardcore	@	2883
+minstrel	@	2864
+slovian	@	2862
+Metal mexicano	@	2861
+it is the only power alive that can ever cast the shadow of the forcelord back into the pits of doom	@	2857
+Polski Punk	@	2852
+death doom	@	2846
+trash metal	@	2843
+ghost ambient	@	2788
+cyber black metal	@	2754
+uk82	@	2730
+symphonic progressive metal	@	2728
+shitcore	@	2723
+posicore	@	2715
+Industrial Folk	@	2712
+groovy death metal	@	2704
+StreetSka	@	2700
+turkish metal	@	2694
+Brutal Melodic Death Metal	@	2687
+Post-Thrash	@	2674
+Metal Noir Quebecois	@	2660
+experimental post-hardcore	@	2659
+breakdown	@	2652
+Brutal Deathgrind	@	2649
+Les Claypool	@	2646
+Russian Death Metal	@	2624
+military	@	2616
+techgrind	@	2615
+progressive post-hardcore	@	2611
+polish hardcore	@	2595
+austrian black metal	@	2583
+grindjazz	@	2570
+neo-progressive rock	@	2563
+the only true metal of steel	@	2556
+raw punk	@	2548
+depressive metal	@	2540
+Indian Metal	@	2534
+doomcore	@	2512
+russian thrash metal	@	2509
+coban rock	@	2501
+kkk	@	2494
+drugger ambient	@	2493
+Suicidal Ambient	@	2493
+Brazilian Heavy Metal	@	2485
+8-BIT SCREAMO	@	2480
+modern death metal	@	2479
+shamanic black metal	@	2468
+noir	@	2468
+German Comedy	@	2451
+skinhead rock	@	2423
+Power Thrash Metal	@	2409
+parody metal	@	2396
+us	@	2394
+Folk Death Metal	@	2391
+ultra thrash metal	@	2378
+viking doom metal	@	2373
+vedic death metal	@	2373
+thall	@	2366
+horror rock	@	2364
+down-tempo	@	2357
+christcore	@	2348
+blackened punk	@	2347
+dark industrial	@	2338
+grindpunk	@	2337
+jihad	@	2316
+Heavy Argento	@	2313
+Arabian Black Metal	@	2312
+Vedic Metal	@	2311
+Deus Ex	@	2309
+domaci rock	@	2294
+electronic metal	@	2286
+melodious hard rock	@	2279
+traditional doom	@	2272
+surmacore	@	2262
+Polak potrafi	@	2262
+mittelalter rock	@	2258
+John Garcia	@	2257
+thrashgrass	@	2247
+ufa	@	2244
+western metal	@	2241
+old school goth	@	2233
+Shock Rock	@	2209
+modern hard rock	@	2197
+holy terror	@	2184
+industrial rave	@	2180
+dark soundscape	@	2161
+blackcore	@	2161
+Heavy Metal Argentino	@	2160
+Black Twilight Circle	@	2156
+hardcore metal	@	2145
+retro rock	@	2133
+various artists	@	2130
+post metal	@	2120
+haunting	@	2120
+cabaret noir	@	2112
+NSHC	@	2086
+melodic speed metal	@	2080
+happy metal	@	2065
+US MEtal	@	2057
+technical	@	2045
+zombiecore	@	2040
+rash	@	2037
+metroid	@	2037
+russian underground	@	2034
+underrated essentials	@	2022
+hard n heavy	@	2021
+primitive	@	2020
+lithuanian black metal	@	1989
+gothic ambient	@	1987
+zimna fala	@	1976
+chinese black metal	@	1976
+neoclassical metal	@	1971
+tobias forge	@	1961
+danish metal	@	1940
+chilean black metal	@	1938
+kammermetal	@	1924
+kammercore	@	1924
+singer is fucking possessed	@	1922
+cinema-grind	@	1918
+bbb	@	1916
+social punk	@	1908
+symphonic doom metal	@	1903
+horror soundtrack	@	1897
+croatian punk	@	1894
+Electrocore	@	1889
+cakecore	@	1888
+Extreme Modern Metal	@	1856
+gamer music	@	1853
+game songs	@	1853
+kein nsbm	@	1850
+sst	@	1839
+jazzgrind	@	1833
+fusion grindcore	@	1833
+thrash fucking metal with balls	@	1820
+canadian metal	@	1820
+gorenoise	@	1819
+brazilian folk metal	@	1819
+Tribal Metal	@	1819
+alcoholic metal	@	1805
+Cryptofa	@	1787
+rock pirata	@	1783
+fuzz-rock	@	1768
+Mexican Death Metal	@	1768
+dax riggs	@	1751
+synth metal	@	1749
+ambient rock	@	1743
+skatecore	@	1731
+Black Rock	@	1731
+chinese metal	@	1729
+fukk	@	1710
+Chaotic Metal	@	1710
+ambient metal	@	1707
+the most frostbitten and grim music from the very very very very very very inverted mountains of Kxziiiimfghhhblaghl	@	1706
+Psychedelic metal	@	1704
+primitive black metal	@	1702
+Shizo-nu-metal	@	1697
+Extreme Metal	@	1697
+Aryan Black Metal	@	1696
+death 'n' roll	@	1680
+brutal black metal	@	1679
+Colombian Black Metal	@	1661
+dinosaur metal	@	1656
+brazilian folk	@	1655
+Depro Punk	@	1653
+shanty	@	1648
+Folk Pagan Metal	@	1648
+space black metal	@	1647
+gaelic doom metal	@	1647
+romanian black metal	@	1646
+iraq	@	1646
+hellenic metal	@	1632
+brown music for pink people	@	1632
+ukrainian deathcore	@	1631
+NWOTHM	@	1624
+racist country	@	1608
+GG Allin	@	1601
+pizdarija	@	1600
+chechen	@	1600
+progressive doom metal	@	1589
+Doom Rock	@	1585
+oriental death metal	@	1582
+american death metal	@	1582
+atmospheric ambient	@	1572
+medieval ambient	@	1571
+Post-Black	@	1568
+chelsea grin	@	1567
+satanic grindcore	@	1563
+Chelyabinsk	@	1562
+australian metalcore	@	1559
+electro metal	@	1558
+Extreme Gothic Metal	@	1553
+Metal demenziale	@	1550
+ukrainian metal	@	1548
+psychedelic stoner rock	@	1544
+metal Brasil	@	1543
+social hip-hop	@	1530
+Avant-Garde Death Metal	@	1526
+female screamo	@	1525
+gothrock	@	1519
+Lusitanian Black Metal	@	1518
+the witcher 2	@	1516
+Occult doom metal	@	1514
+Galicia	@	1514
+serbian metal	@	1513
+mincin aint easy	@	1513
+80s metal	@	1500
+spanish thrash metal	@	1492
+Belorussian	@	1488
+greek metal	@	1477
+goth punk	@	1477
+krek hop	@	1475
+croatian metal	@	1472
+heavy-thrash metal	@	1467
+Clockwork punk	@	1467
+hungarian national rock	@	1453
+piano metal	@	1446
+pagan-folk	@	1443
+suicidal	@	1436
+serbian black metal	@	1432
+symphonic thrash metal	@	1425
+gothic punk	@	1415
+rap-metal	@	1414
+y2k prog	@	1412
+beatdown deathcore	@	1409
+neoclassical black metal	@	1406
+Medieval Rock	@	1400
+Fuzzalicious	@	1399
+nardcore	@	1397
+bulgarian punk	@	1396
+polish thrash metal	@	1395
+hellectro	@	1395
+posthardcore	@	1389
+Electronic Ambient Music for Tower Crane Conductors	@	1383
+hardcore treta	@	1378
+iraqi	@	1377
+international project	@	1375
+let the world burn	@	1366
+mysterious guy hardcore	@	1365
+shitgrind	@	1364
+redneck rock	@	1361
+female fronted grindcore	@	1361
+mexican metal	@	1360
+polish satanic anal humour	@	1340
+Funeral black metal	@	1336
+prog metal	@	1328
+seemannslieder	@	1325
+freak metal	@	1321
+OI Punk	@	1319
+occult metal	@	1318
+dms crew	@	1318
+mis tagged	@	1314
+Oldschool EBM	@	1291
+slavonic pagan	@	1289
+jordan	@	1287
+japanese grindcore	@	1287
+tiberian ass bastard folk	@	1277
+Psicopata	@	1267
+antwerp	@	1266
+french heavy metal	@	1257
+braun	@	1250
+death/thrash metal	@	1245
+siberian	@	1244
+evil thrash metal	@	1244
+doom-death metal	@	1244
+Baldurs Gate	@	1241
+oldschool death metal	@	1238
+dms	@	1237
+szatan jest wielki wiec w gore podniesmy butelki	@	1235
+solo bassist	@	1233
+Death/Doom Metal	@	1233
+black industrial	@	1223
+colombian death metal	@	1221
+colombian metal	@	1209
+arjen anthony lucassen	@	1202
+acoustic screamo	@	1202
+texas hardcore	@	1196
+greek hip-hop	@	1189
+dark psycho industrial	@	1188
+Music for little girls	@	1188
+Hooligan	@	1188
+symphonic metalcore	@	1167
+Blackened Power Metal	@	1163
+Melodic Death Doom Metal	@	1159
+cello metal	@	1152
+bass virtuoso	@	1151
+Satanic speed metal	@	1146
+guttural slamming brutal death	@	1144
+russian rapcore	@	1141
+grindviolence	@	1141
+tough guy hardcore	@	1140
+Punx	@	1140
+Macabre Rap	@	1140
+hypnotic dark ambient	@	1137
+Anti-human Black Metal	@	1137
+Orthodox	@	1120
+Hatebreed	@	1114
+savage bukkake-ing upon the virgin mother of the kosher swine	@	1112
+belarusian hardcore	@	1110
+Celtic Black Metal	@	1109
+1315	@	1107
+rape rock	@	1101
+industrial ambient	@	1098
+funny grind	@	1098
+ant-zen	@	1094
+Razorback attack	@	1089
+jpdm	@	1088
+spazzcore	@	1080
+kontrollierter krach	@	1076
+gnwp	@	1074
+dramatic metal	@	1074
+anarcho-rap	@	1072
+Bulgarian Black Metal	@	1070
+epic symphonic black metal	@	1066
+cybergore	@	1063
+czech metal	@	1061
+druid	@	1059
+beard rock	@	1054
+alko-black-folk-metal	@	1054
+atmospheric metal progressive avant-garde	@	1048
+Jordanian	@	1043
+phil anselmo	@	1034
+Zaebis	@	1031
+oldschool melodic death metal	@	1028
+Progressive Gothic Metal	@	1025
+total goregrind	@	1023
+nu metalcore	@	1011
+NASA grind	@	1005
+industrial glam punk	@	1003
+raw depressive black metal	@	1001
+ethereal wave	@	996
+proto-metal	@	995
+Downtempo Deathcore	@	995
+narcotic gay metal	@	992
+Luxembourg	@	991
+youth attack	@	990
+Noise Black Metal	@	988
+disastercore	@	987
+cthulhu	@	984
+techno-industrial	@	976
+cult	@	972
+antirasist	@	972
+Metal God	@	971
+slavonic folk	@	967
+war	@	962
+dark-electro	@	961
+black death	@	961
+occult black rock	@	958
+Alchemic rock	@	957
+Acoustic ballad	@	957
+Horrorcore Rap	@	956
+Mexican Black Metal	@	954
+age of conan	@	952
+synth goth	@	947
+kto bydlo ya bydlo na nahui	@	946
+pure aryan black metal	@	945
+post-apocalyptic	@	944
+aria family	@	944
+black metal from sweden	@	943
+atmospherique	@	942
+turbo metal	@	940
+great lyrics	@	939
+hard and heavy	@	936
+hell rock	@	928
+suicide pop	@	925
+apocalyptic pop	@	925
+female fronted black metal	@	924
+ukrainian metalcore	@	923
+Anton Chernik	@	922
+Okkult Metal	@	919
+Venice Beach	@	916
+german thrash	@	910
+wyrd folk	@	903
+nintendo metal	@	901
+WoW metal	@	901
+bolivian	@	880
+dark acoustic	@	877
+Hole Electro	@	875
+Ghetto metal	@	873
+burning spirits	@	864
+Social Grindcore	@	862
+Italian Hardcore Punk	@	859
+mrazishcore	@	858
+scumfuc rock n roll	@	857
+deathrock revival	@	856
+crust and roll	@	856
+Atmospheric Funeral Doom Metal	@	854
+magyar nemzeti rock	@	853
+forest black metal	@	853
+thrash mexicano	@	850
+bangladeshi	@	847
+slovakian black metal	@	844
+finnish depressive black metal	@	840
+Polski Black Metal	@	839
+psychofolk	@	838
+the pagan front	@	837
+modern metalcore	@	835
+check out later	@	824
+SLAMMING BEATDOWN	@	823
+chainsaw rock	@	814
+dutch death metal	@	808
+crni jebeni metal	@	808
+rock progressivo italiano	@	804
+noizecore	@	802
+marches	@	798
+BDSM	@	797
+neomedieval	@	794
+blackened sludge metal	@	794
+portugese	@	793
+underground pernambucano	@	791
+atmospheric depressive black metal	@	788
+japanese thrash metal	@	787
+bulldozer grind	@	786
+new-school hardcore	@	785
+Dream Theater	@	785
+rock bonito	@	783
+szatan kurwa	@	779
+national-folk	@	779
+nazi	@	778
+Belorussian black metal	@	776
+pagan black	@	775
+film noir	@	774
+Australian Death Metal	@	773
+cyprus	@	767
+bosnian black metal	@	767
+narration	@	766
+ethno-metal	@	766
+ethno metal	@	766
+scene slam	@	765
+Electro Deathrock	@	765
+bydgoszcz	@	764
+Mittelalter Folk	@	762
+galakthorroe	@	758
+Brazilian Nuclear Devastation	@	751
+bg rock	@	748
+swampy blues	@	744
+Sognametal	@	743
+punk'n'roll	@	742
+Atmopsheric Doom Metal	@	742
+Iranian black metal	@	738
+coprogrind	@	733
+instrumental math metal	@	728
+japanese thrash	@	727
+guitar god	@	727
+Faerical Blasting Punk	@	725
+NOLA	@	724
+brazilian thrash	@	721
+idiotic dance metal	@	712
+russian nsbm	@	705
+sadxcore	@	704
+Street Rock	@	704
+Internet crush music	@	704
+pronoise	@	698
+opera metal	@	697
+Fusion Rock	@	697
+japanese melodic death metal	@	692
+neo-batcave	@	690
+Technical Doom Metal	@	690
+Polski RAC	@	688
+Chaotic Grindcore	@	685
+heathen metal	@	683
+Romantic Black Metal	@	679
+national socialistic	@	678
+dark rock	@	678
+redskin	@	677
+heavy prog	@	677
+angry	@	677
+turkish death metal	@	673
+black mitolisti plachut	@	668
+neoprog	@	667
+torfrock	@	664
+symphonic folk metal	@	664
+circus revival	@	663
+hc	@	661
+drewgaze	@	659
+British Black Metal	@	659
+Thrash metal Brasil	@	657
+Lojah	@	653
+warhammer40k	@	651
+WAHA-METAL	@	651
+death ambient	@	650
+progressive technical melodic death metal	@	649
+russian funeral doom	@	647
+Hypnotic Black Metal	@	647
+straight-edge	@	646
+bosnian metal	@	643
+aria cover	@	642
+powergrind	@	641
+power grind	@	641
+pornogore	@	639
+classical drums	@	639
+Aragon	@	638
+Symphonic Funeral Doom	@	636
+partycore	@	635
+alt metal	@	633
+Russian Hate	@	629
+blackened funeral doom	@	628
+gothic-doom metal	@	626
+ukrainian screamo	@	623
+1488	@	619
+stoner doom metal	@	618
+black/thrash metal	@	610
+ethno-fusion	@	608
+crustpunk	@	604
+misanthropic black metal	@	602
+jabol punk	@	600
+Saint-Petersburg	@	600
+TRDM	@	598
+Atmospheric Funeral Doom	@	597
+not fucking nirvana	@	595
+Vintersorg	@	595
+Arkona	@	594
+Christian Thrash Metal	@	592
+Hollywood Glam	@	589
+Doom/Death Metal	@	584
+slovak black metal	@	579
+Black Metal from Germany	@	577
+technical death	@	572
+aggro industrial	@	570
+Destructo Rock	@	567
+russian melodic death metal	@	564
+russian doom metal	@	563
+low bap	@	561
+blackened hardcore	@	561
+white rap	@	559
+animal vocalists	@	559
+DC hardcore	@	558
+angst pop	@	555
+electro industrial	@	553
+numetal	@	552
+Taiwanese black metal	@	549
+Mystic Folk	@	548
+greek hip hop	@	541
+thrash death metal	@	540
+oppressive industrialized black metal	@	539
+medieval black metal	@	539
+MONGO STOMP	@	535
+Cyclic Law	@	535
+hrvatski bendovi	@	534
+christian industrial	@	534
+black/death metal	@	533
+Black Funeral Doom Metal	@	532
+funk thrash metal	@	529
+necrochanson	@	517
+ukrainian hardcore	@	514
+zommetal	@	511
+electric tremor	@	509
+ebullition records	@	509
+Bubbleglam	@	509
+second wave goth	@	507
+argentinian metal	@	507
+Mittelalter Metal	@	504
+emotive hardcore	@	500
+Guttural Slamming Brutal Death Metal	@	496
+progressive-metal	@	491
+apocalyptic crust	@	488
+old school gothic rock	@	487
+dark-rock	@	487
+JRI VERTOLET SUKA1111	@	487
+Atmospheric folk	@	485
+dark progressive rock	@	482
+true	@	479
+Metal Argentino	@	479
+against capitalism	@	477
+Progressive Folk Metal	@	477
+peter andersson	@	473
+anti-christian	@	473
+remember to check these fucks out you lazy bastard	@	471
+ethno ambient	@	469
+Melodic Power-Death Metal	@	468
+Greek Punk	@	468
+kvlt	@	467
+nazi occult metal	@	464
+wiedzmin	@	461
+military marches	@	458
+wartime rock n roll	@	454
+latvian metal	@	451
+instrumental technical death metal	@	451
+Black Horror Metal	@	451
+funpunk	@	450
+UK Black Metal	@	450
+bidlocore	@	449
+Death-Black Metal	@	446
+neoclassical darkwave	@	445
+progressive viking metal	@	443
+bulgarian folk	@	441
+djakovo metal	@	439
+christian grindcore	@	437
+nordic ambient	@	436
+christian doom metal	@	436
+transformers	@	430
+serbian thrash metal	@	428
+finnish melodic death metal	@	426
+slamming deathcore	@	423
+unblack	@	420
+the evil black troll smashes stupid christian head drinking his blood and salutes the soton agrhh	@	419
+Dark power metal	@	417
+trancz metal	@	416
+noh wave	@	416
+emo hardcore	@	416
+Sludge Doom Metal	@	413
+downtempo porngrind	@	408
+Old School Melodic Death Metal	@	406
+patriotic ballads	@	405
+death grind	@	405
+nazi techno	@	402
+Running Wild	@	402
+NS Techno	@	402
+zycie kurewskie	@	400
+symphonic melodic death metal	@	400
+muzyka bez przerwy	@	400
+bieda umyslowa	@	400
+Wiesz co sie kruszy	@	400
+Kali	@	400
+indonesian death metal	@	398
+hand of death	@	398
+Rammstein	@	398
+Iron Maiden	@	397
+mathgrind	@	394
+gore grind	@	392
+evil	@	390
+old-school heavy metal	@	389
+sugar oi	@	388
+martial ambient	@	388
+ethnic metal	@	387
+dark heavy metal	@	387
+alkogoliki	@	386
+indonesian black metal	@	382
+ambient industrial	@	379
+RAWK	@	377
+melodic death	@	376
+korean black metal	@	376
+brown metal	@	376
+Boersk Blek Metle	@	376
+depressive black	@	375
+wartrance	@	374
+art metal	@	372
+martial folk	@	370
+Bass and drums	@	369
+carcass worship	@	368
+instrumental stoner	@	367
+classic metal	@	366
+soul rock	@	365
+frognoise	@	363
+zartcore	@	362
+yyy	@	362
+musica alternativa	@	362
+classic thrash	@	362
+Circus Metal	@	361
+anarho-shanson	@	360
+anarcho chanson	@	360
+acoustic black metal	@	359
+mdm	@	358
+monegasque	@	357
+monaco	@	357
+russian industrial	@	356
+blackened grindcore	@	353
+Melodic Progressive Metal	@	353
+sick	@	352
+Sympho and Power Metal	@	351
+Proleten Black Metal	@	351
+praise metal	@	349
+NS Death metal	@	349
+pagan disco	@	348
+nazi punk	@	348
+gore-hop	@	348
+deathmetal	@	348
+juden raus house	@	344
+cosmic dark metal	@	338
+Military Romance	@	336
+Liedermaching	@	336
+italian death metal	@	334
+White Pride	@	334
+King Ram	@	333
+tompkins	@	331
+Oldschool Gothic Rock	@	331
+lebanese black metal	@	328
+street thrash metal	@	326
+nazi kircore	@	326
+German RAC	@	325
+death -thrash metal	@	324
+acoustic metal	@	324
+Teutonic Metal	@	323
+Banjo Slam	@	323
+sXe hardcore	@	321
+syu	@	319
+Guttural Brutal Death	@	316
+Russian Pagan Folk Metal	@	315
+crust hardcore	@	310
+children of bodom	@	308
+southern stoner rock	@	307
+Blind Guardian	@	306
+skiltron	@	305
+white music for white people	@	302
+Cybergoth	@	302
+kill nazis	@	301
+wolf metal	@	300
+american black metal	@	300
+pub metal	@	299
+electronica art metal	@	297
+Black Sabbath	@	297
+HNW	@	296
+Retro Heavy Metal	@	295
+Metal Core	@	295
+new wave of traditional heavy metal	@	294
+nordic metal	@	291
+bagacera	@	291
+agressive	@	290
+Justin Broadrick	@	289
+ozersk	@	288
+sludgewave	@	287
+indian punk	@	287
+polsk punk	@	286
+Yiddish Metal	@	286
+moomin	@	283
+lustig	@	283
+Derbe Strommusik	@	281
+Sverige	@	280
+italian thrash metal	@	279
+roman kostrzewski	@	277
+mexican thrash metal	@	276
+metalcore metal	@	275
+headbanging	@	275
+jani liimatainen	@	274
+bands nobody seems to know about which is sad because they basically kick ass	@	274
+thrash-black metal	@	272
+ritual black metal	@	271
+best frontman ever	@	269
+people I dont want to have sex with	@	268
+kept in freezer to be served as dinner	@	268
+Norwegian Progressive Rock	@	268
+death-country metal	@	267
+north america	@	266
+Slayer	@	265
+mincegore	@	264
+heavy ambient grunge	@	264
+crustgore	@	264
+braid ost	@	261
+hate punk	@	259
+latvian folk	@	258
+speed power metal	@	257
+slamming goregrind	@	256
+ona	@	256
+nestanicore	@	256
+chelcore	@	256
+canadian thrash metal	@	256
+MadriZ HardCore	@	256
+Heathen Black Metal	@	255
+gothic kircore	@	253
+purple metal	@	252
+anarcho post-punk	@	252
+California deathrock	@	252
+chinoise	@	250
+Modern thrash metal	@	248
+lovecraftian	@	245
+Ethereal rock	@	243
+slamming guttural brutal	@	242
+russian classical	@	241
+fetish	@	241
+Electronic Black Metal	@	241
+patriotic metal	@	240
+homestar runner	@	238
+hindi rock	@	235
+digital grindcore	@	235
+Finnish prog	@	235
+LLN	@	234
+hungarian epic folk-metal	@	233
+satanicrust	@	232
+italian folk metal	@	231
+Spanish Hardcore	@	231
+slovakian	@	227
+nitzhonot	@	227
+melodic skater punk black metal	@	227
+hessisch	@	227
+Metall	@	227
+Instrumental Extreme Metal	@	227
+brutal blackcore	@	226
+Orthodox Industrial	@	226
+traditional greek	@	223
+rock identitario	@	223
+medieval electronic	@	223
+patriotyczne	@	222
+finnish thrash metal	@	221
+Black Metal from Italy	@	221
+white nationalist	@	217
+European hardcore	@	216
+slovenian black metal	@	215
+industrial grindcore	@	215
+animal liberation front	@	213
+orthodox  black metal	@	212
+Christian Folk Metal	@	211
+ethnic-death metal	@	210
+cosmic death-metal	@	210
+punk black metal	@	209
+vampiric	@	208
+vamp-electro	@	208
+Debilizmi	@	207
+hipsters	@	206
+soul reaver	@	205
+legacy of kain	@	205
+GRRRRRRRRRRRRRRrrrrrrrrrrrrRRRRRRRRRRRRRRRRRRRRRNNNNNNNNNNNNNDddddddddddd	@	203
+moshpit	@	202
+massive assault	@	202
+Gnostic Metal	@	201
+Death Black Metal	@	200
+icelandic death metal	@	199
+dream house	@	199
+EasternBelarusHardcore	@	199
+Eastern Belarus Hardcore	@	199
+animetal	@	198
+Genital rock	@	198
+slavonic heathen metal	@	197
+gothic synth	@	197
+doom thrash metal	@	197
+dark country	@	197
+anarcho hip-hop	@	197
+experimental grindcore	@	194
+Rock and Roll metal	@	194
+Allayarcore	@	194
+sympho black metal	@	192
+Slavonic Epic Heavy Metal	@	192
+arkham punk	@	191
+Thrash-Metal	@	190
+Symphonic Extreme Metal	@	188
+RITUALISTIC BLACK METAL	@	188
+white power electronics	@	187
+schiza	@	186
+open death	@	185
+bass metal	@	185
+drumfolk	@	184
+Death-Thrash	@	183
+Experimental technical death metal	@	182
+grinding deathcore	@	181
+Oi-Streetpunk	@	181
+dogcore	@	180
+Pitbull Grindcore	@	180
+Glam goth	@	180
+Power Metal Peruano	@	179
+noiserock	@	175
+squirrel rock	@	172
+squirrel metal	@	172
+Ninja Metal	@	172
+NDT	@	172
+Discore	@	171
+murder	@	170
+dark doom metal	@	170
+ny hardcore	@	169
+alcoholic melancholic	@	169
+Nothingcore	@	168
+texas brutal death metal	@	167
+olari	@	164
+chilean death metal	@	163
+drone black metal	@	162
+True Carpathian Black Metal	@	160
+Slamming death metal	@	160
+NintendoDeath	@	160
+mediterranean folk	@	158
+thrash black metal	@	157
+Quebec Metal	@	157
+point-and-click adventure games	@	156
+Thrash revival	@	154
+Punk Colombia	@	153
+acoustic doom	@	152
+spanish death metal	@	149
+Power Rhythmic Noise	@	149
+Slamdown	@	148
+jebemtimaterupichku-tojepank	@	145
+harshcore	@	145
+aussie hardcore	@	142
+German Folk	@	142
+rytsa-prytsa metal	@	140
+penis metal	@	140
+melodic crust	@	140
+Ubertrve Nekrokvlt	@	140
+Tumultuous Teutonic Templar Thrash	@	140
+Hammering Heraldic Metal	@	140
+Crusader-core	@	140
+splittercore	@	137
+teutonic thrash metal	@	136
+led zep	@	136
+hatepunk	@	136
+Spongecore	@	136
+industrial noise	@	133
+tambov	@	132
+porno grindcore	@	132
+industrial doom blues	@	132
+horror ambient	@	132
+gothic cabaret	@	132
+adventure	@	132
+Dream Scream	@	132
+Black Thrash	@	132
+paris hxc	@	131
+paris hardcore	@	131
+white power rock	@	130
+folkcore	@	130
+terror metal	@	128
+tarot	@	128
+night mistress	@	128
+brutal sludge	@	128
+Ikona Space Metalu	@	128
+Aztec Black Metal	@	128
+russian symphonic black metal	@	124
+post doom metal	@	124
+usa black metal	@	120
+symphonic viking metal	@	120
+hoolscore	@	120
+ethnic black metal	@	120
+combat rock	@	120
+Metal Noir	@	120
+doitsches liedgut	@	117
+tomat gore grind	@	116
+patriotic folk	@	116
+japanese goth	@	116
+gorerap	@	116
+euro8bitdance	@	116
+electrodeathrock	@	116
+dissonant	@	116
+Incest Metal	@	116
+ultraviolent electronics	@	115
+aggro	@	115
+OttomanArt	@	114
+nightmarish soundscapes	@	112
+Hardcorepunk	@	112
+Devin Townsend	@	112
+nintendcore	@	108
+iraqi black metal	@	108
+humor death metal	@	108
+atmospheric dark musick	@	108
+My Own	@	108
+wacken	@	104
+smieszni lysi panowie	@	104
+slavic	@	104
+shiningly melody	@	104
+progressive dark metal	@	104
+pornosoul	@	104
+my favourite viking metal band	@	104
+emo influenced metalcore	@	104
+crystalcore	@	104
+chanson grind	@	104
+autruchecore	@	104
+astral black metal	@	104
+Viking and folk	@	104
+Viking Death Metal	@	104
+Negerpunk	@	104
+Anarchy hip-hop	@	104
+ukdm	@	100
+shoegaze black metal	@	100
+progresivo	@	100
+heavy metall rock	@	100
+death folk	@	100
+crivia	@	100
+anti-islam	@	100
+Witches Brew	@	100
+Tecnical Thrash Metal	@	100
+Melancholic Death Metal	@	100
+Guttural Death Metal	@	100
+eastern metal	@	97
+arabic metal	@	97
+unicorns	@	96
+table	@	96
+super black metal	@	96
+shansoncore	@	96
+melodic metal anthems sampler	@	96
+fictitious	@	96
+expressionism	@	96
+croatian grindcore	@	96
+Tablecore	@	96
+Michael Schenker	@	96
+Johnny Nightmare	@	96
+Folk-Metal	@	96
+Cinematic Dark Ambient	@	96
+AXAT	@	96
+Old-School	@	95
+spacegrind	@	92
+space grind	@	92
+proto metal	@	92
+jazz blues	@	92
+communist black metal	@	92
+bg-rock	@	92
+atmospheric folk metal	@	92
+acoustic oi	@	92
+Heidenmetal	@	92
+Black Folk Metal	@	92
+psychorap	@	88
+deathpipa	@	88
+black metal from belarus	@	88
+Totenpop	@	88
+Melodic Dark Metal	@	88
+Humppa Metal	@	88
+Fecal	@	88
+croatian black metal	@	86
+gothic doom	@	84
+MathMetal	@	84
+Anarcopunk	@	82
+spiritual ambient	@	80
+rif	@	80
+pedal noise	@	80
+macedonian metal	@	80
+hungarian hardcore	@	80
+clavecin	@	80
+Warhammer 40k	@	80
+Rockabilly Against Communism	@	80
+Progressive Technical Death Metal	@	80
+wall noise	@	76
+industrial drone doom	@	76
+extremeshocksexviolenceorcomedy	@	76
+Technical Brutal Death	@	76
+GiGi	@	76
+GRIM AND FROSTBITTEN	@	76
+Fuck it Up	@	76
+Electro Flamenco	@	76
+Blackened Thrash	@	76
+20th century classical composer	@	73
+australian hardcore	@	72
+from: finland	@	71
+slavic folk	@	68
+power industrial	@	68
+melodic speedcore	@	68
+chaos punk	@	68
+Pagan Ambient	@	68
+Bogovska muzika	@	68
+venezuela black metal	@	64
+thrash punk	@	64
+shanson-core	@	64
+russian mathcore	@	64
+chtulhu goloden	@	64
+Blasting Brutal Death Metal	@	64
+japcore	@	60
+gore hip-hop	@	60
+crasher crust	@	60
+noise metal	@	56
+melodic pagan metal	@	56
+gossenpoesie	@	56
+funeral ambient	@	56
+ddr related	@	56
+neo-classic	@	52
+lviv	@	52
+True Metal of Steel	@	52
+Streetrock	@	52
+Horror Hardcore	@	52
+Black-Death Metal	@	52
+80s French Heavy-Metal	@	52
+christian gothic	@	48
+PTU thrash metal	@	48
+rob zombie	@	44
+german march	@	44
+punk 82	@	40
+electronic body music	@	40
+music for cryosleep	@	32
+satanic propaganda	@	28

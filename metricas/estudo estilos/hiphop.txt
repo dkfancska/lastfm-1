@@ -1,0 +1,2027 @@
+hiphop	Death Doom Metal	18
+hiphop	jazz rap	14
+hiphop	j-rap	5
+hiphop	Aussie	23
+hiphop	english	6
+hiphop	beatz	4
+hiphop	Bahia	4
+hiphop	trippy	5
+hiphop	ahmad jamal	4
+hiphop	japanese	281
+hiphop	remix	20
+hiphop	Acid	14
+hiphop	outsider	8
+hiphop	shit	7
+hiphop	emo violence	12
+hiphop	Post punk	14
+hiphop	Christian Metalcore	25
+hiphop	8bit	27
+hiphop	Classic Blues	20
+hiphop	electronic rock	11
+hiphop	New Zealand	92
+hiphop	songwriter	9
+hiphop	United States	4
+hiphop	ersguterjunge	16
+hiphop	j-hiphop	8
+hiphop	khh	4
+hiphop	political punk	16
+hiphop	Russian Pop	25
+hiphop	bummer	5
+hiphop	industrial metal	181
+hiphop	anatolian rock	7
+hiphop	humour	36
+hiphop	Russian rnb	4
+hiphop	crossover thrash	14
+hiphop	modern metal	28
+hiphop	deutscher rap	4
+hiphop	elvis metal	15
+hiphop	brazilian	171
+hiphop	basura	6
+hiphop	Reggae Rock	4
+hiphop	dark cabaret	5
+hiphop	Technical Death Metal	60
+hiphop	symphonic	7
+hiphop	melodic hardcore	122
+hiphop	swing	112
+hiphop	thrashcore	35
+hiphop	two-tone	5
+hiphop	christian	129
+hiphop	anime soundtrack	5
+hiphop	undergroundrap	4
+hiphop	lord of the rings	10
+hiphop	caribbean	5
+hiphop	countrycore	8
+hiphop	Drake	14
+hiphop	mike patton	13
+hiphop	oldies	159
+hiphop	Aussie Hip-Hop	16
+hiphop	Moldovan	6
+hiphop	cuba	8
+hiphop	punkrock	5
+hiphop	african dope records	4
+hiphop	moda	11
+hiphop	art pop	31
+hiphop	Eminem	264
+hiphop	emo	328
+hiphop	Funk Rock	147
+hiphop	Spanish Metal	9
+hiphop	Nick Jonas	20
+hiphop	Liquid	18
+hiphop	swedish hiphop	16
+hiphop	bermuda	6
+hiphop	fernando e sorocaba	4
+hiphop	Southern Hip Hop	65
+hiphop	Horrorpunk	5
+hiphop	roots reggae	134
+hiphop	mahomies	6
+hiphop	proto-punk	51
+hiphop	hardstyle	26
+hiphop	Pop-Rock	59
+hiphop	:3	7
+hiphop	ska	247
+hiphop	instrumental hip-hop	265
+hiphop	darkwave	82
+hiphop	sesh	45
+hiphop	rickroll	7
+hiphop	jazz trumpet	5
+hiphop	cabaret	14
+hiphop	pizdocore	5
+hiphop	chiraq	4
+hiphop	musica brasileira	6
+hiphop	psychedelic pop	9
+hiphop	amstaff	6
+hiphop	musik um sich allein zu betrinken	4
+hiphop	croatian	9
+hiphop	2NE1	10
+hiphop	boybands	31
+hiphop	Pornorap	9
+hiphop	french	351
+hiphop	instrumental rock	17
+hiphop	musical	54
+hiphop	NWOBHM	90
+hiphop	Chicago House	4
+hiphop	xxt	9
+hiphop	medieval	30
+hiphop	diva	9
+hiphop	jagged edge	4
+hiphop	Bulgarian rap	5
+hiphop	noisecore	29
+hiphop	Finnish Black Metal	12
+hiphop	drag queen	4
+hiphop	weird	7
+hiphop	buttercore	9
+hiphop	Justus League	38
+hiphop	Suomi	18
+hiphop	montreal	9
+hiphop	classic russian rock	5
+hiphop	samba	61
+hiphop	balkan	26
+hiphop	sludge metal	39
+hiphop	spacey	9
+hiphop	young money	40
+hiphop	twee	20
+hiphop	chill trap	9
+hiphop	rock-n-roll	6
+hiphop	drops wet cement on unsuspecting crippled children	5
+hiphop	True Norwegian Black Metal	15
+hiphop	d12	47
+hiphop	Rock Urbano	8
+hiphop	DJENT	22
+hiphop	hypnagogic pop	14
+hiphop	G-Unit	48
+hiphop	Cashis	4
+hiphop	r and b	38
+hiphop	the vamps	6
+hiphop	deep techno	5
+hiphop	metal	520
+hiphop	kleinkunst	4
+hiphop	mandarin	7
+hiphop	Canterbury Scene	5
+hiphop	Epik High	8
+hiphop	brazilian rap	33
+hiphop	Rap Italiano	4
+hiphop	sm	4
+hiphop	Victor e Leo	5
+hiphop	cloud rnb	13
+hiphop	Selena Gomez	46
+hiphop	poznan	6
+hiphop	downtempo	355
+hiphop	neutral	5
+hiphop	flora matos	7
+hiphop	mathcore	69
+hiphop	Ayumi Hamasaki	5
+hiphop	hyuna	8
+hiphop	jazz	457
+hiphop	manguebeat	9
+hiphop	cybergrind	25
+hiphop	russian punk	4
+hiphop	lloyd	10
+hiphop	vocals	5
+hiphop	danish	103
+hiphop	Patriot	8
+hiphop	live	4
+hiphop	Jam	32
+hiphop	chicago	181
+hiphop	romantic	58
+hiphop	House	453
+hiphop	eurodance	55
+hiphop	balada sertajera	4
+hiphop	hyphy	16
+hiphop	netlabel	11
+hiphop	british	594
+hiphop	beatbox blues	4
+hiphop	worship	11
+hiphop	Goa Trance	8
+hiphop	rio grande do sul	6
+hiphop	flint	4
+hiphop	vocal house	12
+hiphop	turntablism	114
+hiphop	Hip-Hop	754
+hiphop	2am	6
+hiphop	east coast hip-hop	10
+hiphop	currensy wiz khalifa	9
+hiphop	texas	13
+hiphop	Gothic Metal	105
+hiphop	tech-house	7
+hiphop	detroit rap	17
+hiphop	Rock 'n' Roll	7
+hiphop	powerviolence	36
+hiphop	Avant-Prog	4
+hiphop	drone	83
+hiphop	composer	101
+hiphop	doubletime	17
+hiphop	seiyuu	11
+hiphop	new wave	297
+hiphop	asking alexandria	6
+hiphop	Oakland	7
+hiphop	soft rock	51
+hiphop	block b	17
+hiphop	post-whatever	9
+hiphop	Emre Aydin	4
+hiphop	Drum and bass	206
+hiphop	anime	93
+hiphop	heavy metal	363
+hiphop	Norway	18
+hiphop	rock brasil	4
+hiphop	seungri	7
+hiphop	post-rock	238
+hiphop	Kpop	63
+hiphop	ethereal	56
+hiphop	sufi	5
+hiphop	techno	395
+hiphop	Miyavi	7
+hiphop	scratch	4
+hiphop	early music	4
+hiphop	favorites	8
+hiphop	neptunes	21
+hiphop	chillstep	21
+hiphop	hasidic reggae	19
+hiphop	indian classical	4
+hiphop	stronda music	9
+hiphop	experimental hip-hop	84
+hiphop	latin pop	66
+hiphop	sistar	9
+hiphop	untermensch	5
+hiphop	moog	5
+hiphop	latvian	13
+hiphop	webcore	4
+hiphop	Jazz Rock	16
+hiphop	southern rap	254
+hiphop	Funk Carioca	12
+hiphop	breaks	30
+hiphop	chamber pop	27
+hiphop	Mario	7
+hiphop	male vocalist	14
+hiphop	furry	5
+hiphop	based	77
+hiphop	Magadan	5
+hiphop	male country	4
+hiphop	Crust	60
+hiphop	cnblue	4
+hiphop	drumstep	10
+hiphop	f(x)	9
+hiphop	jazz hiphop	18
+hiphop	bonn	6
+hiphop	kto nie zna ten gej	4
+hiphop	Greek	27
+hiphop	surf punk	4
+hiphop	spanish indie pop	11
+hiphop	noise rock	88
+hiphop	underground rap	321
+hiphop	maracatu	6
+hiphop	conscious hip-hop	6
+hiphop	rap	742
+hiphop	Polski Hip-Hop	8
+hiphop	psychedelic folk	7
+hiphop	lithuanian	8
+hiphop	pop punk	290
+hiphop	electro house	133
+hiphop	rai	6
+hiphop	psytrance	81
+hiphop	rock argento	4
+hiphop	classical crossover	4
+hiphop	58Muzik	7
+hiphop	Pure Fucking True Norwegian Nazi Apokalyptic Ocultistic Black Like Satans Ass Metal From Land Of The Vikings	5
+hiphop	martial industrial	16
+hiphop	k-hiphop	14
+hiphop	Arashi	7
+hiphop	epic metal	20
+hiphop	Impressionist	11
+hiphop	Old School soul	4
+hiphop	C-CLOWN	4
+hiphop	belarussian	12
+hiphop	gay	36
+hiphop	outlaw country	9
+hiphop	modern rock	12
+hiphop	desi	20
+hiphop	rock	731
+hiphop	jerkin	12
+hiphop	ukrainian alternative	5
+hiphop	afrikaans	50
+hiphop	adult contemporary	4
+hiphop	seattle	44
+hiphop	italian progressive rock	4
+hiphop	joe jonas	4
+hiphop	catalan	6
+hiphop	Harsh EBM	11
+hiphop	Psychedelic Rock	260
+hiphop	PIZDACORE	7
+hiphop	Disney	103
+hiphop	rock en español	4
+hiphop	french rap	31
+hiphop	soulful	8
+hiphop	jrock	58
+hiphop	venezuela	7
+hiphop	Stronda	9
+hiphop	k-pop	81
+hiphop	math metal	32
+hiphop	porngrind	12
+hiphop	Ne-Yo	37
+hiphop	NYC	4
+hiphop	estonian	14
+hiphop	rock opera	8
+hiphop	TVXQ	9
+hiphop	pagan metal	41
+hiphop	boy der am block chillt	4
+hiphop	maroon 5	6
+hiphop	beatdown	23
+hiphop	chanson francaise	39
+hiphop	j holiday	5
+hiphop	podcast	16
+hiphop	crooners	5
+hiphop	juggalo	18
+hiphop	geek rock	6
+hiphop	rj	17
+hiphop	modern hardcore	15
+hiphop	south african	15
+hiphop	ashley tisdale	12
+hiphop	russian	214
+hiphop	UK Garage	87
+hiphop	viking metal	49
+hiphop	instrumental hip hop	27
+hiphop	creative commons	8
+hiphop	tv	10
+hiphop	90s	337
+hiphop	blues	356
+hiphop	score	34
+hiphop	acid house	14
+hiphop	acoustic blues	4
+hiphop	reggae-more	4
+hiphop	dainuojamoji poezija	5
+hiphop	Electro-Hop	8
+hiphop	jurassic 5	4
+hiphop	slow jams	81
+hiphop	Ashlee Simpson	4
+hiphop	chiddy bang	16
+hiphop	USBM	11
+hiphop	guilty pleasure	69
+hiphop	rap rock	6
+hiphop	Europop	13
+hiphop	mexican	22
+hiphop	german	330
+hiphop	oldschool	12
+hiphop	raggamuffin	20
+hiphop	bolero	4
+hiphop	acid jazz	95
+hiphop	G-funk	65
+hiphop	dnb	116
+hiphop	psychobilly	58
+hiphop	bitpop	9
+hiphop	spanish hip hop	6
+hiphop	old school black metal	8
+hiphop	YG	14
+hiphop	dance punk	5
+hiphop	Emily Osment	5
+hiphop	futuristic	4
+hiphop	latin jazz	13
+hiphop	Nelly	33
+hiphop	light	6
+hiphop	Futuristic swag	5
+hiphop	Dong Bang Shin Ki	14
+hiphop	sp funk	5
+hiphop	California	198
+hiphop	poznanski hh	5
+hiphop	german thrash metal	7
+hiphop	Finnish reggae	6
+hiphop	sweet	4
+hiphop	breakcore	104
+hiphop	brazil	76
+hiphop	post-hardcore	215
+hiphop	Rapper	30
+hiphop	jazz funk	6
+hiphop	Blue-Eyed Soul	13
+hiphop	abstract	56
+hiphop	Hard Trance	10
+hiphop	electronica	537
+hiphop	Halo	5
+hiphop	Deutsch Rap	21
+hiphop	ugly	8
+hiphop	Indie Hip Hop	5
+hiphop	rhymesayers	41
+hiphop	niconico	5
+hiphop	French jazz	10
+hiphop	raw black metal	19
+hiphop	retro pop	6
+hiphop	Kiwi	4
+hiphop	selfmade records	21
+hiphop	happy hardcore	40
+hiphop	synthwave	13
+hiphop	bow wow	10
+hiphop	composers	85
+hiphop	300	4
+hiphop	wicked shit	12
+hiphop	Tim McGraw	4
+hiphop	bluegrass	20
+hiphop	j-core	6
+hiphop	club	130
+hiphop	infantil	4
+hiphop	Juke	15
+hiphop	steven wilson	6
+hiphop	skinhead reggae	7
+hiphop	minimal wave	9
+hiphop	Depressive Suicidal Black Metal	6
+hiphop	RVIDXR KLVN	6
+hiphop	Alt-country	90
+hiphop	post hardcore	29
+hiphop	blackened thrash metal	20
+hiphop	florida	22
+hiphop	mash up	5
+hiphop	Punk-Rock	8
+hiphop	shitty anal gaycore	15
+hiphop	bass	115
+hiphop	ethno	5
+hiphop	Chicago Blues	16
+hiphop	Asking Australiandria	6
+hiphop	blackened blues	6
+hiphop	Pop Metal	23
+hiphop	polish reggae	14
+hiphop	emocore	121
+hiphop	boringsounds	13
+hiphop	Johnnys entertainment	12
+hiphop	melodic black metal	37
+hiphop	Soviet	4
+hiphop	jazz piano	41
+hiphop	Retro	10
+hiphop	Avant-Garde	148
+hiphop	Post-Metal	43
+hiphop	progressive psytrance	13
+hiphop	gangsta	11
+hiphop	russian underground rap	9
+hiphop	Faith Hill	4
+hiphop	electro funk	6
+hiphop	Norwegian Black Metal	42
+hiphop	math rock	113
+hiphop	hardcore techno	12
+hiphop	tech house	51
+hiphop	Trill	10
+hiphop	jazz vocal	38
+hiphop	sonar kollektiv	5
+hiphop	minimal	167
+hiphop	french montana	15
+hiphop	tribal	6
+hiphop	hardcore rap	86
+hiphop	ost	49
+hiphop	new jersey	47
+hiphop	folk-rock	19
+hiphop	power pop	48
+hiphop	Pop Music	4
+hiphop	the wanted	12
+hiphop	d	4
+hiphop	bachata	7
+hiphop	klezmer	6
+hiphop	Swedish Death Metal	22
+hiphop	nu soul	25
+hiphop	poetry	43
+hiphop	harmonica blues	6
+hiphop	Turkish Rap	7
+hiphop	20th Century Classical	6
+hiphop	Pop-punk	25
+hiphop	celtic	40
+hiphop	art rap	15
+hiphop	miami	45
+hiphop	mysterious	77
+hiphop	dance	571
+hiphop	LIL BOOSIE	6
+hiphop	mixtape	13
+hiphop	easy listening	99
+hiphop	Deutscher Underground HipHop	4
+hiphop	autotune	4
+hiphop	All	122
+hiphop	Nederpop	7
+hiphop	gravity boys	4
+hiphop	piano	229
+hiphop	moe	4
+hiphop	rap metal	12
+hiphop	shibuya-kei	14
+hiphop	electronicore	10
+hiphop	hardcore melodico	5
+hiphop	gypsy punk	22
+hiphop	pianist	5
+hiphop	tejano	4
+hiphop	melancholy	4
+hiphop	cali	5
+hiphop	chillout	454
+hiphop	Bay Area	41
+hiphop	Monsta X	11
+hiphop	electropunk	23
+hiphop	Britney Spears	87
+hiphop	power violence	22
+hiphop	jah	4
+hiphop	all things annoying in the world put together into one stupid bitch	4
+hiphop	electro-swing	14
+hiphop	Manchester	5
+hiphop	german reggae	22
+hiphop	russian metalcore	4
+hiphop	oshare kei	8
+hiphop	industrial hardcore	10
+hiphop	Russian Black Metal	4
+hiphop	jazz fusion	27
+hiphop	mobb deep	8
+hiphop	nu-jazz	60
+hiphop	bedroom pop	7
+hiphop	folktronica	27
+hiphop	Nederlandstalig	14
+hiphop	Rock and Roll	57
+hiphop	emopunkrap	4
+hiphop	seventeen	6
+hiphop	Aftermath	4
+hiphop	cover	50
+hiphop	2009	4
+hiphop	serbian	4
+hiphop	jamaica	61
+hiphop	Shellerini i Slon	6
+hiphop	big bang	34
+hiphop	minimal synth	8
+hiphop	beach punk	20
+hiphop	Tenor Sax	7
+hiphop	free jazz	36
+hiphop	slam death metal	7
+hiphop	virginia	20
+hiphop	Singer/Songwriter	9
+hiphop	swedish black metal	16
+hiphop	black gospel	4
+hiphop	4ad	9
+hiphop	Flamenco	26
+hiphop	BTOB	4
+hiphop	atmospheric death metal	6
+hiphop	Pokemon	4
+hiphop	Wroclaw	4
+hiphop	indie pop	426
+hiphop	art-rock	4
+hiphop	powerpop	104
+hiphop	straight edge hardcore	9
+hiphop	Skinhead	13
+hiphop	Discoverockult	4
+hiphop	rock nacional	8
+hiphop	kgrl	5
+hiphop	blackened crust	5
+hiphop	Stoner Rock	145
+hiphop	BPitch Control	13
+hiphop	mississippi	35
+hiphop	cpop	6
+hiphop	Bandcamp	4
+hiphop	São Paulo	12
+hiphop	sorena	6
+hiphop	vocaloid	19
+hiphop	dj	58
+hiphop	contemporary classical	70
+hiphop	pop rock	290
+hiphop	Israel	6
+hiphop	scat	6
+hiphop	BG	12
+hiphop	it is so fucking best it makes me wanna put cooked cauliflower into my ears and scream pope sucks my dick	4
+hiphop	DITC	18
+hiphop	beast coast	26
+hiphop	Grunge Rock	4
+hiphop	new rave	128
+hiphop	Justin Timberlake	4
+hiphop	industrial rock	79
+hiphop	balearic	8
+hiphop	Soundtracks	48
+hiphop	Norge	7
+hiphop	broken beats	5
+hiphop	taio cruz	29
+hiphop	electronic	731
+hiphop	Technical Brutal Death Metal	13
+hiphop	anarcho punk	4
+hiphop	glitch-hop	78
+hiphop	pagan black metal	4
+hiphop	The Diplomats	5
+hiphop	nu jazz	53
+hiphop	Naruto	4
+hiphop	post black metal	4
+hiphop	easy-listening	64
+hiphop	8bitpeoples	6
+hiphop	Gangsta Rap	417
+hiphop	queens	12
+hiphop	spanish hip-hop	20
+hiphop	DC	45
+hiphop	Rock Argentino	15
+hiphop	video game music	88
+hiphop	marques houston	4
+hiphop	persian hip hop	5
+hiphop	Garage Punk	24
+hiphop	pittsburgh	59
+hiphop	Schlager	4
+hiphop	lesser known yet streamable artists	18
+hiphop	Ukrainian	79
+hiphop	Neo-Soul	153
+hiphop	renaissance	6
+hiphop	horror punk	60
+hiphop	slaughterhouse	17
+hiphop	upbeat	5
+hiphop	conscious reggae	4
+hiphop	2012	5
+hiphop	Raggacore	7
+hiphop	raaap	12
+hiphop	rhythm and blues	132
+hiphop	doujin	11
+hiphop	Portugal	5
+hiphop	youtube	22
+hiphop	speed metal	122
+hiphop	dance-punk	11
+hiphop	Post-punk revival	6
+hiphop	misc	6
+hiphop	Mint Condition	5
+hiphop	Doom	18
+hiphop	Queensbridge	22
+hiphop	afrobeat	15
+hiphop	folk metal	69
+hiphop	midwest emo	23
+hiphop	geek music	4
+hiphop	glam rock	152
+hiphop	producer	82
+hiphop	praise and worship	6
+hiphop	Indian	11
+hiphop	psychopathic	12
+hiphop	dancehall	198
+hiphop	Grind	34
+hiphop	artcore	4
+hiphop	dru hill	5
+hiphop	Turkish Pop	8
+hiphop	Oi	50
+hiphop	Avant-garde Metal	17
+hiphop	pirate metal	7
+hiphop	Garage Rock	135
+hiphop	memphis	36
+hiphop	goa	51
+hiphop	dirty house	4
+hiphop	oldschool hardcore	24
+hiphop	psycho rap	17
+hiphop	folk punk	59
+hiphop	fi-reggae	9
+hiphop	deathgrind	42
+hiphop	old school thrash metal	9
+hiphop	SNSD	15
+hiphop	70s	242
+hiphop	Dirty South	331
+hiphop	world fusion	4
+hiphop	twista	16
+hiphop	lady antebellum	4
+hiphop	battle rap	9
+hiphop	4minute	17
+hiphop	xv	10
+hiphop	Belarusian	10
+hiphop	positive	4
+hiphop	Rap Nacional	49
+hiphop	shoegaze	183
+hiphop	Japanoise	4
+hiphop	the voice	23
+hiphop	russian reggae	9
+hiphop	Drum n Bass	122
+hiphop	post-internet	4
+hiphop	dark jazz	5
+hiphop	indiemo	4
+hiphop	brainfeeder	19
+hiphop	ninja tune	108
+hiphop	Lo-Fi	241
+hiphop	reggae brasileiro	15
+hiphop	Madlib	12
+hiphop	boston	18
+hiphop	psychocore	5
+hiphop	accordion	4
+hiphop	modern country	18
+hiphop	ID3	4
+hiphop	Spanish punk	9
+hiphop	Queen	6
+hiphop	ebm	44
+hiphop	Shania Twain	5
+hiphop	funeral doom	8
+hiphop	nueva trova	4
+hiphop	acoustic	416
+hiphop	indonesia	6
+hiphop	traditional	10
+hiphop	jyp	4
+hiphop	welsh	4
+hiphop	Gothic Rock	123
+hiphop	meme rap	5
+hiphop	Italo Disco	11
+hiphop	French rock	8
+hiphop	Deutschrap	80
+hiphop	ethnic	21
+hiphop	50s	19
+hiphop	Russia	11
+hiphop	Rave	38
+hiphop	pornogrind	12
+hiphop	vocal	27
+hiphop	brazilian rock	47
+hiphop	Cloud	10
+hiphop	hyperdub	21
+hiphop	mpb	76
+hiphop	hifi banda	6
+hiphop	History	5
+hiphop	jazz guitar	13
+hiphop	2ch	4
+hiphop	alcohol	6
+hiphop	industrial black metal	14
+hiphop	akk	11
+hiphop	cute	41
+hiphop	tbm	4
+hiphop	norwegian	193
+hiphop	glee	31
+hiphop	Cassidy	7
+hiphop	Dope Shit	6
+hiphop	classic hip-hop	4
+hiphop	Irish Folk	7
+hiphop	jewish	21
+hiphop	folk-punk	4
+hiphop	catchy	8
+hiphop	basque	7
+hiphop	psychill	27
+hiphop	Persian Hiphop LORD	4
+hiphop	40s	10
+hiphop	Game Music	43
+hiphop	independent	11
+hiphop	northern soul	6
+hiphop	Shanson	4
+hiphop	polskie	4
+hiphop	Hong Kong	7
+hiphop	russian rap	101
+hiphop	tempo de paz	4
+hiphop	planet mu	6
+hiphop	metallic hardcore	12
+hiphop	kawaii metal	11
+hiphop	melodic metal	35
+hiphop	Brooklyn	45
+hiphop	Eurovision	48
+hiphop	atmospheric black metal	41
+hiphop	neoclassical	27
+hiphop	hiphopoliticombativo	4
+hiphop	singer songwriter	9
+hiphop	new country	6
+hiphop	pottmusik	4
+hiphop	Avant-Garde Jazz	11
+hiphop	Southern Soul	4
+hiphop	canada	48
+hiphop	melodifestivalen	8
+hiphop	slovak	9
+hiphop	Jay Park	11
+hiphop	Soul Assassins	4
+hiphop	u-kiss	10
+hiphop	taemin	4
+hiphop	ska punk	82
+hiphop	Southern Rock	94
+hiphop	uk funky	9
+hiphop	brazilian country	7
+hiphop	chill	104
+hiphop	Holly Brook	6
+hiphop	Rap-Rock	5
+hiphop	france	27
+hiphop	drill	36
+hiphop	fun	23
+hiphop	blue note	5
+hiphop	Michigan	9
+hiphop	machine gun kelly	15
+hiphop	classical piano	4
+hiphop	final fantasy	20
+hiphop	Dope	13
+hiphop	russian alternative	35
+hiphop	Untergrund	7
+hiphop	Acapella	4
+hiphop	real recognize real and this nigga the realest	55
+hiphop	Filthstep	17
+hiphop	lyrical	6
+hiphop	goth rock	8
+hiphop	zayn	18
+hiphop	X factor	71
+hiphop	cultura	5
+hiphop	raf camora	7
+hiphop	Fusion	110
+hiphop	polski rap	20
+hiphop	romania	6
+hiphop	doo wop	7
+hiphop	Bemani	4
+hiphop	ECM	7
+hiphop	kim sung kyu	4
+hiphop	Def Jux	68
+hiphop	sertanejo	20
+hiphop	trey songz	32
+hiphop	atmospheric	53
+hiphop	better than radiohead	4
+hiphop	jazzy hip-hop	25
+hiphop	alternative rap	264
+hiphop	vixx	12
+hiphop	philly soul	6
+hiphop	female emcees	13
+hiphop	Dreamy	10
+hiphop	Strange Music	16
+hiphop	Hospital Records	6
+hiphop	dallas	4
+hiphop	uniq	11
+hiphop	garage pop	11
+hiphop	Extreme Power Metal	10
+hiphop	female vocalists	664
+hiphop	country	191
+hiphop	ambidjent	4
+hiphop	atmospheric drum and bass	7
+hiphop	Electro-Rock	5
+hiphop	Progressive deathcore	16
+hiphop	Warp	18
+hiphop	national socialist black metal	9
+hiphop	streetpunk	11
+hiphop	bulgarian	28
+hiphop	tropicalia	17
+hiphop	thrash metal	218
+hiphop	electropop	217
+hiphop	no wave	33
+hiphop	Holy Hip-Hop	4
+hiphop	contemporary jazz	17
+hiphop	Kanye West	258
+hiphop	Jesse McCartney	7
+hiphop	argentina	28
+hiphop	Kelly Clarkson	36
+hiphop	east coast rap	318
+hiphop	pagan folk	6
+hiphop	angeschwollene Eier	13
+hiphop	cold wave	7
+hiphop	fastcore	15
+hiphop	Alchemist	6
+hiphop	Gay Metal	6
+hiphop	jack white	5
+hiphop	baroque pop	4
+hiphop	female vocal	22
+hiphop	indie rock	507
+hiphop	girl group	18
+hiphop	brasil	90
+hiphop	alternative rnb	27
+hiphop	News	6
+hiphop	mash-up	22
+hiphop	abstract hip-hop	101
+hiphop	Psychedelic Soul	5
+hiphop	praise	4
+hiphop	govno	7
+hiphop	atzenmusik	4
+hiphop	qn5	9
+hiphop	Diamond District	4
+hiphop	dubstep	394
+hiphop	frenchcore	7
+hiphop	video game	14
+hiphop	Ludacris	52
+hiphop	underground hip-hop	552
+hiphop	deep house	98
+hiphop	wu-tang	198
+hiphop	Iranian	15
+hiphop	beardcore	10
+hiphop	rock francais	4
+hiphop	bulgaria	7
+hiphop	mix	5
+hiphop	Rania	4
+hiphop	uruguay	7
+hiphop	spanish	170
+hiphop	skatepunk	4
+hiphop	nagoya kei	5
+hiphop	youth crew	18
+hiphop	fidget house	8
+hiphop	psydub	4
+hiphop	Radom	6
+hiphop	supreme team	4
+hiphop	Easycore	10
+hiphop	boot camp clik	27
+hiphop	tamia	4
+hiphop	psychedelic surf	6
+hiphop	trancecore	58
+hiphop	toronto	10
+hiphop	latin	207
+hiphop	Punkabilly	4
+hiphop	anti-folk	17
+hiphop	doom metal	157
+hiphop	stoner	55
+hiphop	Japanese Indie	4
+hiphop	inna	16
+hiphop	red velvet	9
+hiphop	male	17
+hiphop	Alabama	33
+hiphop	Soundtrack	409
+hiphop	World Music	28
+hiphop	funny	75
+hiphop	Ruhrpott	9
+hiphop	Grunge	290
+hiphop	slovenian	4
+hiphop	Cleveland	23
+hiphop	indie	672
+hiphop	real screamo	19
+hiphop	freestyle	43
+hiphop	Middle Eastern	4
+hiphop	retrowave	7
+hiphop	djs	33
+hiphop	italiana	7
+hiphop	naijasoundz	4
+hiphop	celtic metal	7
+hiphop	Partymusic	4
+hiphop	8 bit	6
+hiphop	sludgecore	4
+hiphop	randie pop	8
+hiphop	finnish rock	4
+hiphop	nerd hop	6
+hiphop	Progressive	152
+hiphop	chanson	44
+hiphop	harlem	63
+hiphop	skate punk	26
+hiphop	germany	21
+hiphop	comedy	176
+hiphop	Trash	10
+hiphop	drone doom	10
+hiphop	futurepop	17
+hiphop	psychedelic trance	26
+hiphop	Twinkle daddies	5
+hiphop	Rock en Espanol	21
+hiphop	emotional	7
+hiphop	irish	161
+hiphop	Swollen Members	6
+hiphop	iskelma	9
+hiphop	good	4
+hiphop	ronnie radke	8
+hiphop	crystal castles clone	4
+hiphop	Progressive Era	8
+hiphop	parody	48
+hiphop	hungarian	23
+hiphop	Love Metal	31
+hiphop	italian pop	15
+hiphop	orchestra	12
+hiphop	deutschpunk	10
+hiphop	saxophone	43
+hiphop	dark electro	19
+hiphop	Conscious Rap	12
+hiphop	heavy	14
+hiphop	C-pop	22
+hiphop	kansas	11
+hiphop	rapcarioca	9
+hiphop	Neo Soul	68
+hiphop	hungary	5
+hiphop	J-Indie	6
+hiphop	Power metal	174
+hiphop	turkish	30
+hiphop	neocrust	8
+hiphop	meek mill	43
+hiphop	CAO	7
+hiphop	melodic rock	9
+hiphop	mc	4
+hiphop	memphis rap	75
+hiphop	Deutschrock	20
+hiphop	electrohouse	6
+hiphop	Old School Hip Hop	21
+hiphop	surf rock	38
+hiphop	denpa	8
+hiphop	trip-hop	394
+hiphop	a cappella	12
+hiphop	future bass	7
+hiphop	atlanta	137
+hiphop	keyshia cole	10
+hiphop	Crunk	122
+hiphop	poezja śpiewana	4
+hiphop	groovy	6
+hiphop	Old School Punk	4
+hiphop	funk metal	21
+hiphop	Technocore	8
+hiphop	skatedrink	6
+hiphop	electro hop	40
+hiphop	speed	5
+hiphop	spotify	27
+hiphop	hipster rap	30
+hiphop	2016	5
+hiphop	rockabilly	80
+hiphop	travis porter	5
+hiphop	miami bass	10
+hiphop	Obie Trice	18
+hiphop	Mariah Carey	36
+hiphop	JPop	75
+hiphop	chiptune	48
+hiphop	south africa	5
+hiphop	folk rock	147
+hiphop	Bashment	8
+hiphop	PFK Kompany	6
+hiphop	gothenburg metal	15
+hiphop	israeli	13
+hiphop	beast	6
+hiphop	jazz-funk	14
+hiphop	cloud rap	103
+hiphop	polish	127
+hiphop	Neo-Psychedelia	4
+hiphop	francais	15
+hiphop	industrial	304
+hiphop	Post-Industrial	4
+hiphop	Houston	92
+hiphop	stihi	5
+hiphop	dark pop	10
+hiphop	bubblegum	5
+hiphop	Tech-Trance	6
+hiphop	Aquacrunk	7
+hiphop	m-flo	5
+hiphop	orgcore	7
+hiphop	best act ever	7
+hiphop	Keep stats clean	5
+hiphop	Melodic Death Metal	157
+hiphop	Pagode	12
+hiphop	visual kei	48
+hiphop	powernoise	17
+hiphop	Czech	25
+hiphop	salsa	18
+hiphop	k-rock	13
+hiphop	post-hip-hop	4
+hiphop	Dilated Peoples	27
+hiphop	dark ambient	83
+hiphop	Suomi Hip-hop	13
+hiphop	screw	7
+hiphop	Hieroglyphics	13
+hiphop	urban	133
+hiphop	old school rap	41
+hiphop	neofolk	45
+hiphop	thrash	57
+hiphop	nouvelle scene francaise	4
+hiphop	covers	32
+hiphop	maneva	4
+hiphop	psy	13
+hiphop	french reggae	5
+hiphop	rock n roll	62
+hiphop	female rappers	7
+hiphop	quiet storm	14
+hiphop	gothic lolita	7
+hiphop	Broken Beat	15
+hiphop	anarcho-punk	19
+hiphop	orchestral	32
+hiphop	female	87
+hiphop	Korean Hip Hop	6
+hiphop	deutsch	52
+hiphop	art rock	32
+hiphop	hard house	5
+hiphop	bollywood	4
+hiphop	true metal	12
+hiphop	Hawaiian	5
+hiphop	patchanka	5
+hiphop	skacore	19
+hiphop	Polish RAP	19
+hiphop	Ramriddlz	6
+hiphop	RBD	7
+hiphop	chaotic hardcore	24
+hiphop	nyhc	27
+hiphop	Post-Black Metal	21
+hiphop	dirty	7
+hiphop	hip hop	725
+hiphop	german rap	41
+hiphop	backstreet boys	19
+hiphop	cantonese	4
+hiphop	3 Doors Down	25
+hiphop	true black metal	22
+hiphop	Black n Roll	7
+hiphop	jorge e mateus	8
+hiphop	FUCKING AWESOME	7
+hiphop	Romanian	31
+hiphop	Timbaland	23
+hiphop	francophone	11
+hiphop	indie folk	89
+hiphop	uk Hardcore	5
+hiphop	dutch	91
+hiphop	Bitch House	13
+hiphop	cinematic	5
+hiphop	trap	191
+hiphop	Surf	67
+hiphop	Celtic Folk Metal	7
+hiphop	london	8
+hiphop	finnish metal	13
+hiphop	moombahton	5
+hiphop	Punk Metal	5
+hiphop	50 Cent	116
+hiphop	portland	8
+hiphop	melodic punk	12
+hiphop	Unimaginable Brilliance	9
+hiphop	one direction	36
+hiphop	chalga	5
+hiphop	delta blues	22
+hiphop	cuban	17
+hiphop	Neue Deutsche Haerte	4
+hiphop	rock chileno	14
+hiphop	Russian Hip Hop	4
+hiphop	ex-yu	5
+hiphop	Radio	6
+hiphop	Greek Pop	5
+hiphop	melodic hardstyle	6
+hiphop	Progressive rock	369
+hiphop	rocksteady	20
+hiphop	junsu	4
+hiphop	zashkvar	4
+hiphop	trip hop	75
+hiphop	devil	10
+hiphop	melodic doom metal	4
+hiphop	living legends	8
+hiphop	Post-Bop	16
+hiphop	ragga	102
+hiphop	ss501	5
+hiphop	vocal jazz	98
+hiphop	Suomirap	23
+hiphop	Berlin	39
+hiphop	Dipset	33
+hiphop	cwb	4
+hiphop	pop-folk	7
+hiphop	mierda	11
+hiphop	darkstep	21
+hiphop	stand-up comedy	11
+hiphop	russian hip-hop	61
+hiphop	teen pop	16
+hiphop	german dream	11
+hiphop	dub reggae	9
+hiphop	bg hip hop	5
+hiphop	g-dragon	7
+hiphop	jamaican	26
+hiphop	Zedbazi	6
+hiphop	Modern Melodic Death Metal	4
+hiphop	moosecore	5
+hiphop	hard techno	13
+hiphop	nu disco	13
+hiphop	trap music	6
+hiphop	nice	4
+hiphop	summer	8
+hiphop	industrial jungle pussy punk	19
+hiphop	minimal house	4
+hiphop	Ariana Grande	43
+hiphop	electro-dub	6
+hiphop	case	4
+hiphop	stand-up	13
+hiphop	jonas brothers	20
+hiphop	brazilian metal	4
+hiphop	West Coast Rap	243
+hiphop	galiza	4
+hiphop	coldwave	17
+hiphop	water	9
+hiphop	decadence	4
+hiphop	offenbach	20
+hiphop	Acoustic Rock	52
+hiphop	Lil Wayne	40
+hiphop	post-grunge	78
+hiphop	Canadian	506
+hiphop	brick squad	31
+hiphop	Albanian	4
+hiphop	Anjunabeats	4
+hiphop	Chicano Rap	9
+hiphop	Big Band	23
+hiphop	stoner metal	52
+hiphop	after school	5
+hiphop	french black metal	4
+hiphop	religious black metal	4
+hiphop	Sertaneja	4
+hiphop	antifascist	7
+hiphop	anadolu rock	6
+hiphop	drum'n'bass	6
+hiphop	J-Metal	11
+hiphop	Dark metal	18
+hiphop	Polski Hip Hop	36
+hiphop	suomihoppi	7
+hiphop	Persian	15
+hiphop	guitar virtuoso	40
+hiphop	progressive trance	72
+hiphop	new age	73
+hiphop	jazz metal	11
+hiphop	crabcore	15
+hiphop	unknown	78
+hiphop	East Coast	141
+hiphop	MBLAQ	4
+hiphop	j-urban	12
+hiphop	new york	336
+hiphop	ex-yu rock	4
+hiphop	new roots	10
+hiphop	Wu Fam	7
+hiphop	Bastarz	4
+hiphop	alternative hip-hop	38
+hiphop	pleasure p	4
+hiphop	deppresive	4
+hiphop	taylor gang	9
+hiphop	los angeles	35
+hiphop	glo-fi	17
+hiphop	guitar pop	4
+hiphop	hundycore	10
+hiphop	svenskt	4
+hiphop	victoriandustrial	5
+hiphop	Ragga Jungle	6
+hiphop	German Black Metal	5
+hiphop	electrogivno	6
+hiphop	Psychopathic Records	4
+hiphop	exo	22
+hiphop	jungle	45
+hiphop	newbreed	32
+hiphop	chilean	9
+hiphop	Technical Metal	21
+hiphop	Rhythmic Noise	10
+hiphop	rock gaucho	15
+hiphop	harmonica	5
+hiphop	german hiphop	41
+hiphop	Sertanejo Universitario	14
+hiphop	dirty electro	4
+hiphop	americana	57
+hiphop	joe	11
+hiphop	rain	7
+hiphop	russian hardcore	6
+hiphop	Hardbass	10
+hiphop	UGK	4
+hiphop	deep	12
+hiphop	screamo	216
+hiphop	ukrainian rock	15
+hiphop	detroit techno	8
+hiphop	cardio-wave	8
+hiphop	satanic black metal	5
+hiphop	Japanese music	13
+hiphop	noise pop	49
+hiphop	switzerland	4
+hiphop	metal opera	4
+hiphop	korean indie	4
+hiphop	Sonic	7
+hiphop	rock reggae	4
+hiphop	disco funk	4
+hiphop	Ailee	5
+hiphop	czech punk	4
+hiphop	country pop	7
+hiphop	gossip girl	6
+hiphop	K-RAP	11
+hiphop	funeral jazz	4
+hiphop	political	242
+hiphop	sex	7
+hiphop	goth	39
+hiphop	puerto rico	23
+hiphop	party	12
+hiphop	funky	50
+hiphop	Hard Bop	23
+hiphop	UK hip hop	30
+hiphop	Korean	94
+hiphop	anti alles	5
+hiphop	detroit	175
+hiphop	massive dubstep	14
+hiphop	female vocals	13
+hiphop	cool	9
+hiphop	groove metal	89
+hiphop	Wonder Girls	16
+hiphop	mexico	24
+hiphop	Momoiro Clover	4
+hiphop	game soundtracks	10
+hiphop	psychedelic	411
+hiphop	downbeat	4
+hiphop	death n roll	11
+hiphop	britpop	311
+hiphop	quequality	4
+hiphop	sufoco	4
+hiphop	Horrorcore	156
+hiphop	tenor	5
+hiphop	Jason Derulo	44
+hiphop	Jaheim	4
+hiphop	japanese rock	20
+hiphop	DBSK	18
+hiphop	tango	6
+hiphop	prog-rnb	99
+hiphop	french pop	29
+hiphop	RAP CHILENO	4
+hiphop	organ	5
+hiphop	Star Wars	6
+hiphop	Korean Hip-Hop	11
+hiphop	Scottish	56
+hiphop	future soul	5
+hiphop	math pop	8
+hiphop	B0SS	4
+hiphop	ambient	428
+hiphop	political rap	23
+hiphop	vitor e leo	5
+hiphop	game soundtrack	12
+hiphop	Industrial Death Metal	7
+hiphop	httpcore	4
+hiphop	Synth-Rock	13
+hiphop	girl band	5
+hiphop	North Carolina	77
+hiphop	Nacional	19
+hiphop	Punchlines	4
+hiphop	noise-gaze	4
+hiphop	new	4
+hiphop	Ohio	8
+hiphop	Madrid	5
+hiphop	future	16
+hiphop	Mittelalter	11
+hiphop	arabic	17
+hiphop	Glam Metal	11
+hiphop	screwed	8
+hiphop	swedish	380
+hiphop	cosplay kei	5
+hiphop	gypsy jazz	6
+hiphop	Symphonic Black Metal	35
+hiphop	rap farsi	5
+hiphop	KAT-TUN	4
+hiphop	funk volume	7
+hiphop	synthesized	5
+hiphop	Technical Deathcore	15
+hiphop	00s	7
+hiphop	MGK	15
+hiphop	acid rap	7
+hiphop	experimental hip hop	4
+hiphop	shinee	26
+hiphop	Post Dubstep	8
+hiphop	nigeria	9
+hiphop	Midwest	12
+hiphop	raw	7
+hiphop	poland	12
+hiphop	raider Klan	5
+hiphop	boston hardcore	17
+hiphop	big beat	71
+hiphop	magyar	5
+hiphop	movie score	4
+hiphop	turkish rock	17
+hiphop	Go-Go	37
+hiphop	post-punk	328
+hiphop	freak folk	67
+hiphop	opera	19
+hiphop	antifa	11
+hiphop	crossover	77
+hiphop	pizdostradaniya	4
+hiphop	ska-punk	29
+hiphop	sadcore	16
+hiphop	chopped and screwed	7
+hiphop	Cyber Metal	4
+hiphop	ed banger	18
+hiphop	Battlerap	7
+hiphop	krautrock	22
+hiphop	male vocalists	305
+hiphop	r&b	222
+hiphop	lounge	136
+hiphop	Technical Thrash Metal	11
+hiphop	2-step	14
+hiphop	brutal deathcore	26
+hiphop	bts	24
+hiphop	desert rock	22
+hiphop	classical guitar	7
+hiphop	hard rock	458
+hiphop	Soulful house	7
+hiphop	post-huipizdacore	6
+hiphop	dream pop	167
+hiphop	Oriental	5
+hiphop	doujin ongaku	8
+hiphop	J-rock	106
+hiphop	VALERIE	4
+hiphop	p-funk	23
+hiphop	sm town	21
+hiphop	Phylosophic RAP	5
+hiphop	female rapper	7
+hiphop	Girl Groups	33
+hiphop	beats	129
+hiphop	jazzy hip hop	7
+hiphop	St Pauli	6
+hiphop	Kay One	4
+hiphop	classic	31
+hiphop	psybient	4
+hiphop	dub techno	12
+hiphop	violin	19
+hiphop	wonky	49
+hiphop	genius	20
+hiphop	beer	5
+hiphop	happy	6
+hiphop	africa	15
+hiphop	japan	26
+hiphop	anticon	20
+hiphop	The-Dream	4
+hiphop	boyband	63
+hiphop	punk rock	403
+hiphop	trova	5
+hiphop	sad	53
+hiphop	Silent Hill	14
+hiphop	underground	157
+hiphop	5432fun	6
+hiphop	seen live	748
+hiphop	game	25
+hiphop	rap underground	23
+hiphop	not not fun	5
+hiphop	cartoon	6
+hiphop	dreampop	9
+hiphop	italian rap	7
+hiphop	contemporary country	7
+hiphop	Bossa Nova	77
+hiphop	catala	4
+hiphop	trance	231
+hiphop	cash money	10
+hiphop	symphonic death metal	7
+hiphop	Trill Shit	17
+hiphop	Rap and Hip-Hop	8
+hiphop	scandinavian	13
+hiphop	cool jazz	17
+hiphop	dreamwave	5
+hiphop	marley family	4
+hiphop	mashup	50
+hiphop	turkish folk	5
+hiphop	jyj	5
+hiphop	technopop	11
+hiphop	no	5
+hiphop	mangue beat	8
+hiphop	crack rock steady	6
+hiphop	jazz-hop	45
+hiphop	Sludge	90
+hiphop	classic rock	475
+hiphop	glam rap	4
+hiphop	vaporwave	34
+hiphop	Vegan	16
+hiphop	hungarian hip-hop	4
+hiphop	Donell Jones	6
+hiphop	dark	19
+hiphop	techstep	18
+hiphop	Christian Rap	15
+hiphop	soulful drum and bass	6
+hiphop	dansk	4
+hiphop	Progressive House	119
+hiphop	post-witch house	6
+hiphop	instrumentals	8
+hiphop	videogame	4
+hiphop	alternative	706
+hiphop	spanish pop	5
+hiphop	queer	8
+hiphop	187	6
+hiphop	girls aloud	9
+hiphop	madchester	11
+hiphop	STRICTLY FOR THE UNDERGOUND	6
+hiphop	vocal trap	23
+hiphop	mistagged artist	90
+hiphop	nederhop	25
+hiphop	bard	9
+hiphop	hands up	10
+hiphop	Brutal Death Metal with Nordic Influence and guest vocalist satan	5
+hiphop	Evliya-i rap	4
+hiphop	psychokore	4
+hiphop	brutal thrash metal	6
+hiphop	symphonic metal	86
+hiphop	liedermacher	7
+hiphop	a capella	6
+hiphop	Korea	5
+hiphop	chill out	11
+hiphop	Scum Punk	5
+hiphop	tru thoughts	6
+hiphop	progressive hardcore	4
+hiphop	pusha t	6
+hiphop	belarus	15
+hiphop	epic black metal	6
+hiphop	60s	245
+hiphop	Definitive Jux	4
+hiphop	female vocalist	189
+hiphop	heavy dubstep	8
+hiphop	alternative pop	7
+hiphop	russian chanson	4
+hiphop	black hippy	4
+hiphop	UK hip-hop	36
+hiphop	Ali Sorena	6
+hiphop	podziemie	17
+hiphop	melodic	15
+hiphop	summer cem	4
+hiphop	epic	23
+hiphop	Reggaeton	83
+hiphop	Baltimore	4
+hiphop	celtic punk	10
+hiphop	USA	42
+hiphop	Brown Eyed Girls	5
+hiphop	Ginuwine	9
+hiphop	High School Musical	5
+hiphop	raop	14
+hiphop	Trailer Music	11
+hiphop	Rock Latino	4
+hiphop	Hello Project	8
+hiphop	Swedish Punk	5
+hiphop	australia	36
+hiphop	web protocol	4
+hiphop	DSBM	8
+hiphop	:v	4
+hiphop	black metal	249
+hiphop	abstract hip hop	34
+hiphop	Brian McKnight	8
+hiphop	better than demi lovato	5
+hiphop	uplifting trance	19
+hiphop	japanese hardcore	4
+hiphop	phonk	25
+hiphop	lolicore	8
+hiphop	dark folk	25
+hiphop	neurofunk	37
+hiphop	banjo	7
+hiphop	hamburg	18
+hiphop	gospel	38
+hiphop	publicpop	19
+hiphop	black death metal	7
+hiphop	choir	19
+hiphop	indonesian	11
+hiphop	drums	14
+hiphop	bristol	6
+hiphop	beatdown hardcore	17
+hiphop	crustgrind	6
+hiphop	seapunk	19
+hiphop	finnish	169
+hiphop	Zeuhl	5
+hiphop	EDM	31
+hiphop	UKHH	4
+hiphop	Austria	6
+hiphop	witchhouse	8
+hiphop	moshcore	39
+hiphop	footwork	6
+hiphop	Canterbury	5
+hiphop	playsson	9
+hiphop	Supergroup	29
+hiphop	cheryl cole	9
+hiphop	jazz hip-hop	5
+hiphop	Smooth Jazz	42
+hiphop	death-thrash metal	5
+hiphop	Irish Punk	5
+hiphop	avantgarde	18
+hiphop	brazilian reggae	10
+hiphop	georgian	5
+hiphop	Female fronted metal	96
+hiphop	Hard Dance	5
+hiphop	Mad Clown	6
+hiphop	slowcore	36
+hiphop	beatbox	13
+hiphop	truth	5
+hiphop	progressive thrash metal	11
+hiphop	idol	17
+hiphop	sleaze rock	7
+hiphop	Persian rap	8
+hiphop	Pagan	4
+hiphop	yg family	37
+hiphop	speedcore	12
+hiphop	Forro	6
+hiphop	Electroclash	76
+hiphop	nintendo	20
+hiphop	KOREAN HIPHOP	4
+hiphop	crunkcore	20
+hiphop	PS Company	4
+hiphop	rap alternativo	18
+hiphop	Broadway	8
+hiphop	spoken word	33
+hiphop	british invasion	15
+hiphop	soja	9
+hiphop	Finnish rap	5
+hiphop	slamming guttural brutal death metal	4
+hiphop	blaxploitation	4
+hiphop	ESC	5
+hiphop	persian rock	6
+hiphop	Classical	220
+hiphop	why so gorgeous	6
+hiphop	Doomtree	4
+hiphop	modern classical	25
+hiphop	glitch	128
+hiphop	indie hip-hop	9
+hiphop	midwest rap	4
+hiphop	christian metal	8
+hiphop	nerdcore	10
+hiphop	Belgium	21
+hiphop	chinese	32
+hiphop	Gothic Glam	9
+hiphop	Lady Gaga	4
+hiphop	pychedelic dubstep	4
+hiphop	Romantica	7
+hiphop	alternative metal	173
+hiphop	contemporary folk	6
+hiphop	crust punk	26
+hiphop	persian hip-hop	6
+hiphop	hardcore punk	163
+hiphop	detroit house	7
+hiphop	microhouse	6
+hiphop	80s	476
+hiphop	ghost drone	6
+hiphop	tropical	12
+hiphop	vegan straight edge	9
+hiphop	Latin Rock	6
+hiphop	hardcore metal	5
+hiphop	trillwave	6
+hiphop	depressive rock	25
+hiphop	sexy	67
+hiphop	sounds even better when drunk	4
+hiphop	Grime	232
+hiphop	soul	578
+hiphop	lolcore	5
+hiphop	Philly	44
+hiphop	eletrobrega	4
+hiphop	flamenco chill	4
+hiphop	westlife	4
+hiphop	rio de janeiro	18
+hiphop	good music	49
+hiphop	rap hardcore	6
+hiphop	so very british	10
+hiphop	Mello Music Group	13
+hiphop	eski	6
+hiphop	Hip Hop Latino	6
+hiphop	kircore	7
+hiphop	cantautori	5
+hiphop	Gothic	154
+hiphop	slamming brutal death	5
+hiphop	Brostep	12
+hiphop	fantasy	6
+hiphop	chillwave	138
+hiphop	boom bap	5
+hiphop	ukulele	5
+hiphop	rnb	588
+hiphop	indietronica	46
+hiphop	grindcore	120
+hiphop	vocal trance	70
+hiphop	Old school Hardcore	11
+hiphop	political hip-hop	17
+hiphop	underground hip hop	177
+hiphop	420	14
+hiphop	deep funk	4
+hiphop	Fifth Harmony	28
+hiphop	groove	14
+hiphop	peace punk	4
+hiphop	Ikon	6
+hiphop	digital hardcore	10
+hiphop	solo	6
+hiphop	Glee Cast	28
+hiphop	cube entertainment	19
+hiphop	Ballad	20
+hiphop	kurdish	6
+hiphop	synth	31
+hiphop	Officially Shit	8
+hiphop	Rephlex	4
+hiphop	progressive death metal	69
+hiphop	girls day	4
+hiphop	b2st	20
+hiphop	Turkce	4
+hiphop	gangstacore	7
+hiphop	UK	64
+hiphop	j-pop	133
+hiphop	New Orleans	90
+hiphop	drag	21
+hiphop	new romantic	8
+hiphop	retro electro	7
+hiphop	spain	17
+hiphop	Nu Metal	319
+hiphop	shoegazer	27
+hiphop	dope sample	21
+hiphop	beat	22
+hiphop	chile	22
+hiphop	JoJo	15
+hiphop	bebop	62
+hiphop	Gabber	20
+hiphop	bop	14
+hiphop	Love	59
+hiphop	musicals	7
+hiphop	apocalyptic folk	23
+hiphop	across the universe	5
+hiphop	singapore	5
+hiphop	Suicidal Black Metal	21
+hiphop	RAC	15
+hiphop	Voice Actor	4
+hiphop	smooth	27
+hiphop	cycki	7
+hiphop	cloudrap	4
+hiphop	nsbm	20
+hiphop	stoner doom	14
+hiphop	modern jazz	5
+hiphop	J-Punk	4
+hiphop	ofwgkta	159
+hiphop	Latin Rap	13
+hiphop	Gothic Doom Metal	6
+hiphop	nickelodeon	46
+hiphop	Rasta	34
+hiphop	Stones throw	152
+hiphop	9th wonder	18
+hiphop	Sir Michael Rocks	6
+hiphop	Blackened Death Metal	33
+hiphop	icelandic	133
+hiphop	2015	17
+hiphop	mali	10
+hiphop	Disco-polo	4
+hiphop	contemporary christian	10
+hiphop	idm	212
+hiphop	girlband	32
+hiphop	deathcore	111
+hiphop	Hindi	4
+hiphop	liquid funk	41
+hiphop	Rock Against Communism	5
+hiphop	jumpstyle	11
+hiphop	Asian	22
+hiphop	trumpet	69
+hiphop	Darkcore	8
+hiphop	sm entertainment	19
+hiphop	native tongues	11
+hiphop	SxE	5
+hiphop	underrated	5
+hiphop	darkpsy	8
+hiphop	Bahram	6
+hiphop	roc-a-fella	17
+hiphop	naija	4
+hiphop	mod	10
+hiphop	Topp Dogg	7
+hiphop	Iranian Underground Music	6
+hiphop	hilary duff	11
+hiphop	Hamburger Schule	8
+hiphop	symphonic power metal	4
+hiphop	British Punk	8
+hiphop	hip hop chileno	5
+hiphop	roots	95
+hiphop	polish hip-hop	32
+hiphop	Awesome	20
+hiphop	New York Rap	5
+hiphop	I WANT HER ASS	7
+hiphop	melodic metalcore	46
+hiphop	Axe	5
+hiphop	experimental	504
+hiphop	pop	696
+hiphop	garage	44
+hiphop	Noisegrind	12
+hiphop	justin bieber	53
+hiphop	space disco	8
+hiphop	complextro	9
+hiphop	Audiobook	7
+hiphop	horror metal	5
+hiphop	melodic dubstep	7
+hiphop	DIsco House	21
+hiphop	D-Block	22
+hiphop	noise	125
+hiphop	italiano	4
+hiphop	electro rock	5
+hiphop	slaughter gang	12
+hiphop	under 2000 listeners	191
+hiphop	japanese hip-hop	26
+hiphop	progressive black metal	12
+hiphop	piano jazz	8
+hiphop	1	7
+hiphop	Marcelo D2	6
+hiphop	drugs	33
+hiphop	beautiful	8
+hiphop	melodica	6
+hiphop	motown	88
+hiphop	akb48	4
+hiphop	trent reznor	6
+hiphop	exo-k	15
+hiphop	d-beat	18
+hiphop	post-dubstep	21
+hiphop	Chris Brown	76
+hiphop	Death Rap	32
+hiphop	minimalism	28
+hiphop	touhou	15
+hiphop	Sweden	23
+hiphop	avant garde	5
+hiphop	future garage	80
+hiphop	glitch hop	22
+hiphop	666	5
+hiphop	punk	510
+hiphop	hungria	4
+hiphop	gerald levert	5
+hiphop	tyga	36
+hiphop	christian hip-hop	5
+hiphop	dicksucker	5
+hiphop	choral	14
+hiphop	bauns	4
+hiphop	denmark	9
+hiphop	depressive black metal	35
+hiphop	Vanessa Hudgens	8
+hiphop	urban pop	5
+hiphop	K-hip hop	7
+hiphop	Eurovision Song Contest	13
+hiphop	dub	235
+hiphop	Asturies	5
+hiphop	satanic	4
+hiphop	Nintendocore	49
+hiphop	Hard	4
+hiphop	mf doom	121
+hiphop	eletronic	6
+hiphop	headie rapper	4
+hiphop	atmospheric doom metal	7
+hiphop	electro punk	4
+hiphop	electro-pop	9
+hiphop	algerian	5
+hiphop	PDG Kartel	5
+hiphop	Lyfe Jennings	7
+hiphop	punk iberico	4
+hiphop	club house	4
+hiphop	funeral doom metal	7
+hiphop	stax	5
+hiphop	gorestep	8
+hiphop	eurobeat	13
+hiphop	2pm	16
+hiphop	blues-rock	4
+hiphop	Bob Marley	68
+hiphop	Blue Note Records	11
+hiphop	reggae roots	6
+hiphop	australian	294
+hiphop	Straight Edge	62
+hiphop	french hip-hop	20
+hiphop	8-bit	123
+hiphop	Shinhwa	4
+hiphop	space rock	27
+hiphop	cantautor	10
+hiphop	compton	93
+hiphop	space	5
+hiphop	r'n'b	18
+hiphop	Jerk	12
+hiphop	Ukraine	16
+hiphop	hardcore hip-hop	4
+hiphop	soca	4
+hiphop	rock transgresivo	9
+hiphop	piano rock	36
+hiphop	music	8
+hiphop	riot grrrl	14
+hiphop	indy rap	4
+hiphop	best shit ever existing in the whole world makes me vomit over my daddys pussy while i listen to the popes earcream following the dark lord to my grandmummies treassure in an iland of dicksucking faggot frogs having silver eyebrows	4
+hiphop	BAKING SODA	5
+hiphop	ye-ye	4
+hiphop	idols	10
+hiphop	minimalist	8
+hiphop	Philadelphia	10
+hiphop	fly society	4
+hiphop	kawaii	12
+hiphop	minimal techno	60
+hiphop	breakbeat	84
+hiphop	russian emo	4
+hiphop	pop rap	5
+hiphop	A Pink	5
+hiphop	Exaltasamba	5
+hiphop	netherlands	16
+hiphop	terror ebm	4
+hiphop	ambient black metal	37
+hiphop	experimental rap	55
+hiphop	brazilian music	7
+hiphop	Rap undergroun hip-hop	4
+hiphop	21st-Century-Beat-Music	4
+hiphop	Kompakt	11
+hiphop	electro	402
+hiphop	electro-industrial	10
+hiphop	Disco	192
+hiphop	death metal	248
+hiphop	funk	521
+hiphop	old school death metal	37
+hiphop	J-Ska	5
+hiphop	duet	10
+hiphop	drone rock	8
+hiphop	cumbia	15
+hiphop	portuguese	13
+hiphop	persiansong	6
+hiphop	flute	5
+hiphop	relaxing	4
+hiphop	modern classic	5
+hiphop	rap politico	6
+hiphop	Spanish Rock	20
+hiphop	goregrind	39
+hiphop	wu-fam	6
+hiphop	baroque	32
+hiphop	dark wave	8
+hiphop	swiss	18
+hiphop	gay one	4
+hiphop	progressive folk	4
+hiphop	nigerian	6
+hiphop	electrobrega	4
+hiphop	independent hip-hop	12
+hiphop	polish black metal	10
+hiphop	bucetacore	5
+hiphop	war metal	5
+hiphop	icelandic metal	6
+hiphop	BG rap	7
+hiphop	alternative urban	5
+hiphop	bulgarian hardcore	4
+hiphop	beatlefield	7
+hiphop	Tribute	4
+hiphop	new jack swing	26
+hiphop	synthpop	285
+hiphop	wisin y yandel	9
+hiphop	jets	9
+hiphop	bardcore	5
+hiphop	old school	131
+hiphop	guitar	170
+hiphop	glam	37
+hiphop	vkontakte	6
+hiphop	fixt music	4
+hiphop	san francisco	9
+hiphop	depressive	15
+hiphop	español	4
+hiphop	future funk	7
+hiphop	funky-groove	7
+hiphop	Super junior	21
+hiphop	Frankfurt	16
+hiphop	american	250
+hiphop	belgian	69
+hiphop	jay-z	190
+hiphop	christian rock	77
+hiphop	post-dilla	4
+hiphop	Elephant 6	45
+hiphop	hardcore	449
+hiphop	street punk	42
+hiphop	Progressive Metalcore	14
+hiphop	T-ara	11
+hiphop	blacker than the blackest black times infinity	6
+hiphop	italian	106
+hiphop	Italodance	5
+hiphop	prog rock	4
+hiphop	Hip Hop Italiano	5
+hiphop	iran	8
+hiphop	death-doom metal	11
+hiphop	amazing	7
+hiphop	country rock	8
+hiphop	reggae	414
+hiphop	AOR	16
+hiphop	HATSUNE Miku	4
+hiphop	booty bass	5
+hiphop	snap music	21
+hiphop	dmx	64
+hiphop	hair metal	62
+hiphop	Traditional Doom Metal	12
+hiphop	Scratch Music	4
+hiphop	jazzy	20
+hiphop	sacramento	14
+hiphop	german hip-hop	18
+hiphop	sagopa kajmer	4
+hiphop	jam band	10
+hiphop	jamendo	8
+hiphop	Mellow	49
+hiphop	melancholic	38
+hiphop	tatu	5
+hiphop	finland	16
+hiphop	jazz saxophone	6
+hiphop	symphonic deathcore	8
+hiphop	Balkan Punk	4
+hiphop	szczecin	6
+hiphop	Sao Paulo	8
+hiphop	Brutal Death Metal	93
+hiphop	Bosnian	6
+hiphop	rap combativo	4
+hiphop	antifolk	4
+hiphop	Shin Megami Tensei	5
+hiphop	hannah montana	8
+hiphop	andrzejcore	5
+hiphop	O-Zone	4
+hiphop	Marselle	6
+hiphop	big sean	46
+hiphop	rapcore	234
+hiphop	mestizo	7
+hiphop	singer-songwriter	568
+hiphop	persian pop	7
+hiphop	nikki sixx	5
+hiphop	clarinet	4
+hiphop	synthetic voice	5
+hiphop	Electro Pop	22
+hiphop	esteban	4
+hiphop	synth pop	115
+hiphop	russian rock	64
+hiphop	infinite	14
+hiphop	Contemporary Gospel	5
+hiphop	blues rock	141
+hiphop	French hip hop	6
+hiphop	taiwanese	7
+hiphop	Progressive metal	181
+hiphop	Orthodox Black Metal	9
+hiphop	shaw	11
+hiphop	dark hardcore	4
+hiphop	pedophile	4
+hiphop	okayplayer	18
+hiphop	humor	38
+hiphop	Hardtrance	6
+hiphop	Gypsy	60
+hiphop	doom jazz	4
+hiphop	Indietronic	8
+hiphop	reggae metal	6
+hiphop	louisiana	7
+hiphop	alternative trap	19
+hiphop	latino	15
+hiphop	taiwan	10
+hiphop	african	45
+hiphop	rap oriente	17
+hiphop	swag	192
+hiphop	Brega	4
+hiphop	lovers rock	8
+hiphop	world	122
+hiphop	suomirock	17
+hiphop	deathrock	16
+hiphop	iu	4
+hiphop	legend	94
+hiphop	folk	503
+hiphop	gucci mane	42
+hiphop	klipm0de	4
+hiphop	folk pop	5
+hiphop	rock brasileiro	11
+hiphop	Instrumental Rap	4
+hiphop	bmore	9
+hiphop	BIRP	9
+hiphop	austrian	23
+hiphop	qlimax	7
+hiphop	Vivaz	9
+hiphop	Quinto Andar	8
+hiphop	Omarion	9
+hiphop	tim berg	4
+hiphop	New Weird America	18
+hiphop	christmas	9
+hiphop	minecraft	4
+hiphop	Carrie Underwood	9
+hiphop	Minnesota	17
+hiphop	funky house	25
+hiphop	metalcore	243
+hiphop	Experimental Rock	15
+hiphop	Breakbeats	4
+hiphop	west coast	353
+hiphop	Aggrotech	6
+hiphop	polish rock	22
+hiphop	psychedelic black metal	4
+hiphop	avant	6
+hiphop	wien	7
+hiphop	Chicano	5
+hiphop	Austin Mahone	6
+hiphop	Southern metal	28
+hiphop	Technical Metalcore	6
+hiphop	relax	11
+hiphop	classic country	10
+hiphop	southern	4
+hiphop	Slamming Brutal Death Metal	21
+hiphop	polskie podziemie	12
+hiphop	genre: hip-hop	4
+hiphop	Nu-metal	143
+hiphop	post rock	81
+hiphop	UKHC	12
+hiphop	next level beats	48
+hiphop	hot	11
+hiphop	Colombia	12
+hiphop	exotica	5
+hiphop	trap rap	37
+hiphop	Jazz Hop	249
+hiphop	awesome lyrics	4
+hiphop	instrumental	467
+hiphop	melodic trance	18
+hiphop	Eu batendo com meu pau num xilofone seria melhor	4
+hiphop	Zico	8
+hiphop	duets	6
+hiphop	Roy Jones Jr	4
+hiphop	spanish rap	11
+hiphop	finnish punk	4
+hiphop	American Idol	60
+hiphop	revolution	4
+hiphop	khiphop	10
+hiphop	German hip hop	13
+hiphop	alternative rock	595
+hiphop	witch house	73
+hiphop	Louisiana Rap	7
+hiphop	Italy	11
+hiphop	nz	5
+hiphop	post-bard	5
+hiphop	asfalt	7
+hiphop	rap francais	31
+hiphop	Natiruts	12
+hiphop	baile funk	11

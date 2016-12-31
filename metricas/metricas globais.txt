@@ -1,0 +1,3 @@
+densidade comum: 0.0289874833576187
+densidade_peso: 7.637453199827827e-05
+grau médio comum: 381.330343569474

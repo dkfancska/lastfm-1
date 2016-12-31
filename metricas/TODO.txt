@@ -1,0 +1,63 @@
+
+
+http://stackoverflow.com/questions/9471906/what-are-the-differences-between-community-detection-algorithms-in-igraph
+
+DONE:
+	Número de Componentes conexas
+	Grau médio
+	Grau médio Modificado
+	Diâmetro
+	Correlação de Pearson
+
+	Centralidade Betweeness: Média, Desvio e Top 5
+	Centralidade Closeness: Média, Desvio e Top 5
+	Centralidade de Grau: Média, Desvio e Top 5
+	Centralidade PageRank: Média, Desvio e Top 5
+	Excentricidade: Média, Desvio e Top 5
+	Clusterização:  Média, Desvio e Top 5
+	Densidade = 0.0289874833576187
+	Densidade Modificada = 7.637453199827827e-05
+	autovalor = 0.0996423218115
+	greedy = 0.103259731891 
+	multilevel = 0.110623530586
+	Random trap = 0.0801407871405
+	spinglass = 0.11118019681
+	
+TODO:
+
+Explicar Processo de eliminar arestas lixo.
+
+Métricas Globais:
+	Diâmetro Modificado
+
+Texto sobre as métricas globais:
+	Grafo conexo
+	Densidade Vs  Densidade Modificada
+	Diâmetro Vs Diâmetro modificado
+	Correlação de Pearson
+
+Distribuição de Grau:
+	Plotar CCDF da distribuição de grau ?
+	Inferir grau da Lei de potência ?
+
+Texto sobre a distribuição de Grau:
+	Comentário sobre Grau médio modificado
+	Comentário sobre o tipo da cauda.
+	Comentário sobre o expoente da lei de potência.
+
+Métricas Locais:
+
+Texto sobre métricas locais:
+	Comentário sobre os top's 5
+	Comparar as centralidades
+	Clusterização: Média e Desvio
+
+Comunidades:
+
+Textos sobre as comunidades:
+
+
+
+
+
+

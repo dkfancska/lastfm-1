@@ -1,0 +1,126 @@
+between_centrality
+Média:  8.395667867840854e-05 Desvio: 0.00047203532425143683
+Menores:
+meir ariel	0.0
+urbano	0.0
+israeli music	0.0
+para darse la mona jajaja	0.0
+punk mexicano	0.0
+
+Maiores:
+electronica	0.006211022175849944
+instrumental	0.00637776928334081
+metal	0.006383201580836686
+jazz	0.006469432805966666
+rnb	0.006683558809149806
+
+
+
+closeness
+Média:  0.11326092768454299 Desvio: 0.005109316064809366
+Menores:
+israeli music	0.06488286066584463
+punk mexicano	0.07232552258007763
+urbano	0.07232552258007763
+para darse la mona jajaja	0.07232552258007763
+meir ariel	0.07455707824667596
+
+Maiores:
+classica female	0.12381875682391476
+live in essen	0.12381875682391476
+Ambiente	0.12381875682391476
+glenn miller	0.12381875682391476
+Benny Goodman	0.12381875682391476
+
+
+
+degree_centrality
+Média:  0.028987483357618797 Desvio: 0.073602890517104
+Menores:
+meir ariel	7.601672367920942e-05
+punk mexicano	7.601672367920942e-05
+urbano	7.601672367920942e-05
+para darse la mona jajaja	7.601672367920942e-05
+israeli music	7.601672367920942e-05
+
+Maiores:
+female vocalists	0.9496769289243634
+alternative	0.9609274040288863
+electronic	0.9622957050551121
+seen live	0.9778031166856709
+rock	0.9854047890535917
+
+
+
+rich
+Média:  0.9584630914128931 Desvio: 0.15742199932037024
+Menores:
+0	0.028987471801412607
+1	0.029009461033627247
+2	0.029013850320991897
+3	0.029026989466706395
+4	0.029040102854739538
+
+Maiores:
+12858	1.0
+12859	1.0
+12860	1.0
+12861	1.0
+12862	1.0
+
+
+
+pagerank
+Média:  7.601094557616356e-05 Desvio: 0.0004219940160236616
+Menores:
+urbano	1.1409146668699896e-05
+para darse la mona jajaja	1.1409146668699896e-05
+punk mexicano	1.1409146668699896e-05
+meir ariel	1.1415145292932182e-05
+clasical	1.141772680085663e-05
+
+Maiores:
+female vocalists	0.007943319710150571
+electronic	0.008203624361156715
+alternative	0.008323131026297592
+seen live	0.0085922147932592
+rock	0.008676663438924115
+
+
+
+clusterizacao
+Média:  0.9358478177931089 Desvio: 0.1646671188720549
+Menores:
+urbano	0.0
+israeli music	0.0
+para darse la mona jajaja	0.0
+punk mexicano	0.0
+meir ariel	0.0
+
+Maiores:
+Recopilatorios imprescindibles	1.0
+roots music	1.0
+white music for white people	1.0
+opera metal	1.0
+motherfuckin rabbits ejaculating sunshine	1.0
+
+
+
+clusterizacao_peso
+Média:  0.001716538726393917 Desvio: 0.0003609861960176006
+Menores:
+urbano	0.0
+israeli music	0.0
+para darse la mona jajaja	0.0
+punk mexicano	0.0
+meir ariel	0.0
+
+Maiores:
+castellano	0.002554476749544087
+Recopilatorios imprescindibles	0.002555026670802623
+Omaha	0.0025645859923197354
+gary lightbody	0.0026839558630210635
+bandcamp com	0.002797744941130494
+
+
+

@@ -1,0 +1,3255 @@
+samba	Aussie	150
+samba	geek rock	9
+samba	samba-canção	28
+samba	Fierce	35
+samba	ahs	12
+samba	harp	16
+samba	trippy	4
+samba	português	4
+samba	wizard rock	5
+samba	lazaro	4
+samba	Acid	7
+samba	Old Blues	7
+samba	shit	5
+samba	apague a luz	4
+samba	Post punk	61
+samba	8bit	26
+samba	Country-Pop	8
+samba	10s	4
+samba	Alan Jackson	15
+samba	electronic rock	18
+samba	geek	9
+samba	frevo	11
+samba	political punk	29
+samba	Russian Pop	8
+samba	mincecore	6
+samba	neptunes	7
+samba	humour	238
+samba	boyband	284
+samba	elvis metal	4
+samba	underground rap	256
+samba	dischord	10
+samba	doom metal	427
+samba	dark cabaret	25
+samba	crooner	4
+samba	symphonic	18
+samba	thrashcore	46
+samba	cantor	19
+samba	hebrew	14
+samba	anime soundtrack	16
+samba	sleaze rock	32
+samba	countrycore	411
+samba	toronto	13
+samba	mike patton	64
+samba	oldies	1007
+samba	breakcore	283
+samba	southern hardcore	7
+samba	beyonce	6
+samba	cuba	52
+samba	romanticas	23
+samba	moda	44
+samba	atonal	4
+samba	underrated	6
+samba	Eminem	472
+samba	emo	1704
+samba	Nick Jonas	101
+samba	CeCe Frey	4
+samba	bermuda	6
+samba	tribal	18
+samba	Southern Hip Hop	13
+samba	Horrorpunk	26
+samba	poeta	6
+samba	linda	4
+samba	across the universe soundtrack	39
+samba	melancholy	17
+samba	reggae roots	112
+samba	buddhist	5
+samba	como estragar uma musica boa	4
+samba	Eli Soares	4
+samba	underground	320
+samba	rickroll	13
+samba	dance-pop	10
+samba	cabaret	104
+samba	stoner	143
+samba	beatles	46
+samba	Harthouse	4
+samba	musica brasileira	258
+samba	christian	575
+samba	GESSINGER TRIO	10
+samba	fingerstyle	20
+samba	croatian	25
+samba	black Thrash metal	10
+samba	moombahton	11
+samba	2NE1	25
+samba	vaporwave	52
+samba	pirate metal	35
+samba	nathan sykes	4
+samba	instrumental rock	75
+samba	yoga	12
+samba	rap underground	104
+samba	regressive rock	5
+samba	Friday	5
+samba	symphonic prog	58
+samba	summereletrohits	19
+samba	Spider-Man 3	4
+samba	xxt	56
+samba	Goa psychedelic trance	10
+samba	80s hardcore	4
+samba	intervention	6
+samba	trio	8
+samba	glee	392
+samba	drag queen	78
+samba	weird	7
+samba	go for it	10
+samba	atmospheric black metal	82
+samba	Video Game Metal	8
+samba	recife	56
+samba	latin hip hop	4
+samba	twee	191
+samba	guitar fuzz	20
+samba	mtv	9
+samba	pornogrind	8
+samba	drops wet cement on unsuspecting crippled children	19
+samba	drew seeley	4
+samba	True Norwegian Black Metal	16
+samba	d12	13
+samba	News	9
+samba	hypnagogic pop	7
+samba	Doo-Hop	9
+samba	r and b	34
+samba	the vamps	15
+samba	deep techno	5
+samba	metal	2110
+samba	mandarin	4
+samba	Canterbury Scene	45
+samba	malaysian	5
+samba	brazilian rap	332
+samba	love songs	7
+samba	james bond	6
+samba	cloud rnb	19
+samba	cabo verde	14
+samba	Brasil Reggae	4
+samba	chico buarque	5
+samba	hyuna	6
+samba	manguebeat	395
+samba	trazendo a arca	9
+samba	loquendo	6
+samba	Tikos	15
+samba	cybergrind	28
+samba	neofolk	98
+samba	gabe	5
+samba	great voice	17
+samba	fui no show	6
+samba	turma do pagode	53
+samba	live	16
+samba	nashville cast	6
+samba	Jam	160
+samba	mpb moderna	5
+samba	cristao	11
+samba	melodic hard rock	11
+samba	fiddle	4
+samba	Led Zeppelin	17
+samba	galician	7
+samba	christian black metal	4
+samba	Neo-prog	16
+samba	Chiclete com Banana	22
+samba	industrial black metal	8
+samba	John Garcia	4
+samba	sequencia do rebolado	10
+samba	Goa Trance	4
+samba	Zero assoluto	5
+samba	Holly Brook	19
+samba	chorus	5
+samba	Castlevania	11
+samba	turntablism	96
+samba	Old school EBM	7
+samba	batucada	40
+samba	Technical Metal	32
+samba	pop espanol	11
+samba	texas	12
+samba	candeia	4
+samba	detroit rap	7
+samba	nu-disco	7
+samba	cool jazz	130
+samba	britpop	2221
+samba	latin reggae	6
+samba	mash-up	24
+samba	anal-driven fecalomatateus	4
+samba	Darvin	59
+samba	chimarruts	109
+samba	soul brasileiro	13
+samba	Norway	37
+samba	VALERIE	7
+samba	post-rock	750
+samba	Kpop	190
+samba	realidade cruel	10
+samba	Epic Doom Metal	4
+samba	techno	1286
+samba	Miyavi	29
+samba	hip hop	2161
+samba	favorites	19
+samba	brega pop	4
+samba	psych	11
+samba	chillstep	11
+samba	hasidic reggae	65
+samba	pedrada na cara	4
+samba	indian classical	14
+samba	PG	8
+samba	Tiziano Ferro	55
+samba	gabriel valim	15
+samba	latvian	14
+samba	myllena	7
+samba	michael w smith	7
+samba	southern rap	327
+samba	progg	4
+samba	Muusika	6
+samba	deutschpunk	4
+samba	chamber pop	149
+samba	reik	15
+samba	samba de raiz	10
+samba	riodejaneiro	4
+samba	trap	213
+samba	smooth lounge	10
+samba	boy band	7
+samba	harsh noise	5
+samba	joao neto e frederico	39
+samba	french cold wave	4
+samba	old timey	4
+samba	modern metal	27
+samba	maracatu	231
+samba	conscious hip-hop	5
+samba	Armenian	6
+samba	My Country	36
+samba	psychedelic folk	44
+samba	Hugo Pena  Gabriel	6
+samba	Ipatinga	4
+samba	electro house	391
+samba	rock argento	24
+samba	classical crossover	7
+samba	real emo	20
+samba	newage	4
+samba	heavymetal	10
+samba	k-hiphop	13
+samba	Arashi	10
+samba	epic metal	109
+samba	Impressionist	84
+samba	manguebit	8
+samba	french house	9
+samba	Hard	6
+samba	universitario	16
+samba	desi	31
+samba	christian reggae	9
+samba	jerkin	6
+samba	afrikaans	161
+samba	adult contemporary	18
+samba	Neue Deutsche Welle	6
+samba	Jason Aldean	4
+samba	new bossa skate music	4
+samba	alternative	3022
+samba	funk jazz	4
+samba	KricaMorena	9
+samba	bokaloka	6
+samba	jrock	151
+samba	teresina	4
+samba	Stronda	61
+samba	change	5
+samba	Houdini	6
+samba	math metal	51
+samba	anjos de resgate	12
+samba	Ne-Yo	147
+samba	funeral doom metal	15
+samba	natal	7
+samba	math rock	310
+samba	pagan metal	141
+samba	Danger Mouse	5
+samba	fav	4
+samba	tops	7
+samba	beatdown	21
+samba	chanson francaise	467
+samba	eee	4
+samba	bubblegum pop	4
+samba	musica romantica	14
+samba	oba	12
+samba	zydeco Louisiana	5
+samba	modern hardcore	23
+samba	craig owens	6
+samba	south african	37
+samba	ashley tisdale	131
+samba	russian	480
+samba	kawaii metal	9
+samba	ReB	4
+samba	creative commons	7
+samba	tv	28
+samba	Hypnagogic Glo-Fi Pop	35
+samba	blues	2096
+samba	acoustic blues	4
+samba	Field Recording	6
+samba	d-black	4
+samba	debia ser amor	5
+samba	dainuojamoji poezija	5
+samba	fortaleza	88
+samba	kickasstic	8
+samba	latinoamerica	12
+samba	mexican	174
+samba	piano blues	4
+samba	chora me liga	4
+samba	pobre escuta	7
+samba	eroguro	4
+samba	italian songwriters	5
+samba	psychobilly	256
+samba	frodo destrua o anel	7
+samba	heavy metal	1574
+samba	deep funk	14
+samba	New Wave of British Heavy Metal	16
+samba	YG	21
+samba	gerry mulligan	6
+samba	old school thrash	4
+samba	dance punk	5
+samba	inimigos da hp	34
+samba	jazz hiphop	7
+samba	banda maguinificos	15
+samba	pop punk	1720
+samba	Dong Bang Shin Ki	13
+samba	sp funk	22
+samba	Tiffany	8
+samba	California	297
+samba	neo-classical	12
+samba	classic music	4
+samba	Troll Metal	4
+samba	klb	7
+samba	maroon 5	38
+samba	mayk	5
+samba	r n b	6
+samba	bandida	5
+samba	my secret indie female vocalists	17
+samba	GHOUSE	5
+samba	acid jazz	257
+samba	Atmospheric metal	4
+samba	Blue-Eyed Soul	48
+samba	PURE IDEOLOGY	10
+samba	last fm various	4
+samba	electronica	1910
+samba	musicians I would bang	5
+samba	teatro magico	13
+samba	jazz trio	25
+samba	gangsta	8
+samba	anthony green	8
+samba	seen live	2988
+samba	British Blues	18
+samba	funk satanico	75
+samba	chillout	1689
+samba	athens	4
+samba	venezuelan	5
+samba	paulo	8
+samba	synthwave	18
+samba	india	16
+samba	powerpop	631
+samba	Noise-pop	20
+samba	forro universitario	68
+samba	Ska Rock	10
+samba	beck	13
+samba	skinhead reggae	10
+samba	minimal wave	13
+samba	Depressive Suicidal Black Metal	13
+samba	felipe	5
+samba	blackened thrash metal	41
+samba	florida	17
+samba	british folk	35
+samba	rock alternativo	76
+samba	Punk-Rock	5
+samba	Post-punk revival	5
+samba	Christina Aguilera	7
+samba	tropicália	6
+samba	ethno	12
+samba	Dharma	5
+samba	bow wow	5
+samba	polish reggae	10
+samba	Deutsche Schlager	5
+samba	chapa c	4
+samba	Deep Purple family	17
+samba	gosto muito	5
+samba	dexter	8
+samba	zac brown band	6
+samba	christina perri	4
+samba	Retro	69
+samba	mantras	8
+samba	Post-Metal	82
+samba	Lee DeWyze	4
+samba	electro funk	6
+samba	country-folk	8
+samba	melodifestivalen	9
+samba	swedish hiphop	6
+samba	tech house	78
+samba	outsider	45
+samba	jazz vocal	288
+samba	minimal	231
+samba	angura kei	5
+samba	full-on	8
+samba	violao brasileiro	7
+samba	hardcore rap	12
+samba	Pop Music	11
+samba	the wanted	130
+samba	lindo	4
+samba	hillbilly	6
+samba	nu soul	9
+samba	20th Century Classical	43
+samba	metal Brasil	5
+samba	guitar-based digi-bongo acapella-rap-funk-comedy folk duo	11
+samba	Scum Punk	6
+samba	mysterious	422
+samba	dance	2416
+samba	mixtape	8
+samba	easy listening	507
+samba	lira paulistana	13
+samba	Bach	30
+samba	folk noir	6
+samba	piano	1463
+samba	brass	17
+samba	Middle Eastern	6
+samba	shibuya-kei	28
+samba	senegal	9
+samba	electronicore	13
+samba	hardcore melodico	15
+samba	gypsy punk	99
+samba	taemin	12
+samba	tejano	7
+samba	Czech	45
+samba	Bay Area	9
+samba	andrea bocelli	28
+samba	denmark	10
+samba	jazz standards	4
+samba	ska	1225
+samba	all things annoying in the world put together into one stupid bitch	24
+samba	belarus	5
+samba	brega universitario	5
+samba	Aussie Hip-Hop	7
+samba	old school black metal	9
+samba	nu-jazz	92
+samba	hungary	4
+samba	folktronica	43
+samba	boston hardcore	14
+samba	Rock and Roll	543
+samba	C	5
+samba	microfonia	4
+samba	musicas que mexem com meu coracao	75
+samba	cover	496
+samba	Acapella	4
+samba	psychedellic	9
+samba	jamaica	116
+samba	espirito santo	28
+samba	minimal synth	20
+samba	Tenor Sax	26
+samba	free jazz	162
+samba	reggae-rock	4
+samba	David Archuleta	45
+samba	virginia	7
+samba	Singer/Songwriter	38
+samba	katy perry	23
+samba	Flamenco	93
+samba	Ju Moraes	6
+samba	Samba Raiz	20
+samba	Pokemon	10
+samba	alternative pop	71
+samba	art-rock	7
+samba	nightwish	4
+samba	neo-rockabilly	16
+samba	vallenato	8
+samba	blackened crust	4
+samba	Stoner Rock	784
+samba	BPitch Control	7
+samba	breasts	4
+samba	Bandcamp	6
+samba	Heloisa rosa	6
+samba	ethiopian	14
+samba	Emblem3	19
+samba	dj	98
+samba	King Crimson	4
+samba	pop rock	2068
+samba	The Countdown	4
+samba	Snoop Dogg	13
+samba	joao	4
+samba	Zelda	6
+samba	girls aloud	91
+samba	Justin Timberlake	5
+samba	epic	32
+samba	balearic	10
+samba	Soundtracks	232
+samba	myspace	14
+samba	crystal castles clone	5
+samba	Clase 406	5
+samba	Rock n' Roll	13
+samba	canta a minha vida	44
+samba	guys I would fuck	5
+samba	serialism	4
+samba	nu jazz	121
+samba	wales	4
+samba	easy-listening	388
+samba	chiptune	54
+samba	son	6
+samba	latino	133
+samba	punk cabaret	34
+samba	queen of pop	13
+samba	Gangsta Rap	455
+samba	media player hate us all	25
+samba	Kuduro	10
+samba	musical theater	8
+samba	buena vista social club	18
+samba	samba de breque	12
+samba	spanish hip-hop	8
+samba	Cama de Casal	7
+samba	indie es espanol	9
+samba	westlife	18
+samba	Garage Punk	68
+samba	Neo-Soul	259
+samba	Party Monster	4
+samba	horror punk	299
+samba	busty	6
+samba	slaughterhouse	4
+samba	upbeat	5
+samba	california reggae	22
+samba	contemporary christian	62
+samba	rhythm and blues	522
+samba	clube da esquina	80
+samba	Folk Black Metal	7
+samba	youtube	123
+samba	speed metal	622
+samba	violin virtuoso	12
+samba	dance-punk	25
+samba	Hamburger Schule	4
+samba	afrobeat	69
+samba	folk metal	262
+samba	midwest emo	51
+samba	folk-pop	4
+samba	glam rock	1568
+samba	Damares	4
+samba	producer	15
+samba	hipster rap	25
+samba	Crossover Prog	9
+samba	gay pop	53
+samba	baiao	72
+samba	dancehall	390
+samba	Grind	43
+samba	dance pop	8
+samba	cold meat industry	4
+samba	rock español	4
+samba	french	1608
+samba	deathgrind	72
+samba	album rock	9
+samba	70s	1807
+samba	Swedish Punk	11
+samba	world fusion	24
+samba	guitar	1010
+samba	jamendo	13
+samba	renovacao	12
+samba	4minute	27
+samba	Rihanna	18
+samba	Swedish reggae	7
+samba	David Guetta	10
+samba	Rap Nacional	558
+samba	lll	9
+samba	classical music	9
+samba	progressive brutal death metal	117
+samba	Indie Gypsy Folk	4
+samba	little diva	10
+samba	low-fi	4
+samba	ninja tune	154
+samba	hip-hop tuga	6
+samba	mistagged	24
+samba	reggae brasileiro	459
+samba	tzadik	6
+samba	powernoise	12
+samba	alternative country	6
+samba	vi ao vivo	56
+samba	free folk	4
+samba	aesthetic	6
+samba	Queen	157
+samba	compositor	6
+samba	ven a bailar	5
+samba	nueva trova	10
+samba	jazz manouche	5
+samba	skramz	4
+samba	indonesia	10
+samba	Smoking music	7
+samba	electro-house	13
+samba	jyp	13
+samba	dirty dancing	9
+samba	welsh	5
+samba	beyondwithin	4
+samba	Gothic Rock	625
+samba	Def Jux	15
+samba	Italo Disco	20
+samba	Deutschrap	22
+samba	50s	126
+samba	Tropicalism	100
+samba	brazilian post-punk	28
+samba	vocal	138
+samba	rock'n'roll	5
+samba	brazilian rock	2015
+samba	Cloud	6
+samba	hyperdub	8
+samba	bedroomcore	8
+samba	ceara	13
+samba	renascer praise	5
+samba	symphony	30
+samba	cute	194
+samba	Gothic Metal	441
+samba	norwegian	823
+samba	chillwave	305
+samba	tango nuevo	37
+samba	mariachi	17
+samba	northern soul	28
+samba	catchy	36
+samba	noise rock	193
+samba	buttercore	6
+samba	martial industrial	27
+samba	tempo de paz	44
+samba	italian symphonic prog	13
+samba	polskie	9
+samba	Luis Melodia	42
+samba	metallic hardcore	4
+samba	pokecore	7
+samba	Brazilian Pop	8
+samba	melodic metal	370
+samba	Tche Music	16
+samba	Brooklyn	20
+samba	Eurovision	91
+samba	neoclassical	94
+samba	bom gosto	33
+samba	Kiwi	10
+samba	new country	10
+samba	boogaloo	8
+samba	american	1278
+samba	canada	118
+samba	nova mpb	123
+samba	Jay Park	8
+samba	pagode de bom gosto	5
+samba	Brazilian songs	6
+samba	flying nun	12
+samba	pagode sim e dai	123
+samba	canto falado	6
+samba	southern gothic	11
+samba	Russian Black Metal	4
+samba	france	54
+samba	better than radiohead	70
+samba	LINDOS	8
+samba	machine gun kelly	4
+samba	Isabella Taviani	36
+samba	Dope	17
+samba	salvador	15
+samba	Banda Alice	6
+samba	Filthstep	13
+samba	strings	38
+samba	zayn	95
+samba	X factor	441
+samba	cultura	8
+samba	avant-funk	6
+samba	classic country	61
+samba	acustic	8
+samba	doo wop	20
+samba	hard rock brasil	5
+samba	Bruno e Marrone	75
+samba	trey songz	38
+samba	coco	5
+samba	atmospheric	155
+samba	Guilherme Arantes	12
+samba	Irish Folk	20
+samba	alternative rap	216
+samba	HardTechno	7
+samba	vixx	13
+samba	doo wop indie	11
+samba	philly soul	13
+samba	cavaleiros do forro	6
+samba	regae	30
+samba	Vampiric Metal	9
+samba	Hospital Records	4
+samba	Sweeney Todd	25
+samba	uniq	4
+samba	Oba oba	12
+samba	garage pop	106
+samba	Extreme Power Metal	43
+samba	maison des cultures du monde	4
+samba	Power Trio	7
+samba	schranz	7
+samba	true alternative	31
+samba	morengueira	11
+samba	Warp	20
+samba	national socialist black metal	8
+samba	tropicalia	1257
+samba	deep house	129
+samba	ballet	12
+samba	contemporary jazz	86
+samba	Kanye West	502
+samba	Jesse McCartney	41
+samba	indie	2987
+samba	daptone	14
+samba	Kelly Clarkson	310
+samba	east coast rap	341
+samba	balada	5
+samba	boy group	4
+samba	fastcore	24
+samba	baroque pop	30
+samba	dragqueen	9
+samba	streetpunk	8
+samba	nouvelle scene french	8
+samba	indie rock	2651
+samba	fofolk	122
+samba	Moda de Viola	12
+samba	ZoNa GanJaH	10
+samba	female	651
+samba	DJENT	43
+samba	old school grindcore	5
+samba	Ludacris	21
+samba	hard core	7
+samba	underground hip-hop	808
+samba	thrash metal	943
+samba	Ramones related	4
+samba	oriental metal	16
+samba	brega foda	13
+samba	jump up	5
+samba	beardcore	36
+samba	rain	10
+samba	Traditional Country	8
+samba	Jenifer Lopez	10
+samba	musica instrumental brasileira	11
+samba	raiz	8
+samba	fidget house	6
+samba	Hungria Hip Hop	7
+samba	gino e geno	6
+samba	Rock Espanol	5
+samba	kid	4
+samba	artists	6
+samba	alejandro fernandez	8
+samba	os monarcas	4
+samba	twice	13
+samba	Alabama	9
+samba	Scottish	299
+samba	funny	112
+samba	actress-singer	5
+samba	Grunge	1839
+samba	slovenian	6
+samba	sanremo	17
+samba	brutal deathcore	40
+samba	freestyle	321
+samba	the ladies that should sit on my sofa or somewhere else in my flat because they are darlings and oh so lovely	6
+samba	saudade	7
+samba	pee-wee herman	5
+samba	rimas	5
+samba	kagrra	8
+samba	Okinawa	4
+samba	italiana	22
+samba	Planta	57
+samba	Black	26
+samba	andrea vianna martins	4
+samba	field recordings	7
+samba	nerd hop	4
+samba	Jazz Rock	89
+samba	Theatrical Black Metal	10
+samba	Baltimore	6
+samba	skate punk	102
+samba	phonk	10
+samba	Tech trance	4
+samba	religiao	11
+samba	drone doom	26
+samba	futurepop	28
+samba	Mito	9
+samba	psychedelic trance	50
+samba	Twinkle daddies	16
+samba	Southern Rock	663
+samba	christmas	28
+samba	turbofolk	4
+samba	toque no altar	14
+samba	Susan Boyle	12
+samba	trombone	8
+samba	parody	77
+samba	music from the world of Osho	5
+samba	Love Metal	89
+samba	beth	4
+samba	Shred	20
+samba	rapcarioca	42
+samba	Neo Soul	89
+samba	galiza	16
+samba	Chanson Française	8
+samba	neocrust	7
+samba	meek mill	16
+samba	adam levine	14
+samba	Serbia	4
+samba	melodic rock	65
+samba	pimba	4
+samba	Musica Portuguesa	13
+samba	favela	20
+samba	Carioca	5
+samba	Teen Angels	8
+samba	hardcore nacional	4
+samba	brit pop	5
+samba	Melodic House	6
+samba	tyga	39
+samba	Technocore	9
+samba	electro hop	108
+samba	slowcore	117
+samba	brazilian punk	58
+samba	inverno	5
+samba	england	7
+samba	2016	13
+samba	rockabilly	289
+samba	nouvelle	6
+samba	traditional ska	10
+samba	Lana Del Rey	11
+samba	slide guitar	6
+samba	xote	101
+samba	JPop	170
+samba	screamo	687
+samba	south africa	9
+samba	flora matos	60
+samba	jazz bass	5
+samba	Jesus Cristo	7
+samba	jay-z	285
+samba	california seixas	4
+samba	brazilian funk	11
+samba	Contemporary	6
+samba	Symphonic Rock	119
+samba	polish	290
+samba	Neo-Psychedelia	14
+samba	francais	63
+samba	industrial	779
+samba	swag	226
+samba	hardcore brasil	8
+samba	candombe	6
+samba	funky junky	6
+samba	orgcore	9
+samba	best act ever	13
+samba	Aditive	18
+samba	neo progressive	18
+samba	sax	14
+samba	Reggaeton	327
+samba	frozen	4
+samba	international	7
+samba	chileno	6
+samba	youngstar	6
+samba	rs	7
+samba	dark ambient	167
+samba	abstract hip-hop	25
+samba	entretenimento	4
+samba	swiss music	5
+samba	urban	383
+samba	pretty little liars	7
+samba	harry potter	18
+samba	talented	4
+samba	Pagan	29
+samba	death industrial	5
+samba	Psychedelic Soul	14
+samba	afro	5
+samba	samba paulista	31
+samba	Saddle Creek	25
+samba	paraense	6
+samba	nouvelle scene francaise	21
+samba	electro dub	7
+samba	psy	44
+samba	ireland	7
+samba	Psicopata	8
+samba	Third Man Records	12
+samba	traditional japanese	4
+samba	quiet storm	11
+samba	Nivea Soares	10
+samba	Broken Beat	7
+samba	anarcho-punk	23
+samba	orchestral	71
+samba	samba rock	76
+samba	deutsch	84
+samba	Electroclash	216
+samba	funk ostentacao	24
+samba	vocal feminino	7
+samba	french 60s	6
+samba	Angel Beats	4
+samba	true metal	49
+samba	patchanka	8
+samba	dream pop	790
+samba	poprock	9
+samba	J-Indie	6
+samba	jack white	73
+samba	velha guarda	14
+samba	Post-Black Metal	36
+samba	jammil	9
+samba	composer	406
+samba	digimon	6
+samba	micareta	13
+samba	tech-house	11
+samba	2008	8
+samba	FUCKING AWESOME	17
+samba	rap alternativo	72
+samba	Retro Swing	15
+samba	soundscape	6
+samba	uk Hardcore	6
+samba	sertanejo pop	15
+samba	cinematic	5
+samba	hypnagogic	4
+samba	ORWO Haus	4
+samba	Demi Lovato	39
+samba	Punk Metal	5
+samba	bedroom pop	19
+samba	portland	33
+samba	vocaloid	12
+samba	Soul Diva	4
+samba	mastruz com leite	9
+samba	do bom	4
+samba	scratch	4
+samba	hardcore gay antifacista	5
+samba	rock pirata	6
+samba	aline barros	32
+samba	MPB - 2000	10
+samba	coisa de pobre	17
+samba	television	5
+samba	perfeitos	11
+samba	pop alternativo	12
+samba	eurodance	127
+samba	Moulin Rouge	12
+samba	trip hop	298
+samba	2013	5
+samba	noise-gaze	8
+samba	Post-Bop	49
+samba	ragga	187
+samba	Wilson Seixas	12
+samba	movie	7
+samba	Nina	9
+samba	sucker punch	6
+samba	Berlin	10
+samba	replace	26
+samba	Hairspray	7
+samba	stand-up comedy	16
+samba	russian hip-hop	4
+samba	Technical Death Metal	164
+samba	dub reggae	21
+samba	Schlager	18
+samba	kenny rogers	7
+samba	Caipira	63
+samba	fernanda brum	18
+samba	tv shows	4
+samba	indian rock	4
+samba	hard techno	26
+samba	post-internet	5
+samba	space age pop	20
+samba	uruguay	94
+samba	mpb instrumental	8
+samba	funeral doom	20
+samba	partido alto	4
+samba	NDW	12
+samba	musica de gente apaixonada	36
+samba	brazilian metal	97
+samba	West Coast Rap	196
+samba	albums I own	5
+samba	Electrojazz	5
+samba	water	4
+samba	Porto Alegre	19
+samba	sertanejo underground	24
+samba	medieval folk	4
+samba	Lil Wayne	37
+samba	nagoya kei	9
+samba	Myjukebox	4
+samba	evangelico	43
+samba	Bhangra	11
+samba	Jauperi	5
+samba	Banda Magnificos	15
+samba	Nativista	19
+samba	Classic Motown	4
+samba	Eduardo Costa	12
+samba	vercillo	36
+samba	gospel	298
+samba	Dark metal	40
+samba	farm pop	6
+samba	Persian	5
+samba	guitar virtuoso	221
+samba	rock francais	39
+samba	quebecois	17
+samba	progressive trance	81
+samba	jazz metal	22
+samba	tex-mex	7
+samba	Samba Indie	15
+samba	tv show	9
+samba	new york	206
+samba	new roots	21
+samba	mato seco	45
+samba	lusofonia	98
+samba	alternative hip-hop	36
+samba	celtic rock	18
+samba	mc leozinho	6
+samba	boleros	18
+samba	oye boricua	24
+samba	axe de raiz	4
+samba	glo-fi	39
+samba	victoriandustrial	32
+samba	exo	31
+samba	Lionel Richie	4
+samba	indonesian	16
+samba	chilean	22
+samba	Blake Shelton	20
+samba	oppa guime hwaiting	17
+samba	Jonathan Groff	6
+samba	Rhythmic Noise	4
+samba	french touch	6
+samba	feelgood	4
+samba	abba	18
+samba	gospel rock	8
+samba	ss501	6
+samba	milton nascimento	5
+samba	Hardbass	9
+samba	stand-up	20
+samba	Indian	48
+samba	christian deathcore	5
+samba	lo fi	4
+samba	bellydance	7
+samba	evangelicas	4
+samba	ukrainian rock	7
+samba	accordion	18
+samba	Portuguese music	9
+samba	metal opera	76
+samba	nsbm	13
+samba	Folk Power Metal	15
+samba	skate music	11
+samba	taiwanese	5
+samba	rich people	44
+samba	game soundtracks	4
+samba	country pop	93
+samba	old school industrial	5
+samba	gossip girl	56
+samba	funeral jazz	14
+samba	goth	143
+samba	puerto rico	73
+samba	party	23
+samba	funky	75
+samba	Cantautores	6
+samba	Pedro Aznar	5
+samba	teneta samba	5
+samba	gothabilly	7
+samba	female vocals	64
+samba	cinema	7
+samba	cool	29
+samba	Wonder Girls	22
+samba	downbeat	4
+samba	death n roll	10
+samba	sufoco	167
+samba	Wanessa	8
+samba	ronan keating	5
+samba	alt country	10
+samba	Horrorcore	71
+samba	PDX	6
+samba	italia	8
+samba	singer	14
+samba	Jason Derulo	139
+samba	Post Grunge	4
+samba	japanese rock	27
+samba	DBSK	15
+samba	piracy	19
+samba	prog-rnb	273
+samba	french pop	174
+samba	Salt Lake	4
+samba	organ	19
+samba	Star Wars	50
+samba	rock brazil	5
+samba	new sertanejo	40
+samba	christian rock	412
+samba	B0SS	5
+samba	ambient	1347
+samba	batcave	11
+samba	Smooth Jazz	125
+samba	httpcore	6
+samba	ecuador	5
+samba	Synth-Rock	26
+samba	One Tree Hill	22
+samba	North Carolina	65
+samba	florcaveira	12
+samba	Nacional	314
+samba	Buffy	9
+samba	corno music	9
+samba	future	4
+samba	80s	2767
+samba	World Music	133
+samba	across the universe	40
+samba	The Killers	8
+samba	Drum and bass	251
+samba	Akurat	4
+samba	timba	8
+samba	reggae metal	10
+samba	cuban	122
+samba	00s	201
+samba	barcelona	5
+samba	scott pilgrim	12
+samba	SUPIMPA VEIO	13
+samba	the worst thing ever to happen to music	8
+samba	ukkjhkjhvbjh	4
+samba	raw	11
+samba	Veronica Mars	5
+samba	poland	7
+samba	Megadeth	4
+samba	Victor e Leo	114
+samba	Christian Hardcore	6
+samba	freakbeat	7
+samba	nostalgia	12
+samba	Go-Go	19
+samba	post-punk	1768
+samba	freak folk	437
+samba	Donnie Darko	10
+samba	tanto	6
+samba	pagode samba romantico	7
+samba	ciranda	8
+samba	krautrock	89
+samba	male vocalists	1691
+samba	lounge	395
+samba	native american	10
+samba	o namorado lava as calcinhas dela	7
+samba	hard rock	2337
+samba	sucesso	40
+samba	western	16
+samba	fagner	70
+samba	Girl Groups	226
+samba	Hawaiian	23
+samba	qlimax	4
+samba	periferia	5
+samba	ethereal	211
+samba	violin	100
+samba	wonky	55
+samba	pagan black metal	6
+samba	beer	20
+samba	jazz-rock	8
+samba	celtic folk	4
+samba	anticon	14
+samba	eletrobrega	289
+samba	brazillian	12
+samba	Israeli Rock	4
+samba	glam punk	5
+samba	trova	28
+samba	pernambuco	261
+samba	Jorge Vercillo	37
+samba	indie brasil	20
+samba	On the floor	10
+samba	Step Up 3D soundtrack	6
+samba	indierock	4
+samba	game	44
+samba	maneva	44
+samba	acustico	9
+samba	good music	48
+samba	cartoon	9
+samba	Hillsong	18
+samba	montreal	13
+samba	contemporary country	26
+samba	Bossa Nova	2196
+samba	modern funk	6
+samba	pretty girls	4
+samba	brazilian gospel	20
+samba	core	4
+samba	Selena Gomez	414
+samba	Trill Shit	7
+samba	Pedro Mariano	16
+samba	blues guitar	4
+samba	adolescente	4
+samba	marley family	6
+samba	mashup	68
+samba	DBlack	4
+samba	games	7
+samba	salsa cubana	6
+samba	Sludge	197
+samba	dark	24
+samba	rock	3038
+samba	Christian Rap	13
+samba	piaui	16
+samba	dansk	5
+samba	electropunk	7
+samba	post-witch house	6
+samba	Brazilian Christian Worship	10
+samba	spanish pop	35
+samba	post-emo	7
+samba	gaucho da fronteira	6
+samba	madchester	76
+samba	chicha	6
+samba	Rock uruguayo	24
+samba	pirata	8
+samba	nigeria	7
+samba	musique concrete	12
+samba	shitty anal gaycore	5
+samba	Gothic	770
+samba	católico	6
+samba	liedermacher	5
+samba	oud	10
+samba	experimental hardcore	23
+samba	Brostep	12
+samba	progressive hardcore	7
+samba	sei la	10
+samba	chanson	471
+samba	Themes	4
+samba	Post-Romantic	11
+samba	education	4
+samba	UK hip-hop	16
+samba	melodic	35
+samba	enka	6
+samba	hip hop tuga	7
+samba	pagode romantico	23
+samba	Nashville	11
+samba	cape verde	11
+samba	Brown Eyed Girls	8
+samba	queer	122
+samba	raop	8
+samba	gwen stefani do terceiro mundo	17
+samba	web protocol	6
+samba	DSBM	15
+samba	skacore	21
+samba	black metal	863
+samba	abstract hip hop	4
+samba	Shania Twain	76
+samba	catholic	47
+samba	Brega	240
+samba	Jazz Samba	5
+samba	Acoustic Folk	4
+samba	germany	11
+samba	lolicore	4
+samba	OC ReMix	5
+samba	neurofunk	9
+samba	actors	4
+samba	bossa	16
+samba	Filipino	4
+samba	black death metal	5
+samba	choir	42
+samba	hcsp	12
+samba	my-love	12
+samba	circus	24
+samba	hardcore treta	7
+samba	mesopotamian metal	4
+samba	crustgrind	7
+samba	tribal fusion	11
+samba	bubblegum punk	15
+samba	Hard Bop	68
+samba	bomgosto	9
+samba	Need to scrobble	28
+samba	Austria	5
+samba	moshcore	48
+samba	Naldo	24
+samba	Canterbury	62
+samba	portuguese guitar	5
+samba	-	4
+samba	Chatroulette	5
+samba	vodks	10
+samba	vintage	10
+samba	Mundart	5
+samba	lixo	41
+samba	death-thrash metal	17
+samba	seu cuca	44
+samba	avantgarde	47
+samba	infantil	88
+samba	groovy	4
+samba	better than ariana grande	21
+samba	miami bass	5
+samba	jorge vercilo	65
+samba	israeli	45
+samba	idol	22
+samba	Scandinavian folk	10
+samba	fresno	7
+samba	yamapi	4
+samba	jazz fusion	161
+samba	Forro	462
+samba	kill bill	4
+samba	nintendo	26
+samba	circus punk	4
+samba	chanson francophone	5
+samba	crunkcore	56
+samba	voz da verdade	4
+samba	Modern creative jazz	5
+samba	Nx Zero	4
+samba	british invasion	157
+samba	religious	24
+samba	Ikon	5
+samba	Arniecore	5
+samba	lola	6
+samba	Jason Reeves	6
+samba	musica gaucha	4
+samba	Acoustic Rock	534
+samba	Provocative	7
+samba	avioes	53
+samba	rub-a-dub	4
+samba	para	5
+samba	psycho	10
+samba	movie soundtrack	9
+samba	Belgium	30
+samba	violinist	8
+samba	prog-jazz	4
+samba	religiosa	30
+samba	queercore	10
+samba	seether	12
+samba	K-RAP	9
+samba	alternative metal	881
+samba	true black metal	42
+samba	a capella	23
+samba	canadians	4
+samba	belo horizonte	7
+samba	hardcore punk	578
+samba	microhouse	4
+samba	tyrese	5
+samba	ghost drone	4
+samba	tropical	29
+samba	vegan straight edge	6
+samba	brazilian	3034
+samba	sexy	456
+samba	LITTLE STAR	10
+samba	Grime	483
+samba	chicago	99
+samba	glitch	117
+samba	Israel	18
+samba	neo prog	4
+samba	Ramones	4
+samba	Hip Hop Latino	10
+samba	pure bowel-loosening goregrind	19
+samba	prince	4
+samba	Brazilian Black Metal	11
+samba	newschool hardcore	6
+samba	sesh	24
+samba	fantasy	6
+samba	quebec	9
+samba	improv	4
+samba	spanish indie pop	24
+samba	fuzz rock	14
+samba	meme rap	7
+samba	soul  female vocalists	17
+samba	saxophone	177
+samba	underground hip hop	88
+samba	Sleaze Metal	7
+samba	groove	74
+samba	love at first listen	8
+samba	yacht rock	8
+samba	digital hardcore	12
+samba	solo	12
+samba	Glee Cast	375
+samba	cube entertainment	17
+samba	EMICIDA	13
+samba	gospel bom	4
+samba	UK	57
+samba	Smooth Soul	4
+samba	toy piano	4
+samba	j-pop	284
+samba	drag	29
+samba	political	810
+samba	retro electro	13
+samba	Nu Metal	1268
+samba	shoegazer	62
+samba	aleister crowley	15
+samba	bop	36
+samba	flacha	9
+samba	musicals	153
+samba	Klassik	4
+samba	Audiobook	9
+samba	spiritual	24
+samba	schwaermerisch	9
+samba	minimalism	105
+samba	Gondwana	6
+samba	brazilian singer	5
+samba	barbados	4
+samba	stoner doom	39
+samba	House	1528
+samba	Philadelphia	9
+samba	Ratto	10
+samba	Stones throw	104
+samba	doujin	11
+samba	mulheres no sertanejo	68
+samba	radiohead	5
+samba	big bang	62
+samba	Wiz Khalifa	13
+samba	Neo-swing	13
+samba	pagode baiano	7
+samba	chile	91
+samba	roots reggae	542
+samba	DIsco House	48
+samba	Hindi	16
+samba	hannah montana	49
+samba	tuva	5
+samba	Progressive metal	659
+samba	memphis rap	29
+samba	tribal industrial	4
+samba	Gabber	10
+samba	female fronted	7
+samba	donghae	4
+samba	darkpsy	13
+samba	BANDA	14
+samba	progressive kuduro	6
+samba	poesia	8
+samba	need to listen to	5
+samba	hilary duff	146
+samba	Death Doom Metal	33
+samba	symphonic power metal	45
+samba	electrohouse	4
+samba	remix	35
+samba	Awesome	57
+samba	I WANT HER ASS	6
+samba	melodic metalcore	92
+samba	jesus culture	12
+samba	surf rock	225
+samba	eclectic	4
+samba	experimental	2143
+samba	surf pop	4
+samba	hugo pena e gabriel	4
+samba	grease	10
+samba	justin bieber	461
+samba	complextro	5
+samba	electroacoustic	27
+samba	G-Unit	10
+samba	pixote	24
+samba	electro rock	6
+samba	spaghetti western	9
+samba	afro-beat	5
+samba	christian death metal	4
+samba	Jogos	6
+samba	romance	51
+samba	Guns N' Roses	6
+samba	dub wise	4
+samba	1	8
+samba	EDSON E HUDSON	13
+samba	Vinicius	4
+samba	nederlands	4
+samba	bjork	4
+samba	drugs	9
+samba	entre a cruz e o amor	4
+samba	trent reznor	14
+samba	players	4
+samba	exo-k	23
+samba	TV Themes	7
+samba	post-dubstep	105
+samba	science	8
+samba	Diante do trono	38
+samba	maconha	55
+samba	beauty	5
+samba	future garage	220
+samba	art pop	131
+samba	Panama	8
+samba	christian hip-hop	10
+samba	<3	15
+samba	free improvisation	5
+samba	anime songs	13
+samba	lute	8
+samba	estonian	86
+samba	Bh	6
+samba	mod revival	10
+samba	dupla	36
+samba	mf doom	67
+samba	Ricky	4
+samba	atmospheric doom metal	12
+samba	nouvelle star	8
+samba	electro-pop	5
+samba	ac dc	6
+samba	bon jovi	16
+samba	psychill	16
+samba	boobs	6
+samba	plan-it-x	4
+samba	Nederlandstalig	12
+samba	adoracao	40
+samba	modern rock	27
+samba	bruna karla	27
+samba	2pm	18
+samba	Bob Marley	279
+samba	Contemporary Blues	6
+samba	australian	1716
+samba	8-bit	337
+samba	rodriguinho	59
+samba	latin america	4
+samba	fado	62
+samba	compton	39
+samba	Samba-enredo	5
+samba	bias	4
+samba	mediagaze	4
+samba	brazilian hardcore	24
+samba	power electronics	5
+samba	oshare kei	24
+samba	dEUS	63
+samba	Tropical Bass	28
+samba	divas	8
+samba	best shit ever existing in the whole world makes me vomit over my daddys pussy while i listen to the popes earcream following the dark lord to my grandmummies treassure in an iland of dicksucking faggot frogs having silver eyebrows	12
+samba	rebeldes	23
+samba	ye-ye	54
+samba	idols	8
+samba	Jennifer Love Hewitt	9
+samba	kawaii	13
+samba	lol	15
+samba	pop-rap	4
+samba	teen	17
+samba	xfm br	6
+samba	musica religiosa	9
+samba	seattle	117
+samba	potiguar	7
+samba	final fantasy	33
+samba	polish jazz	13
+samba	ECM	28
+samba	jyp nation	4
+samba	italian progressive rock	39
+samba	very sexy	5
+samba	electro	1404
+samba	slavic pagan metal	24
+samba	death metal	683
+samba	gauchesca	24
+samba	Ralph Towner	4
+samba	bachata	27
+samba	flute	24
+samba	Gothic Glam	38
+samba	hypnotic	4
+samba	baroque	221
+samba	progressive folk	13
+samba	George Strait	4
+samba	jesus	16
+samba	folk rock	1217
+samba	polish black metal	7
+samba	rock pop brasilian	19
+samba	trip-hop	1376
+samba	funk metal	87
+samba	jorge	37
+samba	cordel	14
+samba	musicas bonitas	9
+samba	Tribute	44
+samba	new jack swing	9
+samba	rose	4
+samba	Houston	35
+samba	experimental funk	20
+samba	old school	88
+samba	argentina	269
+samba	Nordeste arretado	4
+samba	san francisco	4
+samba	shoegaze	700
+samba	alternativa	5
+samba	disbanded	4
+samba	female vocalists	2940
+samba	bacharach	8
+samba	hurban	4
+samba	drag queens	107
+samba	Super junior	47
+samba	melhor que los hermanos	17
+samba	regional	64
+samba	belchior	150
+samba	Elephant 6	112
+samba	Piano Comedy	9
+samba	soul jazz	5
+samba	Progressive Metalcore	31
+samba	neoclassic	7
+samba	Italodance	5
+samba	band	6
+samba	igorcore	11
+samba	amazing	19
+samba	country rock	40
+samba	francisco	4
+samba	progressive power metal	6
+samba	gafieira	40
+samba	dmx	9
+samba	indie-pop	21
+samba	ANELIS	10
+samba	Mitchel Musso	7
+samba	Educational	4
+samba	jam band	21
+samba	disney channel	5
+samba	tatu	20
+samba	90's	25
+samba	virally yours	4
+samba	pederastcore	10
+samba	Film music composer	4
+samba	CBN	4
+samba	Slamming Brutal Death Metal	18
+samba	a cappella metal	12
+samba	lucas silveira	52
+samba	rock mineiro	20
+samba	Samba Rock Nervoso	10
+samba	singer-songwriter	2907
+samba	Yoruba	4
+samba	Hesed	5
+samba	poezja spiewana	4
+samba	Faroese	4
+samba	Virgin Islands Reggae	21
+samba	nueva cancion	13
+samba	russian rock	23
+samba	liverpool	11
+samba	infinite	17
+samba	ultimate	18
+samba	Korea	5
+samba	Orthodox Black Metal	12
+samba	mandolin	5
+samba	Musica de Relajo y conciencia	10
+samba	Bahia Rock	76
+samba	merengue	13
+samba	post-anal experience	7
+samba	pedophile	45
+samba	humor	199
+samba	noise punk	4
+samba	male vocalist	27
+samba	Gypsy	561
+samba	massa	5
+samba	Indietronic	17
+samba	mezzo-soprano	5
+samba	taiwan	11
+samba	sunshine pop	9
+samba	guilherme	24
+samba	axe music	22
+samba	jangle pop	8
+samba	deathrock	39
+samba	famale vocalists	13
+samba	Hammond	15
+samba	irish	1168
+samba	gucci mane	10
+samba	PSIRICO	8
+samba	Crunk	449
+samba	livres pra adorar	6
+samba	Vivaz	42
+samba	Quinto Andar	16
+samba	sm entertainment	29
+samba	occult rock	10
+samba	New Weird America	266
+samba	brazilian classic	17
+samba	aids	4
+samba	Carrie Underwood	65
+samba	Minnesota	5
+samba	South Park	4
+samba	metalcore	813
+samba	new bras	10
+samba	Experimental Rock	53
+samba	mc martinho	10
+samba	acoustic guitar	18
+samba	egyptian	5
+samba	psychedelic black metal	11
+samba	aaa	5
+samba	merda	14
+samba	songwriter	24
+samba	Blues Brasil	28
+samba	Power metal	719
+samba	Cumbia villera	5
+samba	Southern metal	168
+samba	Technical Metalcore	8
+samba	relax	35
+samba	southern	6
+samba	davi sacer	5
+samba	electro-indie-pop	16
+samba	lesado	4
+samba	new metal	20
+samba	vibes	4
+samba	Nu-metal	452
+samba	top	6
+samba	nickelback	7
+samba	street punk	85
+samba	catolic	10
+samba	alejandro sanz	37
+samba	podcast	61
+samba	20s	8
+samba	next level beats	160
+samba	Pagode	626
+samba	Perfect Singer	5
+samba	jazz saxophone	14
+samba	instrumental	1502
+samba	tango electronico	4
+samba	2004	4
+samba	bar	18
+samba	duets	38
+samba	spanish rap	5
+samba	louisiana	5
+samba	avex	5
+samba	trojan	6
+samba	k-rock	14
+samba	paula fernandes	6
+samba	witch house	49
+samba	Italy	14
+samba	bizarro	48
+samba	nz	5
+samba	rap francais	13
+samba	Fistt	9
+samba	boa musica	4
+samba	alagoas	61
+samba	reggae argentino	8
+samba	venturini	11
+samba	RIO	13
+samba	podcast musical	4
+samba	melancholic	99
+samba	Bahia	145
+samba	Meditation	28
+samba	moderen country	7
+samba	lindeza	70
+samba	ahmad jamal	9
+samba	DST Rock	4
+samba	melodic punk	23
+samba	swingueira	10
+samba	death country	4
+samba	Pop Folk	6
+samba	emo violence	20
+samba	Chicago Blues	96
+samba	celtic punk	13
+samba	Christian Metalcore	62
+samba	Classic Blues	115
+samba	fernandinho	29
+samba	New Zealand	670
+samba	dupla sertaneja	30
+samba	United States	13
+samba	jazzy	16
+samba	Female fronted metal	414
+samba	Legião Urbana	13
+samba	praise & worship	18
+samba	fantasia	5
+samba	industrial metal	486
+samba	experimental hip-hop	27
+samba	crossover thrash	18
+samba	House and Tribal Songs	5
+samba	Crust	73
+samba	Avant-Pop	8
+samba	Girls Generation	6
+samba	projota	6
+samba	basura	26
+samba	LastfmSC	4
+samba	Reggae Rock	6
+samba	country-rock	4
+samba	female fronted sertanejo	67
+samba	Psychedelic Rock	1589
+samba	melodic hardcore	572
+samba	independente	35
+samba	film music	15
+samba	people who are freakier and folkier than motherfucking devendra banhart	5
+samba	90s	1837
+samba	reyli	4
+samba	lord of the rings	48
+samba	Musical theatre	20
+samba	trilha sonora	12
+samba	Drake	4
+samba	depressive rock	56
+samba	finnish	522
+samba	Nelly	49
+samba	brunelds	6
+samba	coldwave	25
+samba	Funk Rock	995
+samba	Spanish Metal	9
+samba	gothic lolita	7
+samba	Slow-coustic	12
+samba	fernando e sorocaba	83
+samba	mahomies	29
+samba	Brazillian Rap	13
+samba	proto-punk	452
+samba	hardstyle	27
+samba	Pop-Rock	84
+samba	instrumental hip-hop	248
+samba	darkwave	263
+samba	90s emo	10
+samba	jazz trumpet	20
+samba	culture	4
+samba	engenheiros do hawaii	7
+samba	Doce encontro	4
+samba	svensk punk	8
+samba	downtemp	7
+samba	Rania	4
+samba	psychedelic pop	68
+samba	Love	275
+samba	nosso sentimento	9
+samba	indietronica	344
+samba	c86	7
+samba	lucas e diogo	4
+samba	boybands	199
+samba	poezja śpiewana	4
+samba	regis danese	7
+samba	musical	617
+samba	uutta jazzia	4
+samba	punk blues	6
+samba	NWOBHM	516
+samba	Better than Beatles	19
+samba	Sheffield	11
+samba	medieval	129
+samba	diva	242
+samba	Baladas	18
+samba	mantra	14
+samba	noisecore	31
+samba	Finnish Black Metal	9
+samba	melodic black metal	84
+samba	Southern Country	6
+samba	Justus League	4
+samba	kristinia debarge	8
+samba	Suomi	5
+samba	death-doom metal	17
+samba	balkan	52
+samba	sludge metal	125
+samba	luan santana	14
+samba	popular	10
+samba	young money	43
+samba	brazilian music	462
+samba	linuxcore	6
+samba	bootleg	5
+samba	conductor	31
+samba	ethiopia	14
+samba	dubstep	798
+samba	louvor	36
+samba	horror metal	30
+samba	sertanejo	636
+samba	Japanese Indie	7
+samba	British Punk	30
+samba	bob acri	17
+samba	rir2011	4
+samba	Epik High	4
+samba	guitarrada	17
+samba	J-Ska	6
+samba	hellbilly	4
+samba	jazzcore	9
+samba	Coldplay	23
+samba	bollywood	15
+samba	downtempo	1181
+samba	twee pop	5
+samba	puro nardo	18
+samba	Scandinavian Girls	4
+samba	mathcore	107
+samba	Ayumi Hamasaki	11
+samba	jazz	2299
+samba	Hair - Aquarios	4
+samba	vocals	10
+samba	danish	411
+samba	musica de gosto duvidoso	4
+samba	brasil es robertitus	13
+samba	Morning musume	4
+samba	tuareg	4
+samba	tontipop	4
+samba	dutch house	7
+samba	flow	9
+samba	balada sertajera	60
+samba	hyphy	5
+samba	netlabel	4
+samba	mike portnoy	12
+samba	Best Singer in the world	10
+samba	after school	9
+samba	musica que se ouve em roda de macumba	12
+samba	guatemala	6
+samba	rio grande do sul	178
+samba	vocal house	23
+samba	Hip-Hop	2665
+samba	Radio Remix	15
+samba	Sertanejo Universitario	427
+samba	porn groove	4
+samba	funk erudito	20
+samba	Chicago House	8
+samba	Rock 'n' Roll	27
+samba	Table rock	4
+samba	powerviolence	46
+samba	Avant-Prog	21
+samba	drone	178
+samba	caracarai	5
+samba	new wave	1831
+samba	Korean Hip-Hop	8
+samba	raggamuffin	166
+samba	soft rock	277
+samba	block b	20
+samba	post-whatever	10
+samba	Grupo Revelacao	101
+samba	funk ostentação	19
+samba	anime	204
+samba	rapjazz	4
+samba	rock brasil	103
+samba	seungri	4
+samba	percussion	22
+samba	move your body	6
+samba	dejeto	4
+samba	egypt	4
+samba	early music	17
+samba	NERD	12
+samba	technopop	11
+samba	stronda music	56
+samba	Scumbag	5
+samba	latin pop	500
+samba	sistar	23
+samba	moog	9
+samba	chamber music	11
+samba	Nature	11
+samba	rock opera	14
+samba	death punk	16
+samba	tchaikovsky	4
+samba	Greyson Chance	16
+samba	cover band	4
+samba	soprano	14
+samba	Funk Carioca	207
+samba	breaks	37
+samba	Texas Blues	9
+samba	seapunk	15
+samba	20th Century	4
+samba	based	84
+samba	funk melody	61
+samba	Puerto Rican	6
+samba	Idolos	15
+samba	cheiro de amor	18
+samba	brazilian progressive rock	45
+samba	hippie	57
+samba	3 Doors Down	207
+samba	Greek	40
+samba	surf punk	8
+samba	sambalanco	6
+samba	Amado Batista	12
+samba	rap	2429
+samba	lithuanian	12
+samba	joelma e chimbinha	48
+samba	Rouge	4
+samba	Passinho	9
+samba	psytrance	124
+samba	volksmusik	5
+samba	cigana	4
+samba	pica pau	4
+samba	Cody Simpson	23
+samba	Faringes	5
+samba	pe vermelho	10
+samba	Sweden	33
+samba	limao	15
+samba	hard house	4
+samba	outlaw country	29
+samba	capixaba	4
+samba	gorestep	13
+samba	reggae con sentido	10
+samba	bruno	25
+samba	Rigor Profundidade Clareza Concisao Pureza Leveza e Melancolia	15
+samba	indiepop	10
+samba	MPB Pagode	4
+samba	joe jonas	19
+samba	catalan	14
+samba	catolicas	13
+samba	tecnobrega	50
+samba	rock en español	25
+samba	french rap	19
+samba	Natalia Kills	11
+samba	Lebanon	6
+samba	venezuela	25
+samba	Midlife Crisis Metal	9
+samba	k-pop	376
+samba	porngrind	6
+samba	sludgecore	9
+samba	acri	17
+samba	woman	7
+samba	TVXQ	5
+samba	Bruce Springsteen	5
+samba	hardcore sertanejo	30
+samba	film score	8
+samba	pop transcendental	37
+samba	big time rush	28
+samba	crooners	5
+samba	dutch	247
+samba	rj	97
+samba	Français	7
+samba	catala	9
+samba	brian littrell	4
+samba	Britney Spears	802
+samba	j-hiphop	7
+samba	UK Garage	250
+samba	viking metal	196
+samba	god	63
+samba	swing	611
+samba	country blues	15
+samba	score	116
+samba	acid house	9
+samba	swing revival	8
+samba	hip hop alternativo	4
+samba	white metal	10
+samba	exalta samba 25 anos	4
+samba	slow jams	513
+samba	Ashlee Simpson	57
+samba	chiddy bang	6
+samba	USBM	12
+samba	guilty pleasure	706
+samba	vaginal	5
+samba	sinal	7
+samba	Europop	33
+samba	lambada	6
+samba	german	1035
+samba	horror	9
+samba	british	2915
+samba	serbian	15
+samba	dnb	80
+samba	drag music	23
+samba	Rapper	40
+samba	musica andina	6
+samba	bitpop	11
+samba	fran	16
+samba	jazz funk	18
+samba	Emily Osment	39
+samba	futuristic	32
+samba	latin jazz	153
+samba	City And Colour	16
+samba	worship	148
+samba	Epic Power Metal	8
+samba	french electro	6
+samba	gay	153
+samba	fim de tarde na praia	70
+samba	german thrash metal	33
+samba	sweet	16
+samba	gothenburg metal	12
+samba	abstract	23
+samba	Vinicius de Moraes	12
+samba	brazil	2364
+samba	post-hardcore	727
+samba	romantic	360
+samba	Balearic Beat	5
+samba	feminist	5
+samba	art punk	4
+samba	Hard Trance	9
+samba	safadeus	51
+samba	:D	4
+samba	Se7en	6
+samba	mgmt	4
+samba	rhymesayers	6
+samba	jazz vocalists	4
+samba	French jazz	50
+samba	newgrass	5
+samba	brazilian axe	8
+samba	retro pop	15
+samba	football	4
+samba	glo fi	4
+samba	happy hardcore	48
+samba	composers	505
+samba	CSNY	5
+samba	bluegrass	106
+samba	camp rock	40
+samba	club	630
+samba	psych-folk	4
+samba	steven wilson	36
+samba	EDM	77
+samba	Espirita	5
+samba	Alt-country	454
+samba	post hardcore	84
+samba	Jout Jout	5
+samba	jazz-hop	32
+samba	mash up	6
+samba	contemporary rnb	5
+samba	folk punk	114
+samba	Nintendocore	48
+samba	Pop Metal	22
+samba	mestizo	12
+samba	emocore	742
+samba	Johnnys entertainment	21
+samba	Soviet	5
+samba	Indie Funk	29
+samba	Ester Dean	5
+samba	String Quartet	9
+samba	dance music	11
+samba	eletronic	19
+samba	independent	11
+samba	ska-jazz	4
+samba	collaboration	9
+samba	sertanejos	4
+samba	flawless	4
+samba	cantautori	12
+samba	madagascar	6
+samba	ost	140
+samba	Ao Cubo	10
+samba	new jersey	6
+samba	raw black metal	24
+samba	klezmer	18
+samba	Swedish Death Metal	25
+samba	electro punk	8
+samba	poetry	78
+samba	harmonica blues	26
+samba	seresta	23
+samba	melodic hardstyle	4
+samba	regis	7
+samba	Jazz Guitarists	11
+samba	Pop-punk	45
+samba	esfsdfs	13
+samba	Old school Hardcore	6
+samba	miami	25
+samba	Urban conceitual	11
+samba	guitarra	4
+samba	Progressive rock	1998
+samba	rio de la plata	9
+samba	scream and shout	5
+samba	All	322
+samba	Nederpop	5
+samba	alternative rnb	73
+samba	tango argentino	28
+samba	Nana	9
+samba	Rock Rool Brasil	9
+samba	global	5
+samba	nu funk	5
+samba	German Black Metal	8
+samba	power violence	36
+samba	The Beatles	32
+samba	electro-swing	9
+samba	solo piano	4
+samba	Manchester	17
+samba	german reggae	9
+samba	ivete	4
+samba	Minas Gerais	23
+samba	Wicked	24
+samba	supergrass	4
+samba	vocal jazz	600
+samba	mc tevez	10
+samba	ta surdo	4
+samba	not hip-hop	5
+samba	stax	6
+samba	seventeen	7
+samba	johnny depp	9
+samba	death rock	8
+samba	slam death metal	4
+samba	30s	10
+samba	Latin Dance	5
+samba	4ad	21
+samba	raggae brazil	14
+samba	BTOB	5
+samba	Argeu california seixas	64
+samba	rock gospel	8
+samba	atmospheric death metal	8
+samba	Pitbull	4
+samba	bad tagged	26
+samba	stupid 3rd world scum	9
+samba	indie pop	2303
+samba	Skinhead	10
+samba	sofrencia	57
+samba	depressao musical	5
+samba	the voice brasil	6
+samba	DH TUDO BEM MAS BONDE DA STRONDA ECA	7
+samba	black music	41
+samba	Disney	873
+samba	Juke	9
+samba	popstars	13
+samba	1d	19
+samba	contemporary classical	277
+samba	Free Funk	5
+samba	tropiclia	4
+samba	video game soundtrack	10
+samba	amazonia	22
+samba	DITC	4
+samba	beast coast	9
+samba	Grunge Rock	6
+samba	kids	10
+samba	industrial rock	209
+samba	Catolica	34
+samba	contratenor	4
+samba	colombian	26
+samba	Afro-Cuban	9
+samba	electronic	2914
+samba	Technical Brutal Death Metal	16
+samba	australia	347
+samba	glitch-hop	52
+samba	genial	4
+samba	Norwegian Black Metal	74
+samba	spotify	40
+samba	Naruto	14
+samba	Eros	11
+samba	Shakira	9
+samba	malditos	14
+samba	Speed Thrash Metal	6
+samba	twilight	18
+samba	under 500 listeners	4
+samba	Finnish Folk	5
+samba	rashid	6
+samba	spring awakening	13
+samba	cantautor	67
+samba	pittsburgh	73
+samba	lesser known yet streamable artists	32
+samba	renaissance	40
+samba	U2	5
+samba	sterling knight	5
+samba	r'n'b	58
+samba	deathcore	230
+samba	Portugal	114
+samba	harpsichord	8
+samba	latin	1678
+samba	brasil cultural	8
+samba	Ukraine	7
+samba	Hong Kong	4
+samba	Doom	65
+samba	Queensbridge	5
+samba	electro-dub	5
+samba	Ac-Dc	19
+samba	cafona	4
+samba	praise and worship	31
+samba	flamenco fusion	10
+samba	brazilian christian rock	15
+samba	Turkish Pop	4
+samba	Oi	140
+samba	black eyed peas	4
+samba	Garage Rock	942
+samba	memphis	15
+samba	goa	83
+samba	lebanese	10
+samba	Timo Tolkki	6
+samba	french screamo	10
+samba	occult	6
+samba	old school thrash metal	18
+samba	bastard pop	15
+samba	Gaucha	35
+samba	trapwave	9
+samba	Dirty South	440
+samba	pernambuco original style	13
+samba	Error 404	4
+samba	Gauderia	19
+samba	a bela e a fera	4
+samba	Art popular	19
+samba	Japanoise	4
+samba	the voice	209
+samba	violeiro menestrel	4
+samba	parodia	4
+samba	Drum n Bass	97
+samba	iu	8
+samba	BIRP	10
+samba	Madonna	23
+samba	Lo-Fi	1046
+samba	Madlib	4
+samba	boston	7
+samba	Alternativo	167
+samba	america	8
+samba	Spanish punk	6
+samba	to listen	4
+samba	ebm	97
+samba	Geeky	7
+samba	retrowave	9
+samba	minimalist	27
+samba	ranchera	6
+samba	traditional	26
+samba	rockadd	4
+samba	retro soul	6
+samba	worldmusic	4
+samba	French rock	33
+samba	relaxation	23
+samba	Russia	5
+samba	Rave	30
+samba	male vocal	31
+samba	american hiphop	4
+samba	Aleyster	7
+samba	crystal bowersox	4
+samba	Scene	7
+samba	mpb	2826
+samba	sanremo 2009	7
+samba	jazz guitar	89
+samba	do muido coleguinha	5
+samba	Perota Chingo	13
+samba	operatic pop	6
+samba	depressive black metal	46
+samba	Avant-Garde	462
+samba	Papas da Lingua	47
+samba	Igreja Catolica	9
+samba	jewish	83
+samba	Mario	7
+samba	k-on	4
+samba	Punk N Roll	4
+samba	robertitus global	5
+samba	crabcore	35
+samba	40s	23
+samba	Game Music	97
+samba	nuwance	8
+samba	progressive psytrance	10
+samba	acid folk	9
+samba	Notcias	11
+samba	russian rap	25
+samba	Peru	17
+samba	andre matos	6
+samba	hawaii	4
+samba	keyboard	8
+samba	Miranda Lambert	7
+samba	turkish classical music	8
+samba	michael jackson	7
+samba	singer songwriter	17
+samba	gospel brasil	59
+samba	Avant-Garde Jazz	33
+samba	Southern Soul	6
+samba	choro	70
+samba	Mandy Moore	23
+samba	gostoso	21
+samba	slovak	8
+samba	mistagged track	12
+samba	te	6
+samba	celtic	340
+samba	pianist	37
+samba	brazilian country	279
+samba	chill	515
+samba	80's	10
+samba	drill	8
+samba	Peter Gabriel	4
+samba	battle metal	30
+samba	blue note	12
+samba	Vegan	7
+samba	Classical pianist	9
+samba	classical piano	40
+samba	Country Favorites	7
+samba	RnB Francais	4
+samba	latina	9
+samba	russian alternative	8
+samba	Sean Paul	4
+samba	real recognize real and this nigga the realest	50
+samba	post-grunge	455
+samba	mpb brasil banda quarteto poesia	4
+samba	Curitiba	57
+samba	dope sample	9
+samba	Fusion	346
+samba	pe de serra	13
+samba	dreampop	20
+samba	romania	7
+samba	french montana	5
+samba	Bemani	4
+samba	better than marina and the diamonds	5
+samba	club jazz	8
+samba	tradicionalista	14
+samba	melbourne	4
+samba	cafe del mar	4
+samba	Dreamy	11
+samba	philippines	4
+samba	Strange Music	6
+samba	why so gorgeous	11
+samba	taio cruz	75
+samba	Music Brasilian	4
+samba	Trovador	12
+samba	teenage years	4
+samba	country	1567
+samba	Electro-Rock	10
+samba	Progressive deathcore	26
+samba	folk-rock	89
+samba	electro synth rock	8
+samba	gaucho	27
+samba	bulgarian	14
+samba	electropop	1247
+samba	no wave	75
+samba	babado novo	23
+samba	eu so quero voce	12
+samba	Sarah Records	6
+samba	one hit wonder	4
+samba	pagan folk	34
+samba	future legendary tranny music	8
+samba	cold wave	26
+samba	heavy	5
+samba	old school death metal	82
+samba	Gay Metal	63
+samba	Bridgit Mendler	4
+samba	rhiana	8
+samba	girl group	27
+samba	brasil	2945
+samba	congo	7
+samba	pan flute	5
+samba	acoustic	2447
+samba	praise	48
+samba	cyndi lauper	4
+samba	pee wee herman	5
+samba	duet	67
+samba	Paramore	121
+samba	frenchcore	17
+samba	discotheque	4
+samba	video game	29
+samba	Ray Conniff	4
+samba	les legions noires	4
+samba	actor	11
+samba	pop rock brasil	7
+samba	wu-tang	72
+samba	Radio	12
+samba	celtic metal	88
+samba	Aleyster Crowley	100
+samba	mix	4
+samba	romantico	15
+samba	youth crew	14
+samba	thai	7
+samba	doctor who	14
+samba	fast melodic hardcore	5
+samba	folklore	14
+samba	psychedelic surf	24
+samba	Brazilian thrash metal	26
+samba	Punkabilly	18
+samba	divos	5
+samba	anti-folk	72
+samba	collab	15
+samba	sertanemo	4
+samba	björk	47
+samba	the international rancho	8
+samba	Spinetta	15
+samba	inna	30
+samba	male	33
+samba	Soundtrack	1712
+samba	cassiane	13
+samba	Maskavo	41
+samba	Pop Latino	16
+samba	austin	10
+samba	Cleveland	13
+samba	positive sounds	40
+samba	real screamo	26
+samba	brad paisley	10
+samba	cellist	7
+samba	children	11
+samba	djs	28
+samba	Judas Priest	122
+samba	Latin folk	13
+samba	female vocal	65
+samba	piano jazz	18
+samba	jah	45
+samba	Progressive	740
+samba	death thrash metal	4
+samba	harlem	5
+samba	floribella	4
+samba	gypsy polkatronica	4
+samba	Dread Mar I	4
+samba	Trash	16
+samba	lara fabian	21
+samba	unknown	423
+samba	Rock en Espanol	150
+samba	emotional	10
+samba	vanguarda	11
+samba	good	5
+samba	ronnie radke	32
+samba	rainha	9
+samba	Adventista	17
+samba	christian metal	44
+samba	not as hot as you losers seem to believe	4
+samba	ethiopian jazz	4
+samba	orchestra	63
+samba	rumba	11
+samba	Miley Cyrus	4
+samba	dark electro	33
+samba	Conscious Rap	7
+samba	C-pop	31
+samba	rebolation	6
+samba	O Cara	7
+samba	turkish	29
+samba	Rasta	146
+samba	raggae	5
+samba	joao bosco e vinicius	56
+samba	mc	17
+samba	female vocalist	1282
+samba	polifonia	46
+samba	macumbacore	11
+samba	cpop	14
+samba	war metal	8
+samba	a cappella	68
+samba	atlanta	162
+samba	keyshia cole	17
+samba	Old School Punk	23
+samba	bruna carla	8
+samba	Latinoamericana	6
+samba	english	30
+samba	g	6
+samba	O Playboy Rodou	7
+samba	Guitar Hero	8
+samba	rock n roll	661
+samba	Campo Grande	4
+samba	better than jay z	11
+samba	Mariah Carey	350
+samba	Spanish Rock	39
+samba	ABSOLUTA	4
+samba	perfect men	11
+samba	female artists	5
+samba	interpol	20
+samba	jazz-funk	27
+samba	cloud rap	87
+samba	nikki sixx	15
+samba	instrumental metal	5
+samba	synthpop	1142
+samba	Variete francaise	4
+samba	wisin y yandel	7
+samba	shaw	35
+samba	Aaron Shust	4
+samba	ponyrape	7
+samba	bubblegum	33
+samba	post-emo indie rock	6
+samba	Tech-Trance	5
+samba	Aggrotech	9
+samba	dixieland	7
+samba	Keep stats clean	10
+samba	Melodic Death Metal	437
+samba	single	5
+samba	visual kei	132
+samba	comedy	525
+samba	salsa	65
+samba	Il Divo	9
+samba	peruvian	6
+samba	Hieroglyphics	6
+samba	carismatica	11
+samba	old school rap	8
+samba	thrash	120
+samba	portal	7
+samba	METAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL	57
+samba	nacionais	6
+samba	soja	162
+samba	psychedelic raggae	4
+samba	blues harp	11
+samba	fantasy metal	13
+samba	1920s	6
+samba	art rock	167
+samba	third-wave ska	4
+samba	katharine mcphee	22
+samba	italian pop	145
+samba	bds	15
+samba	italian prog	31
+samba	arrocha	44
+samba	marciano	4
+samba	morr music	4
+samba	RBD	246
+samba	newbreed	32
+samba	nyhc	41
+samba	juno	18
+samba	cazuza	9
+samba	bzzr pmpln	19
+samba	Rocky Horror Picture Show	18
+samba	dirty	7
+samba	french soul	6
+samba	Salvador da Bahia Music	5
+samba	backstreet boys	145
+samba	Reggae - Filosofia Reggae	7
+samba	confia em mim	8
+samba	Straight Edge	76
+samba	espiritual	7
+samba	Argeu California	9
+samba	Black n Roll	8
+samba	jorge e mateus	266
+samba	instrumental fusion	4
+samba	Timbaland	40
+samba	francophone	25
+samba	indie folk	794
+samba	sarava metal	10
+samba	fag	5
+samba	LEGAIS 2	7
+samba	Bitch House	19
+samba	Surf	388
+samba	sertanejo arrocha	14
+samba	Celtic Folk Metal	59
+samba	rap rock	17
+samba	bolero	30
+samba	50 Cent	152
+samba	anime ost	18
+samba	90s dance	8
+samba	one direction	237
+samba	delta blues	122
+samba	Anime music	4
+samba	Neue Deutsche Haerte	7
+samba	soweto	8
+samba	zouk	6
+samba	anarchist black metal	4
+samba	letoya	7
+samba	rock gaucho	996
+samba	bossa nova nova	14
+samba	nordeste	143
+samba	grade school playlist	7
+samba	rocksteady	58
+samba	Monsta X	10
+samba	celebration	10
+samba	theme	6
+samba	beach punk	40
+samba	black gospel	9
+samba	d	13
+samba	brasileiro	19
+samba	portugues	12
+samba	dark pop	130
+samba	pop-folk	10
+samba	mierda	40
+samba	lullaby	11
+samba	reggae brasil	45
+samba	throat singing	6
+samba	teen pop	80
+samba	paraiba	12
+samba	algeria	4
+samba	g-dragon	12
+samba	jamaican	67
+samba	Vibraphone	19
+samba	Cantautore	5
+samba	nu disco	34
+samba	summer	5
+samba	industrial jungle pussy punk	16
+samba	from maceio	5
+samba	calvin harris	4
+samba	Ariana Grande	432
+samba	easy english	4
+samba	poet	7
+samba	jonas brothers	89
+samba	fucking adorable	7
+samba	Punk Rock Brasil	9
+samba	under 100 listeners	6
+samba	detroit house	6
+samba	duo	49
+samba	goth rock	14
+samba	Canadian	2314
+samba	a pretty girl can walk anywhere all doors open for her	5
+samba	Chicano Rap	6
+samba	Big Band	94
+samba	texas country	7
+samba	Mixtao Muleque Piranha	4
+samba	stoner metal	139
+samba	Rock Triste	21
+samba	french black metal	7
+samba	female singer	5
+samba	Sertaneja	176
+samba	rock anti-cosmico da morte	75
+samba	Hector Lavoe	6
+samba	african jazz	5
+samba	J-Metal	39
+samba	Neo-Pagan	8
+samba	not available on Last-fm radio yet	5
+samba	new age	336
+samba	best serie ever	8
+samba	East Coast	40
+samba	brazilian folk	5
+samba	Broadway musicals	4
+samba	j-urban	12
+samba	lenine	266
+samba	singer-songwriters	30
+samba	prank	6
+samba	carnaval	110
+samba	east music	6
+samba	los angeles	19
+samba	tunisian	4
+samba	chayanne	5
+samba	hundycore	22
+samba	svenskt	12
+samba	covers	187
+samba	indie emo	4
+samba	Grey's Anatomy	6
+samba	zen	4
+samba	Iggy Azalea	4
+samba	jungle	50
+samba	cantora	19
+samba	snap music	34
+samba	A R Rahman	7
+samba	extreme progressive metal	4
+samba	brasileirorico	7
+samba	harmonica	23
+samba	samba brazil	4
+samba	hair metal	600
+samba	elektro-house	5
+samba	deep	7
+samba	mc smith	4
+samba	detroit techno	8
+samba	Foda demais	5
+samba	electrogivno	4
+samba	Japanese music	27
+samba	switzerland	14
+samba	Bossanova	9
+samba	maite perroni	28
+samba	KATINGUELE	4
+samba	Sonic	4
+samba	brasil instrumental	6
+samba	pee wee	5
+samba	disco funk	6
+samba	fun fun fun fun	5
+samba	Ailee	10
+samba	forest fantasy	4
+samba	Ambient dub	4
+samba	de borest	14
+samba	Jovem Guarda	197
+samba	pop opera	13
+samba	sex	11
+samba	hiphop	61
+samba	male country	30
+samba	UK hip hop	5
+samba	mod	91
+samba	u-kiss	13
+samba	maria cecilia e rodolfo	42
+samba	detroit	87
+samba	massive dubstep	5
+samba	female rapper	23
+samba	american horror story	5
+samba	Virtuoso	18
+samba	groove metal	335
+samba	mexico	108
+samba	Silent Hill	27
+samba	flamenco chill	6
+samba	psychedelic	2163
+samba	samba-reggae	9
+samba	reggae-more	44
+samba	bongo	4
+samba	folklore argentino	6
+samba	nederhop	15
+samba	indie dance	11
+samba	Favourites	4
+samba	ska-punk	50
+samba	hardcore do terceiro mundo	10
+samba	death jazz	4
+samba	future soul	5
+samba	math pop	15
+samba	juan gabriel	4
+samba	p0unk rock	9
+samba	The X Factor	13
+samba	showtunes	22
+samba	vitor e leo	103
+samba	Copo Pro Alto	7
+samba	game soundtrack	18
+samba	brazilian indie	18
+samba	BEto Juara	11
+samba	neo swing	10
+samba	seiyuu	9
+samba	nerdcore	7
+samba	Jessica Simpson	20
+samba	latinos	4
+samba	Musica para el alma	10
+samba	coitado	7
+samba	Ohio	4
+samba	dark folk	71
+samba	rascal flatts	11
+samba	calypso	65
+samba	arabic	53
+samba	straight edge hardcore	8
+samba	progressive death metal	220
+samba	screwed	23
+samba	swedish	1722
+samba	gypsy jazz	40
+samba	Symphonic Black Metal	91
+samba	KAT-TUN	6
+samba	stupid	13
+samba	fania	9
+samba	Discoverockult	13
+samba	sid	7
+samba	Nick Carter	5
+samba	chorinho	38
+samba	shinee	50
+samba	rocky	7
+samba	space disco	15
+samba	rei	53
+samba	rock nacional	141
+samba	french reggae	9
+samba	big beat	104
+samba	chaotic hardcore	20
+samba	movie score	12
+samba	turkish rock	5
+samba	dupla sertaneja sertanejo caipira moda de viola raiz	8
+samba	opera	157
+samba	crossover	186
+samba	Espanol	31
+samba	sadcore	48
+samba	bard	7
+samba	Korean	299
+samba	ed banger	34
+samba	d-beat	25
+samba	asciiecho	7
+samba	Brutal Death Metal	241
+samba	r&b	817
+samba	peace	6
+samba	Technical Thrash Metal	25
+samba	2-step	13
+samba	HSM	11
+samba	DST music	4
+samba	bts	39
+samba	desert rock	65
+samba	classical guitar	210
+samba	Soulful house	6
+samba	early metal	6
+samba	Oriental	11
+samba	doujin ongaku	12
+samba	J-rock	244
+samba	rocaipira	14
+samba	p-funk	48
+samba	fresh	5
+samba	theme songs	6
+samba	ragtime	8
+samba	MPB classica	5
+samba	surf music	23
+samba	problems with tag	6
+samba	darma	5
+samba	classic	300
+samba	São Paulo	62
+samba	dub techno	17
+samba	pagode do nuwance	8
+samba	Crunk Rock	8
+samba	genius	53
+samba	post-pop	7
+samba	happy	40
+samba	skins	14
+samba	africa	40
+samba	japan	21
+samba	brasileira	35
+samba	portuguesa	5
+samba	punk rock	1978
+samba	euphoric	4
+samba	sad	57
+samba	comédia	6
+samba	hippy hop	4
+samba	Linkin Park	6
+samba	drummer	4
+samba	milonga	19
+samba	New York Punk	8
+samba	rap do bom	4
+samba	trance	499
+samba	cash money	6
+samba	symphonic death metal	8
+samba	Lizzy Grant	5
+samba	scandinavian	8
+samba	utaite	7
+samba	dreamwave	9
+samba	it is so fucking best it makes me wanna put cooked cauliflower into my ears and scream pope sucks my dick	12
+samba	jyj	5
+samba	video game music	182
+samba	classic rock	2609
+samba	spanish guitar	8
+samba	one-man band	4
+samba	lounge chill	5
+samba	film	10
+samba	Cumplicidade	4
+samba	double bass	8
+samba	GReeeeN	6
+samba	Progressive House	327
+samba	African soul	7
+samba	COMIGO A FILA ANDA	12
+samba	iceland	8
+samba	synth punk	5
+samba	new rave	499
+samba	jeito moleque	55
+samba	STRICTLY FOR THE UNDERGOUND	10
+samba	mistagged artist	473
+samba	tenor	20
+samba	igreja renascer	5
+samba	hands up	6
+samba	crossfox	4
+samba	feat	6
+samba	symphonic metal	508
+samba	Contemporary Gospel	12
+samba	chill out	28
+samba	Casting Crowns	14
+samba	tru thoughts	8
+samba	fast melodic punk	9
+samba	epic black metal	19
+samba	60s	1927
+samba	pitty	5
+samba	sm town	44
+samba	scientific ambience	5
+samba	reggae latino	4
+samba	heavy dubstep	5
+samba	neo-classical metal	16
+samba	tango	112
+samba	kgrl	12
+samba	fucking genius	21
+samba	league of legends	10
+samba	Bresil	4
+samba	2010s	6
+samba	Estudio Coca-cola	5
+samba	USA	121
+samba	psicodelismo	30
+samba	dazzling	15
+samba	High School Musical	65
+samba	Trailer Music	12
+samba	Rock Latino	20
+samba	Hello Project	7
+samba	anarcho punk	9
+samba	wow	6
+samba	dark jazz	11
+samba	chant	4
+samba	origem desconhecida	20
+samba	Brasilia	4
+samba	Brian McKnight	7
+samba	better than demi lovato	10
+samba	uplifting trance	14
+samba	ana carolina	50
+samba	danni carlos	37
+samba	belo	47
+samba	Punjabi	10
+samba	pop hardcore	4
+samba	banjo	13
+samba	spanish	1121
+samba	Movie Music	4
+samba	classic jazz	6
+samba	Rock Progresivo	4
+samba	drums	52
+samba	movie score composers	19
+samba	beatdown hardcore	11
+samba	eletronica	17
+samba	Liniker	20
+samba	recalcada	4
+samba	psy trance	5
+samba	kizomba	11
+samba	Christian Music	12
+samba	frou frou	4
+samba	xxx	4
+samba	Industrial Techno	4
+samba	lloraras por mi	4
+samba	armorial	4
+samba	Brazilian Jazz	6
+samba	baddest brazilian bitch	5
+samba	playsson	56
+samba	Supergroup	162
+samba	John Peel	4
+samba	isa tkm	5
+samba	bass	196
+samba	gaita	5
+samba	camila	29
+samba	cwb	5
+samba	Irish Punk	4
+samba	brazilian reggae	229
+samba	georgian	4
+samba	angola	8
+samba	beatbox	7
+samba	progressive thrash metal	22
+samba	q	5
+samba	anime dragon ball	7
+samba	yg family	113
+samba	speedcore	14
+samba	adrian smith	5
+samba	Terrorcore	4
+samba	nando	16
+samba	jazz piano	148
+samba	mambo	22
+samba	Romanian	80
+samba	Broadway	191
+samba	spoken word	81
+samba	slamming guttural brutal death metal	4
+samba	Hyde	7
+samba	blaxploitation	5
+samba	Classical	1073
+samba	Electro-Punk	12
+samba	brick squad	13
+samba	modern classical	41
+samba	rap brasileiro	4
+samba	ultimate bias	4
+samba	italian rock	15
+samba	chinese	54
+samba	Lady Gaga	20
+samba	pop reggae	5
+samba	ghettotech	4
+samba	Romantica	97
+samba	crust punk	33
+samba	Swedish Metal	4
+samba	gregorian	15
+samba	rap oriente	97
+samba	kaz	5
+samba	Marcelo Camelo DEUS	271
+samba	G-funk	14
+samba	United Kingdom	14
+samba	Latin Rock	67
+samba	Joe Satriani	10
+samba	perdoa amor	39
+samba	DC	22
+samba	sounds even better when drunk	7
+samba	rock chileno	25
+samba	soul	2593
+samba	Philly	19
+samba	kenya	6
+samba	Italian Opera	14
+samba	Rock Argentino	116
+samba	rio de janeiro	184
+samba	freak folclore	11
+samba	secret	7
+samba	so very british	181
+samba	cine	85
+samba	Scott Stapp	4
+samba	dj caique	7
+samba	Yann Tiersen	5
+samba	ukulele	14
+samba	rnb	2161
+samba	grindcore	273
+samba	Zeuhl	17
+samba	Mittelalter	31
+samba	japanese	668
+samba	cheryl cole	100
+samba	420	38
+samba	legend	831
+samba	Fifth Harmony	203
+samba	peace punk	5
+samba	actress	32
+samba	folk	2826
+samba	Kirk Franklin	4
+samba	ambient black metal	64
+samba	Ballad	33
+samba	rock mexicano	14
+samba	Nova California Seixas	38
+samba	UnBlack Metal	6
+samba	Officially Shit	12
+samba	Chopin	17
+samba	Glam Metal	70
+samba	b2st	19
+samba	vocal trance	125
+samba	apocalipse	4
+samba	synth	83
+samba	New Orleans	86
+samba	new romantic	26
+samba	spain	26
+samba	art rap	6
+samba	folk pop	15
+samba	Mamma mia	15
+samba	JoJo	85
+samba	bebop	234
+samba	Musica Cristiana	4
+samba	Buffy the Vampire Slayer	6
+samba	spooky	8
+samba	apocalyptic folk	33
+samba	Hip Hop RnB	8
+samba	singapore	4
+samba	Suicidal Black Metal	28
+samba	RAC	15
+samba	smooth	115
+samba	Familia Santos	4
+samba	americana	253
+samba	modern jazz	26
+samba	ofwgkta	316
+samba	Latin Rap	11
+samba	Gothic Doom Metal	25
+samba	nickelodeon	461
+samba	Modern worship	8
+samba	world	710
+samba	9th wonder	4
+samba	padre	11
+samba	Eyshila	5
+samba	portuguese	171
+samba	Blackened Death Metal	49
+samba	icelandic	855
+samba	2015	8
+samba	mali	36
+samba	punk covers	12
+samba	playmobille	4
+samba	folclore	7
+samba	girlband	95
+samba	pgd	4
+samba	OS SONHOS DE DEUS	6
+samba	synthesized	5
+samba	merseybeat	4
+samba	two-tone	25
+samba	liquid funk	18
+samba	country duets	6
+samba	icarly	24
+samba	jumpstyle	9
+samba	Asian	32
+samba	trumpet	283
+samba	Omarion	8
+samba	Technical Deathcore	15
+samba	i am too lazy to make tags right	8
+samba	Kitsune	5
+samba	MGK	4
+samba	Female Voices	15
+samba	mangue beat	270
+samba	portuguese rock	7
+samba	forreggae	14
+samba	roots	329
+samba	post-funk carioca	6
+samba	doom death metal	4
+samba	mashups	10
+samba	smooth pop	5
+samba	pancadao	7
+samba	Axe	418
+samba	pop	2971
+samba	funknejo	20
+samba	garage	117
+samba	nando reis	22
+samba	Noisegrind	6
+samba	contemporary reggae	9
+samba	Midwest	4
+samba	how i met your mother	4
+samba	beto guedes	32
+samba	ska punk	236
+samba	ludmila ferber	6
+samba	noise	303
+samba	italiano	18
+samba	mandolate	9
+samba	under 2000 listeners	429
+samba	japanese hip-hop	17
+samba	progressive black metal	26
+samba	cello	67
+samba	Marcelo D2	17
+samba	beautiful	69
+samba	melodica	23
+samba	Rent	39
+samba	motown	313
+samba	children songs	12
+samba	parece castigo	4
+samba	glee project	6
+samba	rai	6
+samba	Pink Floyd	64
+samba	clarinet	33
+samba	hungarian	37
+samba	true scottish pirate metal	25
+samba	Chris Brown	274
+samba	Death Rap	6
+samba	Sleep	4
+samba	touhou	14
+samba	avant garde	5
+samba	girl band	47
+samba	punk	2186
+samba	Rap-Rock	6
+samba	choral	41
+samba	library music	11
+samba	Vanessa Hudgens	65
+samba	urban pop	10
+samba	K-hip hop	7
+samba	Eurovision Song Contest	16
+samba	dub	750
+samba	manaus	5
+samba	akb48	4
+samba	a	4
+samba	power pop	250
+samba	brutal death pagode	4
+samba	Alessandro Safina	4
+samba	quirky	5
+samba	algerian	10
+samba	Carimbo	14
+samba	fun	27
+samba	Spice Girls	17
+samba	Silvio Passos	6
+samba	swedish black metal	18
+samba	infantil- juvenil- brasileira	9
+samba	eurobeat	17
+samba	blues-rock	11
+samba	punk rock argentino	6
+samba	sitar	17
+samba	Blue Note Records	23
+samba	sufi	8
+samba	Avant-garde Metal	66
+samba	Shinhwa	7
+samba	axe moi	9
+samba	space rock	129
+samba	full on	7
+samba	Ukrainian	61
+samba	space	8
+samba	true blood	12
+samba	Jerk	6
+samba	idm	309
+samba	piano rock	248
+samba	music	14
+samba	riot grrrl	127
+samba	Rock In Opposition	6
+samba	BAKING SODA	7
+samba	dirty house	4
+samba	modern country	139
+samba	60's	5
+samba	barturismooth	4
+samba	oldschool hardcore	11
+samba	ethnic	49
+samba	minimal techno	73
+samba	breakbeat	63
+samba	Brasilian	47
+samba	A Pink	5
+samba	Exaltasamba	206
+samba	cambodian	9
+samba	netherlands	19
+samba	doomcore	4
+samba	experimental rap	74
+samba	Brazilian popular music	4
+samba	noise pop	181
+samba	Preferidas	4
+samba	electro-industrial	12
+samba	big sean	45
+samba	funk	2347
+samba	horrorbilly	6
+samba	aria sertanica	4
+samba	Revelation Song	5
+samba	drone rock	4
+samba	cumbia	65
+samba	beat	9
+samba	Easycore	13
+samba	trancecore	87
+samba	relaxing	32
+samba	goregrind	56
+samba	SNSD	27
+samba	belly dance	9
+samba	dark wave	6
+samba	swiss	33
+samba	David Garrett	5
+samba	Tibetan	4
+samba	twinkly	4
+samba	edson cordeiro	4
+samba	bucetacore	39
+samba	prediletos	4
+samba	icelandic metal	28
+samba	Abril	53
+samba	J-music	4
+samba	cyberpunk	12
+samba	kantele	5
+samba	shalom	5
+samba	glam	278
+samba	sampa	5
+samba	lady antebellum	84
+samba	dueto	7
+samba	the sing off	31
+samba	español	15
+samba	Kirtan	5
+samba	baroque funk	20
+samba	future funk	7
+samba	lost	12
+samba	finnish metal	13
+samba	belgian	172
+samba	ex-yu	5
+samba	fiorino	7
+samba	Deutschrock	20
+samba	hardcore	1810
+samba	Tudo maravilhoso	5
+samba	T-ara	20
+samba	HotHotMails	5
+samba	blacker than the blackest black times infinity	11
+samba	italian	505
+samba	Psychedelia	51
+samba	ecco jamz	6
+samba	esteban	186
+samba	Harsh EBM	13
+samba	ethno-jazz	6
+samba	reggae	1718
+samba	sleaze	28
+samba	AOR	57
+samba	musica popular brasileira	21
+samba	SORRISO MAROTO	115
+samba	Japanese City Pop	5
+samba	ACDC	23
+samba	joe	5
+samba	Traditional Doom Metal	44
+samba	Scratch Music	9
+samba	keyboard virtuoso	4
+samba	Mellow	549
+samba	Melodic Power Metal	9
+samba	finland	9
+samba	Sacra	15
+samba	symphonic deathcore	4
+samba	LDS	4
+samba	Sao Paulo	54
+samba	celta	4
+samba	antifolk	32
+samba	musicas gratis	24
+samba	french hip-hop	9
+samba	Dipset	5
+samba	london	6
+samba	Rock Escroto	17
+samba	casi angeles	9
+samba	violon	6
+samba	brazilian emo	7
+samba	Whiplash	4
+samba	Electro Pop	78
+samba	synth pop	625
+samba	modern composition	5
+samba	blues rock	1128
+samba	anna kendrick	7
+samba	Samba-Rock	24
+samba	8bitpeoples	8
+samba	Rock rural	18
+samba	bagacera	4
+samba	Hardtrance	5
+samba	Ambient Techno	8
+samba	J-jazz	5
+samba	Favorite	6
+samba	Britrock	6
+samba	piano trio	19
+samba	meditative	15
+samba	beats	50
+samba	african	123
+samba	greys anatomy	7
+samba	Ana Johnsson	4
+samba	lovers rock	15
+samba	jazz vibraphone	4
+samba	guys i would sleep with	13
+samba	Ivete Sangalo	15
+samba	AC/DC	24
+samba	Henrique e Diego	21
+samba	70's	11
+samba	natalgaze	17
+samba	rock brasileiro	731
+samba	mississippi	10
+samba	brainfeeder	4
+samba	nature sounds	6
+samba	austrian	42
+samba	pagan rock	5
+samba	nordic folk	7
+samba	tim berg	4
+samba	kill rock stars	8
+samba	karol	11
+samba	minecraft	4
+samba	electrotango	26
+samba	funky house	31
+samba	childhood	7
+samba	alternative rock	2899
+samba	west coast	400
+samba	praia	49
+samba	sergio reis	8
+samba	polish rock	29
+samba	noisic	9
+samba	Austin Mahone	29
+samba	Kompakt	23
+samba	Disco	946
+samba	macumba metal	11
+samba	electrobrega	288
+samba	electric blues	20
+samba	prog	28
+samba	post rock	199
+samba	UKHC	19
+samba	cello rock	10
+samba	hot	47
+samba	Colombia	55
+samba	exotica	27
+samba	trap rap	25
+samba	Jazz Hop	159
+samba	rapcore	304
+samba	lounge-tech	11
+samba	melodic trance	11
+samba	Eu batendo com meu pau num xilofone seria melhor	45
+samba	Zico	4
+samba	doom jazz	14
+samba	finnish punk	4
+samba	close harmony	4
+samba	American Idol	393
+samba	skatedrink	5
+samba	classics	6
+samba	girlie	50
+samba	Natiruts	297
+samba	sweet pussy	5
+samba	evangelica	25
+samba	Kleiton e Kledir	5
+samba	baile funk	277

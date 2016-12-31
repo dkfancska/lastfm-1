@@ -1,0 +1,384 @@
+0.0801407871405
+yg family	@	177515
+girlband	@	170590
+big bang	@	122585
+shinee	@	106894
+C-pop	@	102396
+Super junior	@	92443
+Asian	@	89286
+sm town	@	87516
+girl group	@	84189
+Ballad	@	81875
+4minute	@	76898
+SNSD	@	69654
+sm entertainment	@	68061
+k-rock	@	67485
+bts	@	67223
+exo	@	65877
+Wonder Girls	@	61432
+DBSK	@	61367
+cube entertainment	@	58964
+exo-k	@	56976
+b2st	@	56798
+2pm	@	55013
+sistar	@	53734
+infinite	@	51126
+block b	@	49640
+YG	@	48902
+Dong Bang Shin Ki	@	47690
+T-ara	@	47088
+2NE1	@	44603
+taiwan	@	43561
+cpop	@	41382
+u-kiss	@	39174
+Johnnys entertainment	@	37833
+TVXQ	@	37469
+vixx	@	36972
+why so gorgeous	@	34949
+after school	@	34364
+iu	@	30731
+k-hiphop	@	30136
+Ailee	@	28236
+g-dragon	@	27279
+BTOB	@	25953
+ss501	@	25453
+A Pink	@	24860
+jyp	@	24043
+FT Island	@	23753
+jyj	@	23568
+Jay Park	@	23019
+akb48	@	22300
+Monsta X	@	22106
+seungri	@	20310
+taemin	@	20286
+twice	@	20016
+K-RAP	@	19441
+Brown Eyed Girls	@	19259
+rain	@	19056
+secret	@	18974
+Korean Hip-Hop	@	18886
+seventeen	@	18431
+hyuna	@	18307
+Tiffany	@	17575
+Arashi	@	15909
+KAT-TUN	@	15638
+Rania	@	15283
+Korea	@	14766
+K-hip hop	@	14512
+Shinhwa	@	14174
+korean indie	@	14064
+2016	@	13739
+junsu	@	13514
+Se7en	@	13429
+Topp Dogg	@	12959
+amber	@	12382
+2am	@	12072
+<3	@	12035
+stellar	@	11812
+Zico	@	11381
+kara	@	11005
+1	@	10915
+Jaejoong	@	10901
+avex	@	10758
+super junior-m	@	10707
+Morning musume	@	10582
+jyp nation	@	10254
+Epik High	@	10048
+aaa	@	10043
+donghae	@	9701
+Ikon	@	9428
+kim sung kyu	@	9137
+sm	@	9099
+myname	@	8630
+EunHae	@	8308
+yamapi	@	8234
+Korean Pop	@	7884
+SPICA	@	7791
+taeyang	@	7600
+WJSN	@	7549
+uniq	@	7451
+bias	@	7239
+ultimate bias	@	6914
+dalmatian	@	6850
+korean rock	@	6758
+khiphop	@	6541
+Jiggy	@	6445
+beast	@	6369
+History	@	6191
+cnblue	@	6182
+Girls Generation	@	6010
+evol	@	5831
+dongwoo	@	5708
+k-music	@	5703
+k-indie	@	5653
+park bom	@	5522
+red velvet	@	5463
+asian music	@	5325
+speed	@	5199
+boy group	@	5130
+C-CLOWN	@	5112
+lim kim	@	4988
+f(x)	@	4902
+MBLAQ	@	4874
+Trot	@	4768
+kanjani8	@	4692
+bap	@	4612
+idol group	@	4609
+JYP entertainment	@	4583
+Bastarz	@	4525
+girls day	@	4426
+thai pop	@	4266
+gd	@	4107
+miss a	@	3997
+boyfriend	@	3992
+TegoMass	@	3973
+pretty cool	@	3968
+Chocolat	@	3968
+aoa	@	3614
+ravi	@	3571
+please let me lick you	@	3553
+UP10TION	@	3526
+seohyun	@	3464
+zhoumi	@	3350
+a n jell	@	3336
+SMTOWN	@	3271
+jung yong hwa	@	3257
+a-jax	@	3257
+sexy voice	@	3120
+knk	@	3063
+bangtan	@	3061
+4Men	@	3044
+Fahrenheit	@	3005
+w-inds	@	2953
+d-na	@	2891
+Bora	@	2829
+Kis-My-Ft2	@	2817
+LEDApple	@	2780
+CN Blue	@	2745
+Wooyong	@	2732
+Mad Clown	@	2726
+sistar19	@	2710
+chen	@	2681
+junhyung	@	2660
+Orange Caramel	@	2651
+davichi	@	2638
+t-pop	@	2582
+bom	@	2498
+asian-american	@	2470
+no	@	2456
+Chinese Music	@	2385
+cl	@	2299
+Jessica	@	2294
+miryo	@	2220
+south korea	@	2209
+Korean rap	@	2208
+Han Geng	@	2207
+T-Max	@	2168
+Minzy	@	2099
+5dolls	@	2091
+mandopop	@	2085
+supreme team	@	2047
+jonghyun	@	2044
+winner	@	2013
+24k	@	1986
+KOREAN HIPHOP	@	1961
+korean music	@	1920
+teen top	@	1903
+Hello! Project	@	1898
+fahrenheit fei lun hai taiwan	@	1864
+Tasty	@	1839
+Park Jung Min	@	1832
+BoA	@	1767
+eunhyuk	@	1758
+YeSung	@	1656
+ninomiya kazunari	@	1626
+mistake	@	1569
+SORI	@	1530
+japanese teen pop	@	1488
+mino	@	1485
+thai-pop	@	1467
+aa	@	1463
+top	@	1428
+japanese boybands	@	1418
+underground korean hip hop	@	1393
+ali	@	1386
+Perfection	@	1383
+eric nam	@	1369
+Tohoshinki	@	1365
+ohno satoshi	@	1344
+matsumoto jun	@	1344
+fandom	@	1335
+superstar k	@	1326
+Produce 101	@	1309
+big hit	@	1307
+BY2	@	1304
+k-pop star	@	1298
+lovelyz	@	1293
+Song Minho	@	1272
+Supernova	@	1267
+verbal jint	@	1236
+key	@	1229
+ONEW	@	1178
+trouble maker	@	1171
+khh	@	1161
+johnny's	@	1149
+roh ji hoon	@	1148
+sakurai sho	@	1141
+Rainbow	@	1141
+k-rnb	@	1129
+lips	@	1120
+chanyeol	@	1097
+april	@	1090
+zelo	@	1078
+a-pink	@	1058
+Fly to the Sky	@	1058
+pastel music	@	1021
+Korean Hip Hop	@	1010
+J-R&B	@	1006
+MC mong	@	995
+Love love Miss A	@	964
+boys republic	@	949
+heechul	@	939
+9	@	925
+MISSA	@	919
+this is my moment	@	891
+fx	@	889
+bigstar	@	871
+exo-m	@	869
+hello venus	@	857
+so incredibly sexy	@	823
+lee min ho	@	823
+ToppDogg	@	805
+oh my girl	@	795
+2016 debuts	@	762
+khip-hop	@	742
+Crucial Star	@	732
+super junior m	@	718
+better than 2ne1	@	709
+aiba masaki	@	695
+k hip hop	@	683
+Best Absolute Perfect	@	683
+B.A.P	@	683
+chemi	@	677
+luhan	@	665
+lu han	@	665
+ID3	@	656
+woohyun	@	646
+plagiarism	@	638
+zhou mi sj-m	@	633
+zhou mi	@	633
+Ye Eun	@	612
+double a	@	610
+2hyun	@	609
+lee sungmin	@	602
+nine muses	@	596
+Best group EVER	@	595
+handsome	@	576
+toheart	@	567
+stuff I should be able to inject directly into my blood	@	546
+motherfuckin rabbits ejaculating sunshine	@	546
+Pentagon	@	539
+later	@	519
+crayon pop	@	517
+Mighty Mouth	@	508
+super junior DnE	@	494
+DNE	@	494
+golf-mike	@	476
+gi	@	474
+asian groups	@	474
+B2M Entertainment	@	468
+Block B Block B	@	452
+ZE:A	@	443
+Brave Girls	@	440
+rip TUPAC	@	438
+di	@	438
+arang and magistrat	@	426
+jb	@	422
+xia	@	421
+Sandara	@	417
+raina	@	412
+jongdae	@	410
+girlgroup	@	409
+Exid	@	404
+EXILE	@	402
+fcuz	@	393
+Gray	@	391
+their voices are really good	@	381
+John Park	@	367
+B1A4	@	366
+3w	@	359
+1M	@	359
+Leo	@	351
+Kinki Kids	@	340
+k-ballad	@	327
+Kim Bo Kyung	@	324
+dalshabet	@	313
+seo in guk	@	311
+eunji	@	311
+beenzino	@	308
+alex	@	307
+rapes my ears	@	300
+hip-hhop	@	300
+giriboy	@	300
+Irish Hip Hop	@	300
+Jr	@	297
+Nam	@	294
+fuck me	@	287
+jimin	@	284
+ha:tfelt	@	280
+gary	@	274
+LeeSSang	@	274
+i.o.i	@	270
+angerme	@	265
+The Grace	@	262
+FTISlAND	@	262
+hyolyn	@	261
+Lolo	@	261
+korean female vocal	@	255
+fiestar	@	252
+kamen rider kiva	@	246
+방탄소년단	@	227
+방타소년단	@	227
+b2y	@	227
+Kim Soo Hyun	@	213
+Asian Indie	@	213
+ajoo	@	207
+unicorn	@	202
+cube	@	199
+hep hap	@	193
+Kyung	@	193
+Kiss and cry	@	192
+lyn	@	188
+baechigi	@	188
+wondergirls	@	185
+awoo	@	185
+Togeworl	@	185
+Lim Lim	@	185
+k-urban	@	183
+K Will	@	181
+nice girl project	@	179
+royal pirates	@	175
+korean drama ost	@	152
+vixx lr	@	140
+seven	@	140
+THSK	@	140
+B-pop	@	140
+sr15b	@	132
+D-Unit	@	132
+clap	@	124
+unpretty rapstar	@	112
+k-underground	@	108
+apple girl	@	100
+Kim Jung Hoon	@	96
+John Hoon	@	96
+tts	@	88
+TaeTiSeo	@	88
+Cosmic Girls	@	88
+kobushi factory	@	84
+fantagio	@	84
+Up-front Group	@	84
+Japanese boyband	@	80
+kongju	@	76
+apink	@	76
+aibon	@	72
+audition nice song	@	52

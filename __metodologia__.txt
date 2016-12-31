@@ -1,0 +1,23 @@
+
+A) Coleta de Seeds ( usuários )
+	1) Lista com principais tags obtidas
+	2) Selecionar a banda em destaque no last.fm para cada tag
+	3) Selecionar o usuário que mais ouve a banda
+
+	Motivação: Iniciar a amostragem com indivíduos das mais diversas tribos
+
+B) Coleta das tags
+	1) De cada usuário são selecionadas as 100 bandas mas ouvidas por ele
+	2) De cada uma das bandas são selecionadas as 5 tags mais atribuidas a essa banda
+
+C) Montagem do Subgrafo
+	1) Com a lista de tags é construido um grafo completo
+
+D) Adição do subgrafo ao grafo principal
+	1) Cada vértice e aresta do grafo principal tem seu contador incrementado caso se encontrem no subgrafo
+	2) Os vértices/arestas que estão no subgrafo mas não se encontram no grafo principal são inseridos com contador 1
+
+
+
+Testes em Comunidades
+

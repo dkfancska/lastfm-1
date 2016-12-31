@@ -1,0 +1,7 @@
+
+1) Validar nosso grafo com os próprios dados do Last.fm, exemplo:
+Ao procurar por Axé no Last.fm ele retorna: "Related to: brazilian; brasil; carnaval; ivete sangalo; pop; mpb"
+Então comparamos as ligações da nossa rede com as ligações do Last.fm
+
+2) Contar quantas tags um usuário adiciona no grafo principal ( ter a média de ecletismo [ ou qual o usuário com menos diversidade e qual com mais] )
+

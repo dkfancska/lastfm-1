@@ -1,0 +1,1226 @@
+r'n'b	dark ambient	14
+r'n'b	abstract hip-hop	15
+r'n'b	alt rock	4
+r'n'b	Aussie	80
+r'n'b	urban	198
+r'n'b	pretty little liars	4
+r'n'b	kolhoz rnb	9
+r'n'b	modern hardcore	4
+r'n'b	video game music	20
+r'n'b	thrash	4
+r'n'b	parody	13
+r'n'b	nouvelle scene francaise	6
+r'n'b	Britney Spears	339
+r'n'b	psy	21
+r'n'b	japanese	91
+r'n'b	quiet storm	11
+r'n'b	denmark	16
+r'n'b	japan	6
+r'n'b	symphonic	4
+r'n'b	Grey's Anatomy	6
+r'n'b	orchestral	11
+r'n'b	the sing off	17
+r'n'b	shit	12
+r'n'b	deutsch	29
+r'n'b	portland	4
+r'n'b	Modern World Soul Music	4
+r'n'b	español	7
+r'n'b	katharine mcphee	19
+r'n'b	bollywood	4
+r'n'b	8bit	6
+r'n'b	italian prog	5
+r'n'b	Country-Pop	11
+r'n'b	electronic rock	5
+r'n'b	club	297
+r'n'b	New Zealand	207
+r'n'b	songwriter	16
+r'n'b	United States	7
+r'n'b	Female fronted metal	62
+r'n'b	RBD	44
+r'n'b	jack white	6
+r'n'b	fantasia	20
+r'n'b	lol	5
+r'n'b	Russian Pop	51
+r'n'b	industrial metal	60
+r'n'b	experimental hip-hop	8
+r'n'b	humour	12
+r'n'b	Russian rnb	34
+r'n'b	german rap	4
+r'n'b	backstreet boys	47
+r'n'b	true rnb	7
+r'n'b	Crust	4
+r'n'b	elvis metal	4
+r'n'b	basura	8
+r'n'b	dark cabaret	5
+r'n'b	Technical Death Metal	9
+r'n'b	jorge e mateus	22
+r'n'b	female fronted sertanejo	12
+r'n'b	Psychedelic Rock	84
+r'n'b	melodic hardcore	38
+r'n'b	lost	4
+r'n'b	francophone	7
+r'n'b	indie folk	103
+r'n'b	underground hip-hop	194
+r'n'b	uk Hardcore	5
+r'n'b	christian	130
+r'n'b	Bitch House	9
+r'n'b	sad	13
+r'n'b	Surf	11
+r'n'b	lord of the rings	11
+r'n'b	brutal deathcore	4
+r'n'b	Musical theatre	11
+r'n'b	emotional	4
+r'n'b	score	36
+r'n'b	Demi Lovato	8
+r'n'b	countrycore	5
+r'n'b	Drake	6
+r'n'b	50 Cent	22
+r'n'b	Christian Music	4
+r'n'b	Mamma mia	6
+r'n'b	breakcore	84
+r'n'b	Moldovan	11
+r'n'b	music to listen while pederasting	21
+r'n'b	delta blues	6
+r'n'b	Liquid	4
+r'n'b	rock chileno	6
+r'n'b	underrated	4
+r'n'b	soul  female vocalists	9
+r'n'b	Eminem	144
+r'n'b	emo	330
+r'n'b	Funk Rock	86
+r'n'b	wu-tang	7
+r'n'b	german	182
+r'n'b	Iranian	5
+r'n'b	Greek Pop	4
+r'n'b	nordeste	12
+r'n'b	roots reggae	31
+r'n'b	mahomies	18
+r'n'b	Progressive rock	221
+r'n'b	proto-punk	10
+r'n'b	hardstyle	6
+r'n'b	Pop-Rock	71
+r'n'b	Monsta X	5
+r'n'b	ska	155
+r'n'b	hiphop	18
+r'n'b	trip hop	31
+r'n'b	instrumental hip-hop	43
+r'n'b	jamaica	10
+r'n'b	taiwanese	5
+r'n'b	dance-pop	11
+r'n'b	ragga	25
+r'n'b	cabaret	13
+r'n'b	stoner	6
+r'n'b	Berlin	8
+r'n'b	I WANT HER ASS	4
+r'n'b	dark pop	109
+r'n'b	pop-folk	10
+r'n'b	mierda	12
+r'n'b	nu jazz	17
+r'n'b	Crunk	169
+r'n'b	teen pop	53
+r'n'b	VAGINA	4
+r'n'b	pop	580
+r'n'b	Schlager	18
+r'n'b	croatian	11
+r'n'b	male vocalist	14
+r'n'b	singer-songwriters	14
+r'n'b	jamaican	12
+r'n'b	ESC	5
+r'n'b	boybands	108
+r'n'b	poezja śpiewana	7
+r'n'b	french	307
+r'n'b	instrumental rock	4
+r'n'b	musical	211
+r'n'b	Discoveries	5
+r'n'b	nu disco	9
+r'n'b	NWOBHM	19
+r'n'b	Hardbass	4
+r'n'b	Singer/Songwriter	24
+r'n'b	medieval	16
+r'n'b	diva	78
+r'n'b	Ariana Grande	233
+r'n'b	musica de gente apaixonada	9
+r'n'b	chillwave	69
+r'n'b	drag queen	33
+r'n'b	melodic black metal	4
+r'n'b	jonas brothers	60
+r'n'b	West Coast Rap	32
+r'n'b	kristinia debarge	9
+r'n'b	Suomi	4
+r'n'b	atmospheric black metal	6
+r'n'b	Norway	20
+r'n'b	justin bieber	165
+r'n'b	balkan	19
+r'n'b	Acoustic Rock	87
+r'n'b	england	5
+r'n'b	sludge metal	4
+r'n'b	Lil Wayne	16
+r'n'b	FT Island	6
+r'n'b	duo	8
+r'n'b	contemporary country	24
+r'n'b	post-grunge	107
+r'n'b	Canadian	536
+r'n'b	young money	20
+r'n'b	twee	9
+r'n'b	Albanian	4
+r'n'b	Anjunabeats	4
+r'n'b	ska-punk	4
+r'n'b	evangelico	5
+r'n'b	texas country	6
+r'n'b	stoner metal	9
+r'n'b	rock-n-roll	4
+r'n'b	drew seeley	4
+r'n'b	d12	6
+r'n'b	Freddie Jackson	4
+r'n'b	Sertaneja	10
+r'n'b	dubstep	311
+r'n'b	Mam talent	5
+r'n'b	2009	5
+r'n'b	vercillo	4
+r'n'b	gospel	65
+r'n'b	Dark metal	4
+r'n'b	Polski Hip Hop	20
+r'n'b	the vamps	8
+r'n'b	tarkan	8
+r'n'b	guitar virtuoso	6
+r'n'b	rock francais	6
+r'n'b	mandarin	5
+r'n'b	amazing	19
+r'n'b	progressive trance	39
+r'n'b	new age	70
+r'n'b	malaysian	9
+r'n'b	Chicago Blues	5
+r'n'b	unknown	62
+r'n'b	East Coast	13
+r'n'b	pop rock	522
+r'n'b	j-urban	5
+r'n'b	Victor e Leo	5
+r'n'b	cloud rnb	9
+r'n'b	Selena Gomez	236
+r'n'b	chanson francaise	58
+r'n'b	italian pop	43
+r'n'b	lusofonia	6
+r'n'b	alternative hip-hop	10
+r'n'b	puro nardo	5
+r'n'b	italian rock	4
+r'n'b	fernanda brum	5
+r'n'b	AOR	9
+r'n'b	polish	92
+r'n'b	Ayumi Hamasaki	7
+r'n'b	hyuna	6
+r'n'b	Belgium	4
+r'n'b	neofolk	11
+r'n'b	covers	74
+r'n'b	lloyd	5
+r'n'b	noise	28
+r'n'b	danish	161
+r'n'b	exo	14
+r'n'b	great voice	18
+r'n'b	jungle	24
+r'n'b	newbreed	5
+r'n'b	chilean	5
+r'n'b	Blake Shelton	7
+r'n'b	snap music	5
+r'n'b	live	7
+r'n'b	nashville cast	6
+r'n'b	Jam	5
+r'n'b	cybercore	5
+r'n'b	rock gaucho	9
+r'n'b	House	456
+r'n'b	eurodance	63
+r'n'b	balada sertajera	10
+r'n'b	Sertanejo Universitario	43
+r'n'b	french rap	6
+r'n'b	free jazz	6
+r'n'b	new romantic	11
+r'n'b	rain	4
+r'n'b	a capella	7
+r'n'b	beatboxing	4
+r'n'b	deep	4
+r'n'b	industrial	112
+r'n'b	guatemala	4
+r'n'b	Holly Brook	27
+r'n'b	ukranian	4
+r'n'b	vocal house	14
+r'n'b	turntablism	13
+r'n'b	Hip-Hop	573
+r'n'b	Japanese music	5
+r'n'b	Southern Rock	36
+r'n'b	switzerland	4
+r'n'b	Russia	14
+r'n'b	pop espanol	21
+r'n'b	maite perroni	4
+r'n'b	tech-house	10
+r'n'b	ambient pop	4
+r'n'b	nu-disco	8
+r'n'b	glee	175
+r'n'b	Rock 'n' Roll	5
+r'n'b	u-kiss	10
+r'n'b	drone	20
+r'n'b	britpop	459
+r'n'b	California	49
+r'n'b	seiyuu	4
+r'n'b	country pop	61
+r'n'b	Korean Hip-Hop	6
+r'n'b	raggamuffin	10
+r'n'b	gossip girl	15
+r'n'b	soft rock	64
+r'n'b	block b	7
+r'n'b	sm entertainment	13
+r'n'b	Sweden	34
+r'n'b	goth	7
+r'n'b	chimarruts	9
+r'n'b	Drum and bass	116
+r'n'b	party	7
+r'n'b	funky	64
+r'n'b	brit pop	12
+r'n'b	Korean	100
+r'n'b	detroit	15
+r'n'b	massive dubstep	6
+r'n'b	female vocals	19
+r'n'b	post-rock	103
+r'n'b	Kpop	53
+r'n'b	jessica sanchez	8
+r'n'b	cool	4
+r'n'b	groove metal	17
+r'n'b	Wonder Girls	7
+r'n'b	mexico	20
+r'n'b	Deutschrock	5
+r'n'b	Ailee	9
+r'n'b	psychedelic	194
+r'n'b	metal	279
+r'n'b	chillstep	11
+r'n'b	sufoco	18
+r'n'b	ronan keating	11
+r'n'b	memphis rap	5
+r'n'b	latin pop	189
+r'n'b	sistar	11
+r'n'b	nederhop	6
+r'n'b	gucci mane	7
+r'n'b	singer	12
+r'n'b	Jason Derulo	84
+r'n'b	Tiziano Ferro	14
+r'n'b	singer-songwriter	563
+r'n'b	DBSK	10
+r'n'b	tango	9
+r'n'b	prog-rnb	112
+r'n'b	french pop	30
+r'n'b	ss501	6
+r'n'b	new wave	250
+r'n'b	Jazz Rock	4
+r'n'b	Star Wars	17
+r'n'b	dark folk	4
+r'n'b	soprano	7
+r'n'b	Funk Carioca	16
+r'n'b	breaks	5
+r'n'b	chamber pop	39
+r'n'b	ambient	231
+r'n'b	showtunes	6
+r'n'b	vitor e leo	5
+r'n'b	worship	19
+r'n'b	based	10
+r'n'b	funk melody	5
+r'n'b	male country	14
+r'n'b	anal-driven fecalomatateus	22
+r'n'b	girl band	72
+r'n'b	North Carolina	20
+r'n'b	Jessica Simpson	12
+r'n'b	Glukoza	4
+r'n'b	Nacional	5
+r'n'b	3 Doors Down	40
+r'n'b	Greek	27
+r'n'b	rascal flatts	8
+r'n'b	future	4
+r'n'b	calypso	7
+r'n'b	arabic	14
+r'n'b	actress	10
+r'n'b	disco polo	5
+r'n'b	Glam Metal	4
+r'n'b	dildocore	6
+r'n'b	rap	549
+r'n'b	bebop	9
+r'n'b	across the universe	4
+r'n'b	lithuanian	7
+r'n'b	post-kircore	9
+r'n'b	funny	44
+r'n'b	Hypnagogic Glo-Fi Pop	15
+r'n'b	Game Music	5
+r'n'b	psytrance	15
+r'n'b	movie soundtrack	4
+r'n'b	synthesized	4
+r'n'b	summer memories	4
+r'n'b	anime	29
+r'n'b	Discoverockult	12
+r'n'b	00s	40
+r'n'b	collab	13
+r'n'b	Cody Simpson	7
+r'n'b	Helene Fischer	5
+r'n'b	exo-k	11
+r'n'b	the worst thing ever to happen to music	8
+r'n'b	k-hiphop	6
+r'n'b	speed metal	21
+r'n'b	poland	11
+r'n'b	Latin Rock	11
+r'n'b	C-CLOWN	6
+r'n'b	belarussian	9
+r'n'b	big beat	22
+r'n'b	movie score	5
+r'n'b	turkish rock	9
+r'n'b	Go-Go	11
+r'n'b	post-punk	189
+r'n'b	freak folk	14
+r'n'b	modern rock	9
+r'n'b	opera	41
+r'n'b	crossover	14
+r'n'b	jerkin	4
+r'n'b	Espanol	14
+r'n'b	afrikaans	41
+r'n'b	pusha t	4
+r'n'b	bard	5
+r'n'b	adult contemporary	6
+r'n'b	seattle	13
+r'n'b	ed banger	10
+r'n'b	italian progressive rock	6
+r'n'b	joe jonas	13
+r'n'b	krautrock	6
+r'n'b	male vocalists	494
+r'n'b	alternative	575
+r'n'b	lounge	63
+r'n'b	O-Zone	8
+r'n'b	big sean	17
+r'n'b	ninja tune	38
+r'n'b	Disney	360
+r'n'b	drag queens	34
+r'n'b	Scottish	72
+r'n'b	australian	401
+r'n'b	bts	11
+r'n'b	BPitch Control	4
+r'n'b	Natalia Kills	7
+r'n'b	Lebanon	4
+r'n'b	Sacra	4
+r'n'b	venezuela	8
+r'n'b	hard rock	286
+r'n'b	k-pop	105
+r'n'b	lucas silveira	4
+r'n'b	Oriental	6
+r'n'b	J-rock	35
+r'n'b	Ne-Yo	61
+r'n'b	seungri	4
+r'n'b	cpop	6
+r'n'b	sm town	14
+r'n'b	Objetivo Fama	4
+r'n'b	Jovem Guarda	4
+r'n'b	female rapper	21
+r'n'b	TVXQ	10
+r'n'b	beats	17
+r'n'b	pagan metal	5
+r'n'b	Danger Mouse	4
+r'n'b	synth	34
+r'n'b	classic	37
+r'n'b	soul	572
+r'n'b	barbadian	8
+r'n'b	future garage	87
+r'n'b	podcast	8
+r'n'b	wonky	12
+r'n'b	dutch	62
+r'n'b	genius	11
+r'n'b	post-pop	5
+r'n'b	Français	4
+r'n'b	Fierce	15
+r'n'b	vocaloid	5
+r'n'b	africa	6
+r'n'b	south african	6
+r'n'b	techno	354
+r'n'b	political	27
+r'n'b	ashley tisdale	50
+r'n'b	russian	156
+r'n'b	UK Garage	105
+r'n'b	boyband	176
+r'n'b	viking metal	8
+r'n'b	punk rock	221
+r'n'b	creative commons	8
+r'n'b	tv	6
+r'n'b	90s	333
+r'n'b	blues	293
+r'n'b	trap	65
+r'n'b	Jorge Vercillo	4
+r'n'b	A Pink	4
+r'n'b	underground	20
+r'n'b	rio de janeiro	4
+r'n'b	game	8
+r'n'b	glampop	12
+r'n'b	hip hop	526
+r'n'b	Emily Osment	15
+r'n'b	good music	19
+r'n'b	slow jams	253
+r'n'b	Ashlee Simpson	18
+r'n'b	chiddy bang	4
+r'n'b	brutal apocalyptic black gothic doom metal	10
+r'n'b	Bossa Nova	86
+r'n'b	guilty pleasure	313
+r'n'b	Europop	22
+r'n'b	iceland	4
+r'n'b	mexican	39
+r'n'b	downtempo	380
+r'n'b	compton	10
+r'n'b	brazilian gospel	5
+r'n'b	trance	220
+r'n'b	british	563
+r'n'b	acid jazz	33
+r'n'b	G-funk	5
+r'n'b	scandinavian	5
+r'n'b	dnb	56
+r'n'b	drag music	6
+r'n'b	psychobilly	90
+r'n'b	mashup	20
+r'n'b	heavy metal	125
+r'n'b	YG	9
+r'n'b	Und morgen frueh kuess ich Dich wach	5
+r'n'b	futuristic	18
+r'n'b	latin jazz	9
+r'n'b	Sludge	12
+r'n'b	classic rock	324
+r'n'b	ukrainian pop	10
+r'n'b	estonian	58
+r'n'b	pop punk	328
+r'n'b	Dong Bang Shin Ki	8
+r'n'b	dark	5
+r'n'b	techstep	5
+r'n'b	Christian Rap	5
+r'n'b	Progressive House	145
+r'n'b	maroon 5	14
+r'n'b	mpb	166
+r'n'b	r n b	5
+r'n'b	Electro Pop	26
+r'n'b	spanish pop	20
+r'n'b	Horrorcore	12
+r'n'b	queer	37
+r'n'b	brazil	117
+r'n'b	post-hardcore	86
+r'n'b	romantic	66
+r'n'b	Blue-Eyed Soul	46
+r'n'b	new rave	85
+r'n'b	abstract	5
+r'n'b	beyonce	5
+r'n'b	Hard Trance	5
+r'n'b	rhythm'n'blues	5
+r'n'b	one direction	142
+r'n'b	hands up	5
+r'n'b	Se7en	5
+r'n'b	govno	5
+r'n'b	spoken word	9
+r'n'b	electronica	418
+r'n'b	SNSD	5
+r'n'b	cantautori	4
+r'n'b	French jazz	15
+r'n'b	symphonic metal	66
+r'n'b	Vanessa Hudgens	16
+r'n'b	seen live	571
+r'n'b	retro pop	8
+r'n'b	singer songwriter	9
+r'n'b	melodic metal	17
+r'n'b	adam levine	9
+r'n'b	Ekb	5
+r'n'b	chillout	424
+r'n'b	letoya	10
+r'n'b	60s	148
+r'n'b	japanese rock	5
+r'n'b	female vocalist	522
+r'n'b	espirito santo	5
+r'n'b	composers	61
+r'n'b	4ad	4
+r'n'b	bluegrass	21
+r'n'b	powerpop	111
+r'n'b	camp rock	7
+r'n'b	UK hip-hop	12
+r'n'b	infantil	7
+r'n'b	melodic	8
+r'n'b	EDM	24
+r'n'b	epic	13
+r'n'b	Alt-country	48
+r'n'b	post hardcore	7
+r'n'b	jazz-hop	12
+r'n'b	florida	4
+r'n'b	mash up	4
+r'n'b	shitty anal gaycore	10
+r'n'b	KAT-TUN	4
+r'n'b	High School Musical	10
+r'n'b	bass	39
+r'n'b	raop	8
+r'n'b	Trailer Music	9
+r'n'b	folk punk	11
+r'n'b	Nintendocore	17
+r'n'b	Pop Metal	6
+r'n'b	polish reggae	13
+r'n'b	emocore	77
+r'n'b	Adventista	6
+r'n'b	boringsounds	4
+r'n'b	Deutsche Schlager	5
+r'n'b	Johnnys entertainment	6
+r'n'b	rhymesayers	4
+r'n'b	abstract hip hop	5
+r'n'b	Shania Twain	34
+r'n'b	better than demi lovato	10
+r'n'b	uplifting trance	10
+r'n'b	Greyson Chance	11
+r'n'b	big time rush	12
+r'n'b	Retro	33
+r'n'b	danni carlos	6
+r'n'b	Avant-Garde	28
+r'n'b	southern rap	125
+r'n'b	Post-Metal	11
+r'n'b	Caipira	4
+r'n'b	Faith Hill	6
+r'n'b	swing	108
+r'n'b	post-anal experience	10
+r'n'b	math rock	31
+r'n'b	hardcore techno	4
+r'n'b	aline barros	4
+r'n'b	ethereal	25
+r'n'b	choir	11
+r'n'b	real recognize real and this nigga the realest	6
+r'n'b	minimal	60
+r'n'b	french montana	10
+r'n'b	modern metal	7
+r'n'b	movie score composers	5
+r'n'b	xote	8
+r'n'b	ost	27
+r'n'b	Synth-Rock	8
+r'n'b	lebanese	7
+r'n'b	reggae brasileiro	6
+r'n'b	power pop	28
+r'n'b	the wanted	86
+r'n'b	bachata	5
+r'n'b	finnish	110
+r'n'b	Hard Bop	5
+r'n'b	Reggaeton	136
+r'n'b	poetry	27
+r'n'b	chill out	8
+r'n'b	angie miller	4
+r'n'b	boyfriend	7
+r'n'b	Pagode	21
+r'n'b	Pop-punk	14
+r'n'b	reality tv	4
+r'n'b	miami	13
+r'n'b	mysterious	59
+r'n'b	Supergroup	6
+r'n'b	underground hip hop	6
+r'n'b	Hardtrance	4
+r'n'b	Smooth Jazz	44
+r'n'b	camila	5
+r'n'b	easy listening	120
+r'n'b	scream and shout	4
+r'n'b	doo-wop	5
+r'n'b	dance punk	6
+r'n'b	All	63
+r'n'b	Nederpop	6
+r'n'b	alternative rnb	33
+r'n'b	groovy	9
+r'n'b	spotify	10
+r'n'b	rock n roll	32
+r'n'b	ex-yu	6
+r'n'b	israeli	17
+r'n'b	idol	12
+r'n'b	gypsy punk	4
+r'n'b	tejano	5
+r'n'b	true neo-satanic pop	15
+r'n'b	Czech	18
+r'n'b	andrea bocelli	5
+r'n'b	yg family	37
+r'n'b	electropunk	5
+r'n'b	jazz fusion	13
+r'n'b	avioes	6
+r'n'b	Electroclash	57
+r'n'b	all things annoying in the world put together into one stupid bitch	17
+r'n'b	soul female vocalists	7
+r'n'b	solo piano	4
+r'n'b	Manchester	4
+r'n'b	german reggae	8
+r'n'b	Romanian	55
+r'n'b	Broadway	103
+r'n'b	idol group	7
+r'n'b	Smooth-RnB	6
+r'n'b	Classic Blues	5
+r'n'b	brazilian country	24
+r'n'b	Wicked	15
+r'n'b	moshcore	4
+r'n'b	vocal jazz	64
+r'n'b	nu-jazz	17
+r'n'b	folktronica	4
+r'n'b	Rock and Roll	32
+r'n'b	Classical	180
+r'n'b	dalmatian	4
+r'n'b	day26	4
+r'n'b	cover	172
+r'n'b	modern classical	6
+r'n'b	Forro	23
+r'n'b	serbian	14
+r'n'b	darkwave	32
+r'n'b	rap francais	8
+r'n'b	big bang	20
+r'n'b	los angeles	10
+r'n'b	progressive death metal	11
+r'n'b	One Tree Hill	12
+r'n'b	totally awesome	5
+r'n'b	Lady Gaga	11
+r'n'b	David Archuleta	13
+r'n'b	cardio-wave	7
+r'n'b	drill	7
+r'n'b	Romantica	17
+r'n'b	alternative metal	94
+r'n'b	Flamenco	19
+r'n'b	BTOB	8
+r'n'b	Pokemon	5
+r'n'b	indie pop	515
+r'n'b	alternative pop	29
+r'n'b	The X Factor	12
+r'n'b	hardcore punk	17
+r'n'b	80s	495
+r'n'b	Marcelo Camelo DEUS	16
+r'n'b	dEUS	4
+r'n'b	United Kingdom	28
+r'n'b	rock nacional	5
+r'n'b	sofrencia	5
+r'n'b	brazilian	231
+r'n'b	Stoner Rock	27
+r'n'b	sexy	231
+r'n'b	chanson	61
+r'n'b	Brega	14
+r'n'b	Grime	255
+r'n'b	black music	4
+r'n'b	chicago	37
+r'n'b	Philly	5
+r'n'b	eletrobrega	37
+r'n'b	westlife	22
+r'n'b	dj	54
+r'n'b	contemporary classical	54
+r'n'b	Israel	9
+r'n'b	secret	5
+r'n'b	so very british	6
+r'n'b	City And Colour	10
+r'n'b	girls aloud	98
+r'n'b	prince	4
+r'n'b	industrial rock	25
+r'n'b	Gothic	163
+r'n'b	Soundtracks	48
+r'n'b	Brostep	11
+r'n'b	belarus	9
+r'n'b	taio cruz	42
+r'n'b	uk hiphop	5
+r'n'b	electronic	582
+r'n'b	rnb	574
+r'n'b	australia	163
+r'n'b	glitch-hop	13
+r'n'b	guys I would fuck	5
+r'n'b	neurofunk	7
+r'n'b	spanish	327
+r'n'b	musica brasileira	9
+r'n'b	New Orleans	16
+r'n'b	8-bit	49
+r'n'b	easy-listening	213
+r'n'b	cheryl cole	113
+r'n'b	legend	340
+r'n'b	horror punk	9
+r'n'b	Fifth Harmony	122
+r'n'b	groove	6
+r'n'b	love at first listen	4
+r'n'b	piano	310
+r'n'b	Gangsta Rap	69
+r'n'b	Kuduro	4
+r'n'b	solo	4
+r'n'b	Glee Cast	149
+r'n'b	cube entertainment	15
+r'n'b	Ballad	23
+r'n'b	DC	12
+r'n'b	UK	50
+r'n'b	Rock Argentino	7
+r'n'b	Officially Shit	7
+r'n'b	kircore	4
+r'n'b	b2st	14
+r'n'b	vocal trance	72
+r'n'b	pittsburgh	14
+r'n'b	lesser known yet streamable artists	6
+r'n'b	USA	58
+r'n'b	j-pop	57
+r'n'b	Filthstep	5
+r'n'b	drag	11
+r'n'b	Neo-Soul	142
+r'n'b	spain	24
+r'n'b	Nu Metal	192
+r'n'b	RAC	4
+r'n'b	swedish	427
+r'n'b	contemporary christian	17
+r'n'b	chile	15
+r'n'b	rhythm and blues	80
+r'n'b	icarly	12
+r'n'b	Portugal	11
+r'n'b	youtube	62
+r'n'b	Gabber	7
+r'n'b	dance-punk	12
+r'n'b	contemporary rnb	7
+r'n'b	idm	43
+r'n'b	musicals	43
+r'n'b	My Country	8
+r'n'b	afrobeat	4
+r'n'b	folk metal	17
+r'n'b	JoJo	62
+r'n'b	glam rock	179
+r'n'b	2NE1	11
+r'n'b	producer	4
+r'n'b	praise and worship	9
+r'n'b	smooth	23
+r'n'b	Jesse McCartney	21
+r'n'b	gay pop	26
+r'n'b	polish idol	15
+r'n'b	Austin Mahone	18
+r'n'b	german hiphop	5
+r'n'b	vaporwave	5
+r'n'b	ethno	4
+r'n'b	Turkish Pop	12
+r'n'b	modern jazz	4
+r'n'b	Garage Rock	144
+r'n'b	memphis	4
+r'n'b	Oi	6
+r'n'b	electro house	193
+r'n'b	joelma e chimbinha	6
+r'n'b	nickelodeon	242
+r'n'b	meek mill	5
+r'n'b	Stones throw	27
+r'n'b	doujin	5
+r'n'b	francais	22
+r'n'b	portuguese	14
+r'n'b	Electronic Pop	5
+r'n'b	Blackened Death Metal	6
+r'n'b	mulheres no sertanejo	12
+r'n'b	70s	185
+r'n'b	Dirty South	153
+r'n'b	guitar	70
+r'n'b	folk pop	9
+r'n'b	4minute	16
+r'n'b	Rihanna	9
+r'n'b	gay	50
+r'n'b	Belarusian	10
+r'n'b	Rap Nacional	9
+r'n'b	The Pussycat Dolls	4
+r'n'b	hannah montana	12
+r'n'b	shoegaze	88
+r'n'b	jumpstyle	4
+r'n'b	the voice	89
+r'n'b	Asian	14
+r'n'b	trumpet	18
+r'n'b	rebeldes	4
+r'n'b	progressive brutal death metal	12
+r'n'b	guys i would sleep with	8
+r'n'b	cuban	5
+r'n'b	Kim Waters	5
+r'n'b	latin	381
+r'n'b	new york	37
+r'n'b	Lo-Fi	103
+r'n'b	synthpop	342
+r'n'b	black metal	200
+r'n'b	hilary duff	77
+r'n'b	modern country	83
+r'n'b	stupid cunt	7
+r'n'b	deathcore	31
+r'n'b	Queen	21
+r'n'b	industrial jungle pussy punk	7
+r'n'b	ebm	11
+r'n'b	roots	24
+r'n'b	polish hip-hop	17
+r'n'b	bastard pop	4
+r'n'b	strings	4
+r'n'b	Awesome	24
+r'n'b	underground rap	114
+r'n'b	shinee	20
+r'n'b	melodic metalcore	9
+r'n'b	english	23
+r'n'b	Axe	50
+r'n'b	welsh	4
+r'n'b	Gothic Rock	134
+r'n'b	experimental	312
+r'n'b	Love	159
+r'n'b	Serebro	8
+r'n'b	French rock	4
+r'n'b	Deutschrap	13
+r'n'b	garage	9
+r'n'b	50s	8
+r'n'b	Provocative	8
+r'n'b	samba	58
+r'n'b	complextro	5
+r'n'b	russian hip-hop	33
+r'n'b	vocal	30
+r'n'b	brazilian rock	105
+r'n'b	mash-up	7
+r'n'b	DIsco House	14
+r'n'b	sanremo 2009	6
+r'n'b	jazz guitar	5
+r'n'b	italiano	7
+r'n'b	Carrie Underwood	88
+r'n'b	atmospheric	12
+r'n'b	operatic pop	5
+r'n'b	under 2000 listeners	66
+r'n'b	cute	58
+r'n'b	Gothic Metal	64
+r'n'b	norwegian	123
+r'n'b	composer	89
+r'n'b	cello	4
+r'n'b	ofwgkta	105
+r'n'b	mariachi	4
+r'n'b	Progressive metal	45
+r'n'b	jewish	5
+r'n'b	reik	7
+r'n'b	catchy	56
+r'n'b	Rent	22
+r'n'b	motown	50
+r'n'b	noise rock	12
+r'n'b	americana	24
+r'n'b	trent reznor	5
+r'n'b	clarinet	6
+r'n'b	northern soul	5
+r'n'b	hungarian	9
+r'n'b	polskie	29
+r'n'b	K-RAP	6
+r'n'b	Chris Brown	124
+r'n'b	minimalism	8
+r'n'b	touhou	5
+r'n'b	russian rap	47
+r'n'b	jazz vocal	23
+r'n'b	Indian	6
+r'n'b	rock opera	4
+r'n'b	punk	295
+r'n'b	pokecore	5
+r'n'b	female	350
+r'n'b	Miranda Lambert	11
+r'n'b	gerald levert	5
+r'n'b	Brooklyn	4
+r'n'b	cafe del mar	4
+r'n'b	Eurovision	145
+r'n'b	choral	5
+r'n'b	neoclassical	12
+r'n'b	Bahia	5
+r'n'b	urban pop	10
+r'n'b	new country	9
+r'n'b	Eurovision Song Contest	34
+r'n'b	jrock	19
+r'n'b	gospel brasil	9
+r'n'b	dub	124
+r'n'b	dancehall	167
+r'n'b	dupla	9
+r'n'b	american	387
+r'n'b	canada	73
+r'n'b	mf doom	4
+r'n'b	eletronic	6
+r'n'b	Mandy Moore	6
+r'n'b	melodifestivalen	20
+r'n'b	slovak	4
+r'n'b	Jay Park	5
+r'n'b	myname	6
+r'n'b	latvian	8
+r'n'b	nouvelle star	4
+r'n'b	celtic	45
+r'n'b	pagode sim e dai	6
+r'n'b	experimental rap	4
+r'n'b	ska punk	18
+r'n'b	psychill	4
+r'n'b	fun	13
+r'n'b	Spice Girls	7
+r'n'b	chill	50
+r'n'b	Nederlandstalig	7
+r'n'b	france	25
+r'n'b	80's	4
+r'n'b	gorestep	5
+r'n'b	eurobeat	15
+r'n'b	2pm	11
+r'n'b	anal pop	14
+r'n'b	Bob Marley	15
+r'n'b	jazz piano	9
+r'n'b	desi	17
+r'n'b	russian alternative	28
+r'n'b	space rock	4
+r'n'b	Syf	7
+r'n'b	cantautor	7
+r'n'b	post-dubstep	15
+r'n'b	Ukrainian	75
+r'n'b	ultimate	13
+r'n'b	hollywood undead	4
+r'n'b	Jerk	4
+r'n'b	Ukraine	38
+r'n'b	zayn	48
+r'n'b	X factor	304
+r'n'b	piano rock	83
+r'n'b	Fusion	30
+r'n'b	goa	11
+r'n'b	russian reggae	6
+r'n'b	Drum n Bass	54
+r'n'b	Jiggy	5
+r'n'b	romania	5
+r'n'b	ye-ye	4
+r'n'b	idols	10
+r'n'b	ethnic	9
+r'n'b	trey songz	33
+r'n'b	electro-indie-pop	10
+r'n'b	do muido coleguinha	4
+r'n'b	better than radiohead	6
+r'n'b	minimal techno	11
+r'n'b	breakbeat	29
+r'n'b	alternative rap	48
+r'n'b	vixx	12
+r'n'b	doo wop indie	11
+r'n'b	philly soul	4
+r'n'b	Exaltasamba	10
+r'n'b	Dreamy	7
+r'n'b	netherlands	5
+r'n'b	bosnian pop	4
+r'n'b	world	50
+r'n'b	brazilian music	19
+r'n'b	hardcore rap	6
+r'n'b	noise pop	17
+r'n'b	Big Band	14
+r'n'b	chris mann music	5
+r'n'b	female vocalists	580
+r'n'b	country	364
+r'n'b	Jason Aldean	4
+r'n'b	electro	372
+r'n'b	Nelly	25
+r'n'b	Mariah Carey	208
+r'n'b	argentina	19
+r'n'b	funk	417
+r'n'b	folk-rock	17
+r'n'b	Brutal Death Metal	43
+r'n'b	bulgarian	17
+r'n'b	tropicalia	24
+r'n'b	thrash metal	52
+r'n'b	electropop	425
+r'n'b	chiptune	7
+r'n'b	trancecore	23
+r'n'b	relaxing	6
+r'n'b	contemporary jazz	12
+r'n'b	Kanye West	160
+r'n'b	goregrind	5
+r'n'b	death metal	69
+r'n'b	Kelly Clarkson	254
+r'n'b	east coast rap	99
+r'n'b	icelandic	140
+r'n'b	swiss	27
+r'n'b	2015	4
+r'n'b	heavy	4
+r'n'b	tech house	21
+r'n'b	bucetacore	6
+r'n'b	art rock	11
+r'n'b	Bridgit Mendler	4
+r'n'b	ukrainian rock	13
+r'n'b	cloud rap	14
+r'n'b	Timbaland	52
+r'n'b	jorge	4
+r'n'b	Tribute	5
+r'n'b	electro-pop	5
+r'n'b	indie rock	462
+r'n'b	girl group	12
+r'n'b	Houston	9
+r'n'b	brasil	163
+r'n'b	old school	9
+r'n'b	fofolk	10
+r'n'b	vkontakte	4
+r'n'b	christian pop	11
+r'n'b	acoustic	519
+r'n'b	praise	5
+r'n'b	lady antebellum	55
+r'n'b	soja	4
+r'n'b	depressive	4
+r'n'b	duet	29
+r'n'b	Paramore	13
+r'n'b	DJENT	6
+r'n'b	Ludacris	6
+r'n'b	funky-groove	12
+r'n'b	Super junior	16
+r'n'b	deep house	39
+r'n'b	actor	6
+r'n'b	belgian	54
+r'n'b	jay-z	101
+r'n'b	christian rock	83
+r'n'b	American Idol 12	4
+r'n'b	beardcore	5
+r'n'b	girlband	44
+r'n'b	adoracao	7
+r'n'b	hardcore	163
+r'n'b	mix	4
+r'n'b	T-ara	4
+r'n'b	italian	95
+r'n'b	esteban	7
+r'n'b	band	6
+r'n'b	mistagged artist	70
+r'n'b	doctor who	6
+r'n'b	fidget house	5
+r'n'b	country rock	19
+r'n'b	reggae	250
+r'n'b	carnaval	5
+r'n'b	glo-fi	7
+r'n'b	SORRISO MAROTO	4
+r'n'b	dmx	5
+r'n'b	hair metal	65
+r'n'b	indie-pop	6
+r'n'b	r and b	30
+r'n'b	myspace	4
+r'n'b	sertanejo	74
+r'n'b	doom metal	31
+r'n'b	jamendo	11
+r'n'b	Mellow	57
+r'n'b	grindcore	16
+r'n'b	björk	4
+r'n'b	melancholic	18
+r'n'b	tatu	4
+r'n'b	Persian	4
+r'n'b	inna	42
+r'n'b	male	40
+r'n'b	tamia	9
+r'n'b	Soundtrack	367
+r'n'b	World Music	18
+r'n'b	classical guitar	7
+r'n'b	Bosnian	9
+r'n'b	Grunge	155
+r'n'b	math metal	4
+r'n'b	liquid funk	17
+r'n'b	Cleveland	4
+r'n'b	sanremo	8
+r'n'b	french hip-hop	5
+r'n'b	indie	574
+r'n'b	real screamo	4
+r'n'b	freestyle	7
+r'n'b	keenlyb	4
+r'n'b	remix	10
+r'n'b	australian idol	4
+r'n'b	violently gay	9
+r'n'b	skins	4
+r'n'b	poezja spiewana	12
+r'n'b	djs	12
+r'n'b	Judas Priest	12
+r'n'b	italiana	13
+r'n'b	baroque	20
+r'n'b	female vocal	19
+r'n'b	dance	575
+r'n'b	synth pop	103
+r'n'b	russian rock	47
+r'n'b	infinite	14
+r'n'b	Progressive	41
+r'n'b	Contemporary Gospel	5
+r'n'b	blues rock	81
+r'n'b	anna kendrick	6
+r'n'b	bulgarian groove metal	4
+r'n'b	oldies	109
+r'n'b	Trash	7
+r'n'b	lara fabian	13
+r'n'b	chinese	20
+r'n'b	humor	15
+r'n'b	Rock en Espanol	14
+r'n'b	Gypsy	29
+r'n'b	Ginuwine	4
+r'n'b	irish	283
+r'n'b	Indietronic	5
+r'n'b	tv show	6
+r'n'b	Girl Groups	184
+r'n'b	turbofolk	5
+r'n'b	Susan Boyle	12
+r'n'b	latino	22
+r'n'b	taiwan	5
+r'n'b	african	11
+r'n'b	r&b	378
+r'n'b	Love Metal	15
+r'n'b	k-music	4
+r'n'b	Symphonic Black Metal	4
+r'n'b	orchestra	9
+r'n'b	Armenian	4
+r'n'b	funky house	22
+r'n'b	saxophone	14
+r'n'b	dark electro	7
+r'n'b	folk	521
+r'n'b	C-pop	21
+r'n'b	glitch	17
+r'n'b	Neo Soul	59
+r'n'b	rock brasileiro	8
+r'n'b	russian metal	4
+r'n'b	Power metal	49
+r'n'b	turkish	26
+r'n'b	sony music	5
+r'n'b	Mario	9
+r'n'b	Rasta	6
+r'n'b	happy hardcore	16
+r'n'b	austrian	23
+r'n'b	beautiful	11
+r'n'b	Serbia	5
+r'n'b	melodic rock	6
+r'n'b	Nick Jonas	62
+r'n'b	Omarion	7
+r'n'b	tim berg	5
+r'n'b	New Weird America	4
+r'n'b	christmas	10
+r'n'b	indietronica	74
+r'n'b	surf rock	15
+r'n'b	georgian	6
+r'n'b	trip-hop	389
+r'n'b	a cappella	31
+r'n'b	the voice uk	4
+r'n'b	atlanta	55
+r'n'b	keyshia cole	28
+r'n'b	dream pop	158
+r'n'b	metalcore	75
+r'n'b	glitch hop	4
+r'n'b	Experimental Rock	6
+r'n'b	tyga	19
+r'n'b	west coast	70
+r'n'b	electro hop	43
+r'n'b	polish rock	34
+r'n'b	slowcore	5
+r'n'b	g	4
+r'n'b	avant	4
+r'n'b	fado	10
+r'n'b	hipster rap	10
+r'n'b	depressive rock	5
+r'n'b	rockabilly	28
+r'n'b	Southern metal	9
+r'n'b	lenine	6
+r'n'b	pederastcore	31
+r'n'b	x factor 2010	12
+r'n'b	Disco	319
+r'n'b	JPop	48
+r'n'b	screamo	142
+r'n'b	Spanish Rock	12
+r'n'b	Nu-metal	49
+r'n'b	art pop	48
+r'n'b	post rock	11
+r'n'b	alejandro sanz	9
+r'n'b	female artists	5
+r'n'b	violin	22
+r'n'b	next level beats	39
+r'n'b	hot	35
+r'n'b	new jack swing	13
+r'n'b	Colombia	6
+r'n'b	mathcore	9
+r'n'b	trap rap	8
+r'n'b	Jazz Hop	24
+r'n'b	folk rock	74
+r'n'b	rapcore	70
+r'n'b	instrumental	226
+r'n'b	melodic trance	10
+r'n'b	wisin y yandel	4
+r'n'b	Club Music	4
+r'n'b	duets	6
+r'n'b	comedy	58
+r'n'b	swag	41
+r'n'b	jazz	437
+r'n'b	American Idol	257
+r'n'b	salsa	9
+r'n'b	busty	4
+r'n'b	puerto rico	16
+r'n'b	k-rock	12
+r'n'b	alternative rock	526
+r'n'b	witch house	11
+r'n'b	rock	579
+r'n'b	electrobrega	37
+r'n'b	Melodic Death Metal	75
+r'n'b	sax	8
+r'n'b	visual kei	25
+r'n'b	Natiruts	4
+r'n'b	baile funk	18
+r'n'b	moderen country	16
+r'n'b	glam	149
+r'n'b	lixo	4

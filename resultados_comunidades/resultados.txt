@@ -1,0 +1,10 @@
+									Comunidades				Modularidade 
+leading_eigenvector					3						0.0996423218115
+
+fast_greedy							4						0.103259731891
+
+multilevel							5						0.110623530586
+
+walktrap							34						0.0801407871405
+
+spinglass							20						0.11118019681

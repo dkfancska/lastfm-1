@@ -1,0 +1,3 @@
+
+nx.attribute_assortativity_coefficient = -0.0003055076798578528
+nx.degree_pearson_correlation_coefficient = - 0.301060256426299098
